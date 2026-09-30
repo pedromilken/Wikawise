@@ -20,10 +20,11 @@ ok(new Set(ids).size === ids.length, "ids de unidade únicos");
 ok(DATA.levels.every(L => L.units.every(u => u.w.every(z => E.WORD[z]))), "toda palavra de unidade existe");
 /* itens */
 const caps = { voice: true, mic: true, writer: true };
-const all = [...ids.map(id => E.itemsFor(id, caps)), [1, 2].map(l => E.itemsFor("g" + l, caps)), Array.from({ length: 13 }, (_, i) => E.itemsFor("c" + String(i + 1).padStart(2, "0"), caps))].flat(2);
+const all = [...ids.map(id => E.itemsFor(id, caps)), [1, 2, 3, 4, 5, 6].map(l => E.itemsFor("g" + l, caps)), Array.from({ length: 14 }, (_, i) => E.itemsFor("c" + String(i + 1).padStart(2, "0"), caps))].flat(2);
 ok(new Set(all.map(i => i.id)).size === all.length, "ids de item únicos (" + all.length + ")");
 ok(all.every(i => i.d >= 1 && i.d <= 3 && i.c > 0 && i.c < 1 && i.dim && i.lv), "itens têm d, c, dim e lv");
-ok(!all.some(i => i.type === "write" && i.lv < 2), "sem escrita à mão no nível 1");
+ok(!all.some(i => i.type === "write" && i.lv < 2 && i.skill[0] === "h"), "sem escrita à mão no vocabulário do nível 1");
+ok(all.filter(i => i.skill[0] === "c" && i.type === "write").every(i => i.wobj && i.wobj.p), "escrita das pautas com pinyin");
 for (const it of all.filter(i => !["order", "speak"].includes(i.type))) {
   const o = E.options(it, "pt", 1), k = E.answerKey(it);
   if (!o.some(x => x.key === k)) { ok(false, "resposta fora das opções: " + it.id); break; }

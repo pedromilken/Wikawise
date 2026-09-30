@@ -14,7 +14,7 @@ Treino adaptativo de **mandarim para o HSK 3.0**, com *knowledge tracing*, cinco
 | Gramática oficial (语法大纲) | mesmo programa, texto original | níveis 1 a 6 |
 | Pontos de gramática explicados | autoral, com exemplo, pinyin, tradução e aula do curso que cobre | 17 no nível 1, 17 no nível 2 |
 | Exercícios de gramática | autorais + lacunas do curso | 94 lacunas (28 novas + 66 do curso) e 9 frases para montar |
-| Curso M2 (Mandarim Básico, HSK 2) | resumo autoral das 12 aulas, desenvolvidas com base no material do HSK, + extra HSK 2 | teoria, exercícios, 7 diálogos com perguntas, vocabulário |
+| Curso M2 (Mandarim Básico, HSK 2) | resumo autoral das 12 aulas, desenvolvidas com base no material do HSK, das partes escritas, dos exercícios e revisões, das pautas de ideogramas e da aula de músicas e ditados (`tools/fontes/curso_m2.json` e `curso_m2_extras.json`) | 14 lições: teoria, 89 lacunas, 50 frases para montar, 7 diálogos com perguntas, 251 palavras, escrita à mão dos 199 caracteres das pautas; letras de músicas não são reproduzidas |
 | Materiais de apoio | links por nível | programa oficial, Chinese Testing International, áudios, simulados e livros HSK |
 
 As glosas em **português** cobrem todo o vocabulário dos níveis 1 e 2. Nos níveis 3 a 6 aparece a glosa em inglês do CC-CEDICT (marcada com **en**) até você gerar as traduções com `tools/gerar-glosas.js`.
@@ -34,6 +34,19 @@ As glosas em **português** cobrem todo o vocabulário dos níveis 1 e 2. Nos n�
 | Traduzir 译 | significado → palavra; montar a frase a partir do português | |
 
 - **Escrita à mão só onde o exame pede:** nível 1 sem escrita; níveis 2 a 6 com a lista oficial de 书写字 acumulada.
+
+## Gramática
+
+A aba **Gramática** reúne, nível a nível, os pontos explicados (com exemplo, pinyin e tradução), os exercícios (lacunas e frases para montar) e o texto do programa oficial (语法大纲). Os níveis 1 e 2 têm conteúdo autoral; os níveis 3 a 6 são gerados no Qwen Code, parte por parte, a partir do programa oficial:
+
+```powershell
+node tools/preparar-gramatica.js                 # fatia o 语法大纲 dos níveis 3 a 6 em tools/gramatica/ (não chama API)
+qwen                                             # no Qwen Code: "siga tools/TAREFA-GRAMATICA.md para gram-3-01"
+node tools/juntar-gramatica.js                   # confere e junta em tools/fontes/gramatica_pt.json
+python tools/build_data.py; python build.py; node tests.js
+```
+
+O conferidor recusa itens sem `___`, sem 4 opções distintas ou com a resposta fora das opções.
 
 ## Rastreamento e jogo (herdados do DevWise/IAWise)
 

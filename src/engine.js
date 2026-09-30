@@ -74,12 +74,16 @@ const ENGINE = (() => {
     return out;
   }
   const COURSE_LV = n => n >= 9 ? 2 : 1;
+  /* palavra de um item: do vocabulário oficial ou, no curso, uma entrada própria (músicas, ditados, caracteres das pautas) */
+  const wordOf = it => it.wobj || WORD[it.w];
+  const pseudo = (zh, py, pt, lv) => WORD[zh] ? { ...WORD[zh], pt: WORD[zh].pt || pt } : { z: zh, p: py, pt, en: "", c: [], lv };
   function courseItems(n) {
-    const skill = "c" + String(n).padStart(2, "0"), C = DATA.course, lv = COURSE_LV(n), out = [];
+    const skill = "c" + String(n).padStart(2, "0"), C = DATA.course, lv = COURSE_LV(n), out = [], seen = new Set();
     C.gaps.forEach((g, i) => { if (g.a === n) out.push({ id: `${skill}:gap${i}`, skill, lv, type: "gap", dim: "grammar", d: 2, c: .25, g: { s: g.s, o: g.o, a: g.ans, ex: g.ex, full: g.full, py: g.py } }); });
     C.sent.forEach((s, i) => { if (s.a === n) out.push({ id: `${skill}:ord${i}`, skill, lv, type: "order", dim: "translate", d: 3, c: .05, s: { zh: s.zh, pt: s.pt, t: s.toks, py: s.py, alt: s.alt } }); });
     C.read.forEach((r, ri) => { if (r.a === n) r.q.forEach((q, qi) => out.push({ id: `${skill}:rd${ri}.${qi}`, skill, lv, type: "rq", dim: "read", d: 2, c: .25, q, r: ri })); });
-    C.vocab.filter(v => v.a === n).forEach(v => { const w = WORD[v.zh]; if (w) out.push({ id: `${skill}:${v.zh}:r`, skill, lv, type: "read", dim: "read", d: 1, c: .25, w: v.zh, cw: v }); });
+    C.vocab.filter(v => v.a === n).forEach(v => { if (seen.has(v.zh)) return; seen.add(v.zh); const wobj = pseudo(v.zh, v.py, v.pt, lv); out.push({ id: `${skill}:${v.zh}:r`, skill, lv, type: "read", dim: "read", d: 1, c: .25, w: v.zh, wobj }); });
+    ((C.write || {})[n] || []).forEach(({ ch, py }) => { const wobj = WORD[ch] || { z: ch, p: py, pt: (C.vocab.find(v => v.zh === ch) || {}).pt || "", en: "", c: [], lv }; out.push({ id: `${skill}:w:${ch}`, skill, lv, type: "write", dim: "write", d: 3, c: .1, w: ch, wobj, ch }); });
     return out;
   }
   function itemsFor(skill, caps) {
@@ -90,7 +94,7 @@ const ENGINE = (() => {
 
   /* opções de múltipla escolha, estáveis por item + tentativa */
   function options(it, lang, seed) {
-    const r = rng(it.id + "|" + seed), w = WORD[it.w];
+    const r = rng(it.id + "|" + seed), w = wordOf(it);
     if (it.type === "read") { const ds = distractors(w, 3, lang, r); return shuffle([w, ...ds], r).map(x => ({ key: x.z, label: gloss(x, lang) })); }
     if (it.type === "translate" || it.type === "listen") { const ds = distractors(w, 3, lang, r); return shuffle([w, ...ds], r).map(x => ({ key: x.z, label: x.z, py: x.p })); }
     if (it.type === "pinyin") {
@@ -104,7 +108,7 @@ const ENGINE = (() => {
     return [];
   }
   function answerKey(it) {
-    if (it.type === "pinyin") return WORD[it.w].p;
+    if (it.type === "pinyin") return wordOf(it).p;
     if (it.type === "write") return it.ch;
     if (it.type === "gap") return it.g.a;
     if (it.type === "rq") return it.q.ans;
@@ -151,5 +155,5 @@ const ENGINE = (() => {
     return L0;
   }
 
-  return { WORD, UNITS, DIMS, UNLOCK, L0, WRITE_UPTO, gloss, glossIsFallback, pinyinVariants, itemsFor, unitItems, grammarItems, courseItems, options, answerKey, pick, levelOpen, unitOpen, skillOpen, prior, shuffle, rng, COURSE_LV };
+  return { wordOf, WORD, UNITS, DIMS, UNLOCK, L0, WRITE_UPTO, gloss, glossIsFallback, pinyinVariants, itemsFor, unitItems, grammarItems, courseItems, options, answerKey, pick, levelOpen, unitOpen, skillOpen, prior, shuffle, rng, COURSE_LV };
 })();

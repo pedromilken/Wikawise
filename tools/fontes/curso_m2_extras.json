@@ -1,0 +1,783 @@
+{
+ "fonte": "Partes escritas, anotações, exercícios e revisões das aulas, pautas de ideogramas e aula de músicas e ditados do Módulo 2 (Mandarim Básico, HSK 2). Letras de músicas não são reproduzidas.",
+ "lessons": [
+  {
+   "n": 14,
+   "t": "Músicas e ditados"
+  }
+ ],
+ "theory": {
+  "1": [
+   [
+    "这位 / 那位 / 哪位",
+    "位: classificador respeitoso para pessoas",
+    "这位老师是中国人。",
+    "Este professor é chinês."
+   ],
+   [
+    "Cidade + 市 / Cidade + 人",
+    "市 = município; 人 = quem é de lá",
+    "我是北京人，住在北京市。",
+    "Sou de Pequim e moro no município de Pequim."
+   ],
+   [
+    "Lugar + 有什么？",
+    "o que tem em um lugar",
+    "北京有故宫和长城。",
+    "Pequim tem a Cidade Proibida e a Grande Muralha."
+   ]
+  ],
+  "2": [
+   [
+    "Tipo + 店",
+    "loja de um tipo de coisa",
+    "我去手机店买手机。",
+    "Vou à loja de celulares comprar um celular."
+   ],
+   [
+    "… + 场",
+    "lugar amplo: 机场, 球场, 广场, 商场",
+    "我们在机场见。",
+    "Nos vemos no aeroporto."
+   ]
+  ],
+  "3": [
+   [
+    "走路 / 开车",
+    "andar a pé / dirigir: sem 坐 nem 骑",
+    "我开车去公司工作。",
+    "Vou de carro trabalhar na empresa."
+   ],
+   [
+    "回 + lugar + 去/来",
+    "voltar para lá / para cá",
+    "她坐飞机回巴西去。",
+    "Ela volta de avião para o Brasil."
+   ]
+  ],
+  "9": [
+   [
+    "Verbo de sentimento + 了",
+    "passou a sentir ou querer",
+    "我喜欢看书了。",
+    "Passei a gostar de ler."
+   ],
+   [
+    "有一天 + 会 + verbo",
+    "um dia (no futuro) vai…",
+    "有一天我会去中国。",
+    "Um dia eu vou à China."
+   ]
+  ],
+  "10": [
+   [
+    "Frase + 了 (agora)",
+    "compare a frase sem e com 了",
+    "我没有钱了。",
+    "Agora estou sem dinheiro."
+   ]
+  ],
+  "14": [
+   [
+    "Verbo + 得 + adjetivo",
+    "como a ação é feita",
+    "他跑得很快。",
+    "Ele corre muito rápido."
+   ],
+   [
+    "真 + adjetivo!",
+    "exclamação: que…!",
+    "真奇怪！",
+    "Que estranho!"
+   ],
+   [
+    "一 + 只 + animal",
+    "只: classificador de animais",
+    "我家有两只猫。",
+    "Na minha casa há dois gatos."
+   ],
+   [
+    "好像 …",
+    "parece que; como se",
+    "你好像很累。",
+    "Você parece muito cansado."
+   ]
+  ]
+ },
+ "notes": {
+  "14": "As músicas treinam o ritmo e o vocabulário; aqui ficam as palavras, as estruturas e os ditados, sem as letras."
+ },
+ "gaps": [
+  [
+   5,
+   "这里有三___票。",
+   [
+    "张",
+    "个",
+    "本",
+    "双"
+   ],
+   "张",
+   "Bilhetes são planos: classificador 张."
+  ],
+  [
+   4,
+   "我们明天___！",
+   [
+    "见",
+    "看",
+    "去",
+    "玩"
+   ],
+   "见",
+   "Tempo + 见 = nos vemos (quando)."
+  ],
+  [
+   4,
+   "我们在饭店___！",
+   [
+    "见",
+    "看见",
+    "买",
+    "卖"
+   ],
+   "见",
+   "Lugar + 见 = nos vemos em."
+  ],
+  [
+   8,
+   "明天是___，所以我们没有课。",
+   [
+    "节日",
+    "课",
+    "空",
+    "忙"
+   ],
+   "节日",
+   "因为/所以: feriado é o motivo de não ter aula."
+  ],
+  [
+   8,
+   "明天是节日，所以我们没有___。",
+   [
+    "课",
+    "节日",
+    "空",
+    "忙"
+   ],
+   "课",
+   "没有课 = não ter aula."
+  ],
+  [
+   8,
+   "朋友，你___可以和我一起去中国饭店？",
+   [
+    "什么时候",
+    "为什么",
+    "上个",
+    "节日"
+   ],
+   "什么时候",
+   "Pergunta sobre quando: 什么时候."
+  ],
+  [
+   8,
+   "哥哥___月不需要工作。",
+   [
+    "上个",
+    "什么时候",
+    "空",
+    "课"
+   ],
+   "上个",
+   "上个月 = mês passado."
+  ],
+  [
+   8,
+   "大家都不知道___那个电视机太贵了。",
+   [
+    "为什么",
+    "什么时候",
+    "上个",
+    "忙"
+   ],
+   "为什么",
+   "Motivo: 为什么."
+  ],
+  [
+   8,
+   "对不起，我和她每天都很___。",
+   [
+    "忙",
+    "空",
+    "课",
+    "节日"
+   ],
+   "忙",
+   "很忙 = muito ocupado."
+  ],
+  [
+   8,
+   "8日和10日我有___，你呢？",
+   [
+    "空",
+    "忙",
+    "课",
+    "节日"
+   ],
+   "空",
+   "有空 = ter tempo livre."
+  ],
+  [
+   11,
+   "昨天___了大雨。",
+   [
+    "下",
+    "上",
+    "在",
+    "有"
+   ],
+   "下",
+   "下雨 = chover (cair chuva)."
+  ],
+  [
+   11,
+   "今天天气很冷，下___了。",
+   [
+    "雪",
+    "雨",
+    "气",
+    "天"
+   ],
+   "雪",
+   "Frio e caindo: 下雪 = nevar."
+  ],
+  [
+   11,
+   "___怎么样？",
+   [
+    "天气",
+    "厕所",
+    "离",
+    "远"
+   ],
+   "天气",
+   "天气怎么样？= como está o tempo?"
+  ],
+  [
+   11,
+   "___在那个商店前面。",
+   [
+    "厕所",
+    "天气",
+    "离",
+    "远"
+   ],
+   "厕所",
+   "Onde fica: 厕所在…"
+  ],
+  [
+   10,
+   "你___我的猫了吗？",
+   [
+    "看见",
+    "看",
+    "见面",
+    "听见"
+   ],
+   "看见",
+   "Ver (resultado): 看见."
+  ],
+  [
+   11,
+   "你儿子几岁___？",
+   [
+    "了",
+    "的",
+    "过",
+    "着"
+   ],
+   "了",
+   "几岁了？= quantos anos (já) tem?"
+  ],
+  [
+   11,
+   "巴西___中国太远了。",
+   [
+    "离",
+    "从",
+    "在",
+    "到"
+   ],
+   "离",
+   "L1 离 L2 + distância."
+  ],
+  [
+   11,
+   "巴西离中国太___了。",
+   [
+    "远",
+    "近",
+    "冷",
+    "热"
+   ],
+   "远",
+   "Muito longe: 太远了."
+  ],
+  [
+   9,
+   "我学汉语五个月___。",
+   [
+    "了",
+    "过",
+    "着",
+    "的"
+   ],
+   "了",
+   "Duração até agora: … 五个月了."
+  ],
+  [
+   9,
+   "我吃___苹果。",
+   [
+    "了",
+    "过",
+    "着",
+    "得"
+   ],
+   "了",
+   "Ação concluída: verbo + 了 + objeto."
+  ],
+  [
+   9,
+   "有一天我___去中国。",
+   [
+    "会",
+    "了",
+    "过",
+    "在"
+   ],
+   "会",
+   "Futuro: 会 + verbo."
+  ],
+  [
+   14,
+   "他跑___很快。",
+   [
+    "得",
+    "的",
+    "地",
+    "了"
+   ],
+   "得",
+   "Verbo + 得 + adjetivo."
+  ],
+  [
+   14,
+   "两___老虎",
+   [
+    "只",
+    "个",
+    "张",
+    "本"
+   ],
+   "只",
+   "Classificador de animais: 只."
+  ]
+ ],
+ "sent": [
+  [
+   2,
+   "我想和朋友一起吃中国菜。",
+   "Quero comer comida chinesa com meu amigo."
+  ],
+  [
+   2,
+   "我喜欢和爸爸妈妈一起听音乐。",
+   "Gosto de ouvir música com meu pai e minha mãe."
+  ],
+  [
+   3,
+   "林先生，请坐。",
+   "Senhor Lin, sente-se, por favor."
+  ],
+  [
+   3,
+   "你怎么知道我的哥哥没有狗？",
+   "Como você sabe que meu irmão não tem cachorro?"
+  ],
+  [
+   3,
+   "我喜欢和女朋友一起骑自行车。",
+   "Gosto de andar de bicicleta com a minha namorada."
+  ],
+  [
+   3,
+   "我开车去公司工作。",
+   "Vou de carro trabalhar na empresa."
+  ],
+  [
+   3,
+   "这个汉字怎么读？",
+   "Como se lê este caractere?"
+  ],
+  [
+   3,
+   "我爸爸骑摩托车去工作。",
+   "Meu pai vai trabalhar de moto."
+  ],
+  [
+   3,
+   "我在北京机场。",
+   "Estou no aeroporto de Pequim."
+  ],
+  [
+   3,
+   "我姐姐在火车站。",
+   "Minha irmã está na estação de trem."
+  ],
+  [
+   3,
+   "他们坐公共汽车去学校。",
+   "Eles vão de ônibus para a escola."
+  ],
+  [
+   4,
+   "这个商店卖游戏机吗？",
+   "Esta loja vende videogame?"
+  ],
+  [
+   4,
+   "我很喜欢在商场买东西。",
+   "Gosto muito de comprar coisas no shopping."
+  ],
+  [
+   4,
+   "我儿子喜欢玩手机。",
+   "Meu filho gosta de brincar no celular."
+  ],
+  [
+   4,
+   "我们在巴西的那家中国饭店见。",
+   "Nos vemos naquele restaurante chinês no Brasil."
+  ],
+  [
+   9,
+   "我学汉语五个月了。",
+   "Estudo chinês há cinco meses."
+  ],
+  [
+   9,
+   "有一天我会去中国。",
+   "Um dia eu vou à China."
+  ],
+  [
+   10,
+   "我现在没有钱了。",
+   "Agora estou sem dinheiro."
+  ],
+  [
+   10,
+   "他不运动了。",
+   "Ele não faz mais exercício."
+  ],
+  [
+   11,
+   "明天天气怎么样？",
+   "Como vai estar o tempo amanhã?"
+  ],
+  [
+   11,
+   "我的家离学校不太远。",
+   "Minha casa não é muito longe da escola."
+  ],
+  [
+   11,
+   "虽然很冷，但是这里不下雪。",
+   "Embora esteja frio, aqui não neva."
+  ],
+  [
+   11,
+   "晴天的时候，我喜欢去公园。",
+   "Quando faz sol, gosto de ir ao parque."
+  ],
+  [
+   14,
+   "他跑得很快。",
+   "Ele corre muito rápido."
+  ]
+ ],
+ "vocab": [
+  [
+   1,
+   "位",
+   "wèi",
+   "classificador respeitoso de pessoas"
+  ],
+  [
+   1,
+   "市",
+   "shì",
+   "município, cidade"
+  ],
+  [
+   1,
+   "天安门",
+   "Tiān'ānmén",
+   "Tiananmen"
+  ],
+  [
+   2,
+   "银行",
+   "yínháng",
+   "banco"
+  ],
+  [
+   2,
+   "机场",
+   "jīchǎng",
+   "aeroporto"
+  ],
+  [
+   2,
+   "广场",
+   "guǎngchǎng",
+   "praça"
+  ],
+  [
+   2,
+   "球场",
+   "qiúchǎng",
+   "campo, estádio"
+  ],
+  [
+   2,
+   "房子",
+   "fángzi",
+   "casa, imóvel"
+  ],
+  [
+   2,
+   "手机店",
+   "shǒujīdiàn",
+   "loja de celulares"
+  ],
+  [
+   3,
+   "走路",
+   "zǒulù",
+   "andar a pé"
+  ],
+  [
+   3,
+   "开车",
+   "kāichē",
+   "dirigir"
+  ],
+  [
+   3,
+   "骑马",
+   "qímǎ",
+   "andar a cavalo"
+  ],
+  [
+   3,
+   "公园",
+   "gōngyuán",
+   "parque"
+  ],
+  [
+   3,
+   "酒店",
+   "jiǔdiàn",
+   "hotel"
+  ],
+  [
+   3,
+   "房间",
+   "fángjiān",
+   "quarto"
+  ],
+  [
+   3,
+   "同事",
+   "tóngshì",
+   "colega de trabalho"
+  ],
+  [
+   4,
+   "筷子",
+   "kuàizi",
+   "hashi, pauzinhos"
+  ],
+  [
+   4,
+   "报纸",
+   "bàozhǐ",
+   "jornal"
+  ],
+  [
+   4,
+   "电视机",
+   "diànshìjī",
+   "televisor"
+  ],
+  [
+   4,
+   "家",
+   "jiā",
+   "classificador de lojas e restaurantes"
+  ],
+  [
+   5,
+   "纸",
+   "zhǐ",
+   "papel"
+  ],
+  [
+   5,
+   "票",
+   "piào",
+   "bilhete, ingresso"
+  ],
+  [
+   9,
+   "有一天",
+   "yǒu yì tiān",
+   "um dia (no futuro)"
+  ],
+  [
+   9,
+   "超市",
+   "chāoshì",
+   "supermercado"
+  ],
+  [
+   14,
+   "老虎",
+   "lǎohǔ",
+   "tigre"
+  ],
+  [
+   14,
+   "只",
+   "zhī",
+   "classificador de animais"
+  ],
+  [
+   14,
+   "跑",
+   "pǎo",
+   "correr"
+  ],
+  [
+   14,
+   "耳朵",
+   "ěrduo",
+   "orelha"
+  ],
+  [
+   14,
+   "尾巴",
+   "wěiba",
+   "cauda, rabo"
+  ],
+  [
+   14,
+   "奇怪",
+   "qíguài",
+   "estranho"
+  ],
+  [
+   14,
+   "星星",
+   "xīngxing",
+   "estrela"
+  ],
+  [
+   14,
+   "眼睛",
+   "yǎnjing",
+   "olho"
+  ],
+  [
+   14,
+   "光明",
+   "guāngmíng",
+   "luz, claridade"
+  ],
+  [
+   14,
+   "挂",
+   "guà",
+   "pendurar"
+  ],
+  [
+   14,
+   "好像",
+   "hǎoxiàng",
+   "parecer; como se"
+  ],
+  [
+   14,
+   "甜蜜",
+   "tiánmì",
+   "doce, meigo"
+  ],
+  [
+   14,
+   "笑",
+   "xiào",
+   "sorrir, rir"
+  ],
+  [
+   14,
+   "梦",
+   "mèng",
+   "sonho"
+  ],
+  [
+   14,
+   "熟悉",
+   "shúxī",
+   "familiar, conhecido"
+  ],
+  [
+   14,
+   "三思而后行",
+   "sān sī ér hòu xíng",
+   "pense três vezes antes de agir"
+  ],
+  [
+   14,
+   "不怕慢，就怕停",
+   "bù pà màn, jiù pà tíng",
+   "não tema ir devagar, tema parar"
+  ],
+  [
+   14,
+   "滴水穿石",
+   "dī shuǐ chuān shí",
+   "água mole em pedra dura, tanto bate até que fura"
+  ],
+  [
+   14,
+   "前事不忘，后事之师",
+   "qián shì bú wàng, hòu shì zhī shī",
+   "o passado lembrado ensina o futuro"
+  ]
+ ],
+ "write": {
+  "7": "一天空今明昨星期日月几年生礼物听说蛋糕庆祝",
+  "6": "什么母语的女儿子爸妈从来这那哪个狗猫可爱漂亮帅男先生小姐姓对不起没关系",
+  "10": "看到听的时候打电话上下前后里面",
+  "9": "开始了酒不没有会要走",
+  "2": "银行医院饭店学校大商场公司厕所家在去回和谐一起",
+  "1": "北京上海住在可以能知道哪儿",
+  "8": "因为所以每忙有空什么时候节日考试作业",
+  "5": "张桌子票卡纸贵便宜点儿下恤裤裙双鞋共",
+  "11": "厕所天气冷热下雨雪了",
+  "12": "喂哪位请不好意思帮助百是的",
+  "3": "怎么样公共汽车出租火自行地铁飞机摩托场站坐骑马"
+ }
+}

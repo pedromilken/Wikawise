@@ -42,11 +42,15 @@ const LANG = {
     matVersion: "Atenção: os livros e simulados da série Standard Course seguem o HSK 2.0 (300 palavras no nível 2). O exame atual é o HSK 3.0; use-os para treinar escuta e leitura, não como medida exata de prontidão.",
     matRights: "Os livros da série HSK Standard Course têm direitos da Beijing Language and Culture University Press.",
     coursePDF: "Os PDFs das aulas ficam com o aluno; aqui estão o resumo das estruturas e os exercícios.",
-    lessonOf: "Aula {n}", courseTxt: "Módulo 2 do curso Mandarim Básico (HSK 2), desenvolvido com base no material do HSK: 12 aulas e um extra com o que ainda falta para o HSK 2 no formato 3.0.",
+    lessonOf: "Aula {n}", courseTxt: "Módulo 2 do curso Mandarim Básico (HSK 2), desenvolvido com base no material do HSK: 12 aulas com teoria, exercícios das aulas e das revisões e escrita dos caracteres das pautas, mais dois extras (o que ainda falta para o HSK 2 no formato 3.0; músicas e ditados).",
     officialNote: "Texto do programa oficial de gramática (语法大纲), sem tradução.", coveredIn: "Aula {n} do curso",
     unitWords: "Palavras da unidade", glossFallback: "glosa em inglês (a tradução para o português ainda não foi gerada)",
     noVoice: "Seu navegador não tem voz em chinês; os exercícios de escuta ficam ocultos.", noMic: "Reconhecimento de fala indisponível neste navegador; os exercícios de fala ficam ocultos.",
     capsTitle: "Recursos deste navegador", voiceOk: "Voz em chinês disponível", micOk: "Reconhecimento de fala disponível",
+    extraHsk: "O que ainda falta para o HSK 2", extraMusic: "Vocabulário e estruturas das músicas; ditados chineses",
+    gramTxt: "Os pontos de gramática do programa oficial, nível a nível: explicação com exemplo, exercícios e o texto oficial (语法大纲).",
+    gramCounts: "{p} pontos explicados · {i} exercícios", gramPending: "Só o programa oficial por enquanto (explicações e exercícios a gerar).",
+    gramNote: "Os exercícios de gramática também alimentam o domínio da dimensão Gramática 语法 no relatório. Níveis bloqueados podem ser lidos; os exercícios abrem com o nível.",
     stats: "{w} palavras, {u} unidades, {g} itens de gramática, {c} aulas do curso", back: "Voltar", nextUnit: "Próxima unidade", allDone: "Todas as unidades deste nível estão abertas."
   },
   en: {
@@ -91,11 +95,15 @@ const LANG = {
     matVersion: "Note: the Standard Course books and mock tests follow HSK 2.0 (300 words at level 2). The current exam is HSK 3.0; use them for listening and reading practice, not as an exact readiness measure.",
     matRights: "The HSK Standard Course books are copyrighted by Beijing Language and Culture University Press.",
     coursePDF: "The lesson PDFs stay with the student; here are the structures and exercises.",
-    lessonOf: "Lesson {n}", courseTxt: "Module 2 of the Basic Mandarin (HSK 2) course, built on the HSK material: 12 lessons plus an extra covering what HSK 2 (3.0 format) still requires.",
+    lessonOf: "Lesson {n}", courseTxt: "Module 2 of the Basic Mandarin (HSK 2) course, built on the HSK material: 12 lessons with theory, lesson and review exercises and handwriting of the practice-sheet characters, plus two extras (what HSK 2 in the 3.0 format still requires; songs and sayings).",
     officialNote: "Text of the official grammar syllabus (语法大纲), untranslated.", coveredIn: "Course lesson {n}",
     unitWords: "Unit words", glossFallback: "fallback gloss (translation not generated yet)",
     noVoice: "Your browser has no Chinese voice; listening exercises are hidden.", noMic: "Speech recognition is unavailable in this browser; speaking exercises are hidden.",
     capsTitle: "Browser capabilities", voiceOk: "Chinese voice available", micOk: "Speech recognition available",
+    extraHsk: "What HSK 2 still requires", extraMusic: "Song vocabulary and structures; Chinese sayings",
+    gramTxt: "The official grammar syllabus, level by level: explained points with examples, exercises and the official text (语法大纲).",
+    gramCounts: "{p} explained points · {i} exercises", gramPending: "Official syllabus only for now (explanations and exercises still to be generated).",
+    gramNote: "Grammar exercises also feed the Grammar 语法 dimension in the report. Locked levels can be read; exercises open with the level.",
     stats: "{w} words, {u} units, {g} grammar items, {c} course lessons", back: "Back", nextUnit: "Next unit", allDone: "Every unit in this level is open."
   }
 };

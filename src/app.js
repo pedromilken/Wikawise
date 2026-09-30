@@ -20,7 +20,7 @@ function el(tag, attrs, ...kids) {
 const pct = p => Math.round(p * 100) + "%";
 const $app = () => document.getElementById("app");
 const pad = n => String(n).padStart(2, "0");
-const skillName = s => s[0] === "h" ? `HSK ${s[1]} · ${t("unit")} ${+s.slice(3)}` : s[0] === "g" ? `HSK ${s.slice(1)} · ${t("grammar")}` : `${t("course")} · ${t("lessonOf", { n: +s.slice(1) })}`;
+const skillName = s => s[0] === "h" ? `HSK ${s[1]} · ${t("unit")} ${+s.slice(3)}` : s[0] === "g" ? `HSK ${s.slice(1)} · ${t("grammar")}` : `${t("course")} · ${+s.slice(1) >= 13 ? DATA.course.lessons.find(l => l.n === +s.slice(1)).t : t("lessonOf", { n: +s.slice(1) })}`;
 
 /* ---------- rastreamento ---------- */
 const M = skill => { const tr = S.skills[skill]; return tr ? KT.mastery(tr, PILOT) : E.prior(skill, x => S.skills[x] ? KT.mastery(S.skills[x], PILOT) : 0); };
@@ -71,7 +71,7 @@ let ROUTE = { page: S.started ? "map" : "home" }, TAB = {}, CUR = null, RECENT =
 function go(page, arg) { ROUTE = { page, arg }; CUR = null; CHAT = []; render(); window.scrollTo(0, 0); }
 function header() {
   const r = GAME.role(S.xpTotal);
-  const nav = [["home", "🏠"], ["map", "🗺️"], ["course", "📘"], ["report", "📊"], ["shop", "🛒"], ["settings", "⚙️"]];
+  const nav = [["home", "🏠"], ["map", "🗺️"], ["grammar", "📝"], ["course", "📘"], ["report", "📊"], ["shop", "🛒"], ["settings", "⚙️"]];
   return el("header", { class: "top" },
     el("div", { class: "bar" },
       el("button", { class: "brand", onclick: () => go("home") }, el("span", { class: "hz logo" }, "汉"), el("b", {}, "Wikawise")),
@@ -84,7 +84,7 @@ function render() {
   document.body.classList.toggle("nopy", !S.py);
   const app = $app(); app.innerHTML = ""; app.append(header());
   const main = el("main", {}); app.append(main);
-  const P = { home: pHome, map: pMap, course: pCourse, report: pReport, shop: pShop, settings: pSettings, skill: pSkill }[ROUTE.page] || pHome;
+  const P = { home: pHome, map: pMap, course: pCourse, grammar: pGrammar, report: pReport, shop: pShop, settings: pSettings, skill: pSkill }[ROUTE.page] || pHome;
   P(main);
 }
 
@@ -120,18 +120,32 @@ function pMap(m) {
       el("div", { class: "level-h" }, el("h2", {}, "HSK " + L.lv), el("span", { class: "tag" }, stage),
         el("span", { class: "muted" }, `${st.words} ${t("words")} (${st.cum}) · ${L.chars.length} 字 · ✍️ ${(DATA.writing[L.lv] || []).length}` + (st.gram ? ` · ${st.gram} ${t("grammar").toLowerCase()}` : ""))),
       open ? null : el("p", { class: "muted" }, t("lockedLevel", { l: L.lv - 1 }), " ", S.inv.key > 0 ? el("button", { class: "btn small", onclick: () => { S.inv.key--; S.keyed["L" + L.lv] = true; save(); render(); } }, "🗝️ " + t("useKey", { n: S.inv.key })) : null),
-      el("div", { class: "units" }, L.units.map(unitChip),
-        el("button", { class: "unit gram " + status("g" + L.lv), onclick: () => go("skill", "g" + L.lv) }, el("span", { class: "n" }, "语"), el("span", { class: "pc" }, t("grammar")))));
+      el("div", { class: "units" }, L.units.map(unitChip)));
     m.append(sec);
   });
   if (focus) setTimeout(() => { const n = document.getElementById("lv" + focus); if (n) n.scrollIntoView({ block: "start" }); }, 0);
+}
+
+/* ---------- gramática ---------- */
+function pGrammar(m) {
+  m.append(el("h2", {}, "📝 " + t("grammar")), el("p", { class: "muted" }, t("gramTxt")));
+  DATA.levels.forEach(L => {
+    const s = "g" + L.lv, pts = (DATA.grammarPT[L.lv] || []).length, its = E.grammarItems(L.lv).length, st = status(s), has = S.skills[s] && S.skills[s].n;
+    const off = DATA.standards[L.lv].gram || (DATA.grammarOfficial[L.lv] || []).length;
+    m.append(el("button", { class: "lesson gramcard " + st, onclick: () => go("skill", s) },
+      el("span", { class: "ln hz" }, "语"),
+      el("span", {}, el("b", {}, "HSK " + L.lv), " ", st === "locked" ? el("span", { class: "tag" }, "🔒 " + t("locked")) : null, el("br"),
+        el("span", { class: "muted small" }, pts ? t("gramCounts", { p: pts, i: its }) : t("gramPending"))),
+      el("span", { class: "pc" }, has ? pct(M(s)) : "—")));
+  });
+  m.append(el("p", { class: "muted small" }, t("gramNote")));
 }
 
 /* ---------- curso ---------- */
 function pCourse(m) {
   const C = DATA.course;
   m.append(el("h2", {}, "📘 " + t("course")), el("p", { class: "muted" }, t("courseTxt")), el("p", { class: "muted small" }, t("coursePDF")),
-    el("div", { class: "course-list" }, C.lessons.map(l => { const s = "c" + pad(l.n), mm = M(s), has = S.skills[s] && S.skills[s].n; return el("button", { class: "lesson", onclick: () => go("skill", s) }, el("span", { class: "ln" }, l.n === 13 ? "+" : l.n), el("span", {}, el("b", {}, l.n === 13 ? "Extra HSK 2" : t("lessonOf", { n: l.n })), el("br"), l.t), el("span", { class: "pc" }, has ? pct(mm) : "—")); })));
+    el("div", { class: "course-list" }, C.lessons.map(l => { const s = "c" + pad(l.n), mm = M(s), has = S.skills[s] && S.skills[s].n; return el("button", { class: "lesson", onclick: () => go("skill", s) }, el("span", { class: "ln" }, l.n === 13 ? "+" : l.n === 14 ? "♪" : l.n), el("span", {}, el("b", {}, l.n >= 13 ? l.t : t("lessonOf", { n: l.n })), el("br"), l.n >= 13 ? el("span", { class: "muted small" }, l.n === 13 ? t("extraHsk") : t("extraMusic")) : l.t), el("span", { class: "pc" }, has ? pct(mm) : "—")); })));
 }
 
 /* ---------- página de habilidade (unidade, gramática, aula) ---------- */
@@ -139,10 +153,10 @@ function pSkill(m) {
   const s = ROUTE.arg, kind = s[0], lv = kind === "h" ? +s[1] : kind === "g" ? +s.slice(1) : E.COURSE_LV(+s.slice(1));
   const open = E.skillOpen(S, s, M);
   const items = E.itemsFor(s, CAPS);
-  const tabs = kind === "h" ? ["practice", "wordsH", "support"] : kind === "g" ? (lv <= 2 ? ["theory", "practice", "official", "support"] : ["official", "support"]) : ["theory", "practice"].concat(DATA.course.read.some(r => r.a === +s.slice(1)) ? ["reading"] : []).concat(["vocab"]);
+  const tabs = kind === "h" ? ["practice", "wordsH", "support"] : kind === "g" ? [].concat((DATA.grammarPT[lv] || []).length ? ["theory"] : [], items.length ? ["practice"] : [], ["official", "support"]) : ["theory", "practice"].concat(DATA.course.read.some(r => r.a === +s.slice(1)) ? ["reading"] : []).concat(["vocab"]);
   if (!TAB[s] || !tabs.includes(TAB[s])) TAB[s] = kind === "h" ? (open ? "practice" : "wordsH") : tabs[0];
-  const title = kind === "c" ? (+s.slice(1) === 13 ? "Extra HSK 2" : t("lessonOf", { n: +s.slice(1) })) + " — " + DATA.course.lessons.find(l => l.n === +s.slice(1)).t : skillName(s);
-  m.append(el("div", { class: "row between" }, el("button", { class: "btn ghost small", onclick: () => go(kind === "c" ? "course" : "map", kind === "c" ? null : lv) }, "← " + t("back")),
+  const title = kind === "c" ? (+s.slice(1) >= 13 ? "" : t("lessonOf", { n: +s.slice(1) }) + " — ") + DATA.course.lessons.find(l => l.n === +s.slice(1)).t : skillName(s);
+  m.append(el("div", { class: "row between" }, el("button", { class: "btn ghost small", onclick: () => go(kind === "c" ? "course" : kind === "g" ? "grammar" : "map", kind === "h" ? lv : null) }, "← " + t("back")),
     el("div", { class: "meter" }, el("span", {}, t("mastery") + " " + pct(M(s))), el("div", { class: "track" }, el("div", { class: "fill", style: `width:${pct(M(s))}` })))),
     el("h2", {}, title));
   if (!open) {
@@ -200,7 +214,7 @@ function practice(box, s, items) {
     CUR = { skill: s, it, seed: Date.now(), done: false, hint: false, removed: [], order: [], picked: null };
     RECENT.push(it.id); if (RECENT.length > 12) RECENT.shift();
   }
-  const { it } = CUR, w = E.WORD[it.w];
+  const { it } = CUR, w = E.wordOf(it);
   const card = el("div", { class: "q" });
   card.append(el("div", { class: "kind" }, t("kind_" + it.type), el("span", { class: "tag plain" }, t("dim_" + it.dim)), el("span", { class: "tag plain" }, "d" + it.d)));
   const fb = el("div", { class: "feedback", "aria-live": "polite" });
@@ -287,7 +301,7 @@ function writeBody(card, it, w, opts, finish, mc) {
 
 /* ---------- tutor de IA ---------- */
 function tutorPanel(box, it) {
-  const w = E.WORD[it.w];
+  const w = E.wordOf(it);
   const panel = el("details", { class: "tutor" }, el("summary", {}, "🤖 " + t("tutor")));
   if (!LLM.ready()) { panel.append(el("p", { class: "muted" }, t("tutorNoKey"), " ", el("button", { class: "linkish", onclick: () => go("settings") }, t("settings")))); box.append(panel); return; }
   const log = el("div", { class: "chat" }), inp = el("textarea", { rows: 2, placeholder: t("tutorAsk") }), st = el("p", { class: "muted small" });

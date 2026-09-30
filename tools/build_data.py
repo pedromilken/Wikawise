@@ -179,6 +179,7 @@ def toks(zh):
         out += SPLIT.get(t, [t])
     return out
 PY_WORD = {r["w"]: r["py"] for r in rows}
+PARTICLE = {"了": "le", "得": "de", "着": "zhe", "的": "de", "吗": "ma", "呢": "ne", "吧": "ba", "过": "guo"}
 def py_text(zh):
     parts = []
     for t in jieba.cut(zh):
@@ -186,12 +187,35 @@ def py_text(zh):
             if parts: parts[-1] += {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "：": ":"}[t]
             continue
         if re.search(r"[\u4e00-\u9fff]", t):
-            parts.append(PY_WORD.get(t) or " ".join(s[0] for s in pinyin(t, style=Style.TONE)))
+            if t in PARTICLE: parts.append(PARTICLE[t]); continue
+            if t in PY_WORD and len(t) > 1: parts.append(PY_WORD[t]); continue
+            sy = [s[0] for s in pinyin(t, style=Style.TONE)]
+            parts.append(" ".join(PARTICLE.get(c, s) if i > 0 else s for i, (c, s) in enumerate(zip(t, sy))) if len(t) > 1 else (PY_WORD.get(t) or sy[0]))
         else:
             parts.append(t)
     return " ".join(parts)
 
-GRAM_L = {1: [], 2: []}
+# material complementar do curso (partes escritas, exercícios, revisões, pautas, músicas e ditados)
+EXT = F / "curso_m2_extras.json"
+if EXT.exists():
+    X = json.load(open(EXT, encoding="utf-8"))
+    CURSO["lessons"] += [l for l in X.get("lessons", []) if l["n"] not in {x["n"] for x in CURSO["lessons"]}]
+    for n, rules in X.get("theory", {}).items():
+        CURSO["theory"].setdefault(n, [])
+        CURSO["theory"][n] += [{"s": s, "u": u, "zh": zh, "py": py_text(zh), "pt": pt} for s, u, zh, pt in rules]
+    for n, note in X.get("notes", {}).items():
+        CURSO["notes"].setdefault(n, note)
+    for a, s, o, ans, ex in X.get("gaps", []):
+        full = s.split("(")[0].replace("___", ans).strip()
+        CURSO["gaps"].append({"a": a, "s": s, "o": o, "ans": ans, "ex": ex, "full": full, "py": py_text(full)})
+    for a, zh, pt in X.get("sent", []):
+        CURSO["sent"].append({"a": a, "zh": zh, "pt": pt, "toks": toks(zh), "end": zh[-1] if zh[-1] in PUN else "", "py": py_text(zh), "alt": None})
+    have = {(v["a"], v["zh"]) for v in CURSO["vocab"]}
+    for a, zh, py, pt in X.get("vocab", []):
+        if (a, zh) not in have: CURSO["vocab"].append({"a": a, "zh": zh, "py": py, "pt": pt})
+    CURSO["write"] = {n: [{"ch": c, "py": PY_WORD.get(c) or pinyin(c, style=Style.TONE)[0][0]} for c in s if "\u4e00" <= c <= "\u9fff"] for n, s in X.get("write", {}).items()}
+
+GRAM_L = {lv: [] for lv in range(1, 7)}
 for lv, t, e, zh, pt, aula in GP:
     GRAM_L[lv].append({"t": t, "e": e, "zh": zh, "py": py_text(zh), "pt": pt, "aula": aula})
 GITEMS = []
@@ -206,6 +230,19 @@ for i, g in enumerate(CURSO["gaps"]):
 GSENT = []
 for i, (lv, zh, pt) in enumerate(GS):
     GSENT.append({"id": f"s{lv}x{i:02d}", "lv": lv, "zh": zh, "pt": pt, "t": toks(zh), "py": py_text(zh)})
+
+# gramática gerada para os níveis 3 a 6 (tools/juntar-gramatica.js grava fontes/gramatica_pt.json)
+GPT = F / "gramatica_pt.json"
+if GPT.exists():
+    for lvs, blk in json.load(open(GPT, encoding="utf-8")).items():
+        lv = int(lvs)
+        for p in blk.get("pontos", []):
+            GRAM_L[lv].append({"t": p["t"], "e": p["e"], "zh": p["zh"], "py": py_text(p["zh"]), "pt": p["pt"], "aula": 0})
+        for i, g in enumerate(blk.get("itens", [])):
+            full = g["s"].split("(")[0].replace("___", g["a"]).strip()
+            GITEMS.append({"id": f"g{lv}n{i:03d}", "lv": lv, "s": g["s"], "o": g["o"], "a": g["a"], "ex": g["ex"], "full": full, "py": py_text(full)})
+        for i, f in enumerate(blk.get("frases", [])):
+            GSENT.append({"id": f"s{lv}n{i:03d}", "lv": lv, "zh": f["zh"], "pt": f["pt"], "t": toks(f["zh"]), "py": py_text(f["zh"])})
 
 DATA = {
     "levels": levels,
