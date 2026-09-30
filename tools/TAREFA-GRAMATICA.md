@@ -30,6 +30,7 @@ Para a parte `tools/gramatica/gram-N-PP.txt` indicada pelo usuário:
 - Frases em chinês naturais e corretas; nada de frases inventadas que um nativo não diria.
 - Um item testa **um** ponto; a resposta não pode ser deduzida só pela forma das opções.
 - Não repita a mesma frase-exemplo em pontos diferentes.
+- Vocabulário até o nível N, conferido com `tools/checar-nivel-gramatica.js` antes de gravar; exceção só para a palavra-alvo do ponto.
 
 ## Regras de resposta única (obrigatórias)
 
