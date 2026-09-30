@@ -14,7 +14,7 @@ Treino adaptativo de **mandarim para o HSK 3.0**, com *knowledge tracing*, cinco
 | Gramática oficial (语法大纲) | mesmo programa, texto original | níveis 1 a 6 |
 | Pontos de gramática explicados | autoral, com exemplo, pinyin, tradução e aula do curso que cobre | 17 no nível 1, 17 no nível 2 |
 | Exercícios de gramática | autorais + lacunas do curso | 94 lacunas (28 novas + 66 do curso) e 9 frases para montar |
-| Curso M2 (Instituto Soyuz) | resumo autoral das 12 aulas + extra HSK 2 | teoria, exercícios, 7 diálogos com perguntas, vocabulário |
+| Curso M2 (Mandarim Básico, HSK 2) | resumo autoral das 12 aulas, desenvolvidas com base no material do HSK, + extra HSK 2 | teoria, exercícios, 7 diálogos com perguntas, vocabulário |
 | Materiais de apoio | links por nível | programa oficial, Chinese Testing International, áudios, simulados e livros HSK |
 
 As glosas em **português** cobrem todo o vocabulário dos níveis 1 e 2. Nos níveis 3 a 6 aparece a glosa em inglês do CC-CEDICT (marcada com **en**) até você gerar as traduções com `tools/gerar-glosas.js`.
@@ -96,6 +96,14 @@ node tools/gerar-glosas.js --provedor qwen --niveis 3,4,5,6            # região
 node tools/gerar-glosas.js --provedor qwen-cn --modelo qwen-max        # região Pequim, outro modelo
 ```
 
+**Com o Coding Plan ou o Token Plan** da Alibaba: esses planos só podem ser usados de forma interativa dentro de ferramentas de programação, então o `gerar-glosas.js` recusa chaves `sk-sp-`. Faça pelo Qwen Code, lote a lote:
+
+```powershell
+node tools/preparar-lotes.js --niveis 3,4,5,6    # cria tools/lotes/lote-NN.tsv (não chama API)
+qwen                                             # no Qwen Code: "siga tools/TAREFA-GLOSAS.md para o lote-01"
+node tools/juntar-lotes.js                       # confere e junta em tools/fontes/pt_glosas.json
+```
+
 O script grava em `tools/fontes/pt_glosas.json` a cada lote; pode interromper e rodar de novo, inclusive trocando de provedor.
 
 ## Fontes e direitos
@@ -103,5 +111,5 @@ O script grava em `tools/fontes/pt_glosas.json` a cada lote; pode interromper e 
 - Programa do exame HSK (新版HSK考试大纲, Center for Language Education and Cooperation, nov. 2025): vocabulário, caracteres e gramática, via [leonsilicon/hsk3.1](https://github.com/leonsilicon/hsk3.1).
 - Glosas em inglês: CC-CEDICT, via [drkameleon/complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) (MIT).
 - Ordem dos traços: [Hanzi Writer](https://hanziwriter.org) (MIT), carregado do jsDelivr.
-- Curso M2: resumo autoral das aulas do Instituto Soyuz (Prof. Otavio Barreto). Os PDFs das aulas não estão no repositório.
+- Curso M2 (Mandarim Básico, HSK 2): resumo autoral das aulas, desenvolvidas com base no material do HSK. Os PDFs das aulas não estão no repositório.
 - Os livros da série HSK Standard Course têm direitos da Beijing Language and Culture University Press; a aba de materiais só aponta para páginas externas. Esses livros e simulados seguem o HSK 2.0.

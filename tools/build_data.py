@@ -11,7 +11,7 @@ Fontes:
   en_glosas.json           glosas em inglês (CC-CEDICT via drkameleon/complete-hsk-vocabulary, MIT)
   pt_l12.txt               glosas em português dos níveis 1 e 2 (autorais)
   pt_glosas.json           (opcional) glosas em português geradas por tools/gerar-glosas.js para os níveis 3 a 6
-  curso_soyuz_m2.json      conteúdo do Módulo 2 (resumo autoral das aulas do Instituto Soyuz)
+  curso_m2.json            conteúdo do Módulo 2 do curso Mandarim Básico (HSK 2): resumo autoral das aulas
 Uso: python3 tools/build_data.py && python3 build.py
 """
 import json, re, pathlib
@@ -78,7 +78,7 @@ for lv in range(1, 7):
 
 ESC = json.load(open(F / "escrita.json", encoding="utf-8"))
 GRAM = json.load(open(F / "gramatica_oficial.json", encoding="utf-8"))
-CURSO = json.load(open(F / "curso_soyuz_m2.json", encoding="utf-8"))
+CURSO = json.load(open(F / "curso_m2.json", encoding="utf-8"))
 
 # Pontos de gramática oficiais dos níveis 1 e 2 com explicação em português e exemplo (autoral).
 # lv, título, explicação, exemplo zh, tradução, aula do curso que cobre (0 = só aqui)
