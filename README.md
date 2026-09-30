@@ -35,9 +35,11 @@ As glosas em **português** cobrem todo o vocabulário dos níveis 1 e 2. Nos n�
 
 - **Escrita à mão só onde o exame pede:** nível 1 sem escrita; níveis 2 a 6 com a lista oficial de 书写字 acumulada.
 
-## Gramática
+## Arsenal HSK (módulos 1 a 6)
 
-A aba **Gramática** reúne, nível a nível, os pontos explicados (com exemplo, pinyin e tradução), os exercícios (lacunas e frases para montar) e o texto do programa oficial (语法大纲). Os níveis 1 e 2 têm conteúdo autoral; os níveis 3 a 6 são gerados no Qwen Code, parte por parte, a partir do programa oficial:
+A aba **Arsenal HSK** tem um módulo por nível do HSK 3.0, cada um com as abas Teoria, Praticar, Vocabulário, Caracteres (leitura e escrita à mão, com ordem dos traços), Programa oficial e Material de apoio; o módulo 2 inclui o Curso M2. A sequência segue o programa oficial do HSK 3.0, que é a base dos livros novos; o texto dos livros não é reproduzido.
+
+A teoria reúne, nível a nível, os pontos explicados (com exemplo, pinyin e tradução), os exercícios (lacunas e frases para montar) e o texto do programa oficial (语法大纲). Os níveis 1 e 2 têm conteúdo autoral; os níveis 3 a 6 são gerados no Qwen Code, parte por parte, a partir do programa oficial:
 
 ```powershell
 node tools/preparar-gramatica.js                 # fatia o 语法大纲 dos níveis 3 a 6 em tools/gramatica/ (não chama API)

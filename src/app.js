@@ -13,14 +13,14 @@ function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e
 const t = (k, p) => { let s = (LANG[S.lang] || LANG.pt)[k]; if (s == null) s = LANG.pt[k] != null ? LANG.pt[k] : k; if (p) for (const x in p) s = String(s).split("{" + x + "}").join(p[x]); return s; };
 function el(tag, attrs, ...kids) {
   const n = document.createElement(tag);
-  for (const k in (attrs || {})) { const v = attrs[k]; if (v == null || v === false) continue; if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else if (k === "html") n.innerHTML = v; else n.setAttribute(k, v === true ? "" : v); }
+  for (const k in (attrs || {})) { const v = attrs[k]; if (k.startsWith("aria-") && typeof v === "boolean") { n.setAttribute(k, String(v)); continue; } if (v == null || v === false) continue; if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else if (k === "html") n.innerHTML = v; else n.setAttribute(k, v === true ? "" : v); }
   for (const c of kids.flat()) if (c != null && c !== false) n.append(c.nodeType ? c : document.createTextNode(String(c)));
   return n;
 }
 const pct = p => Math.round(p * 100) + "%";
 const $app = () => document.getElementById("app");
 const pad = n => String(n).padStart(2, "0");
-const skillName = s => s[0] === "h" ? `HSK ${s[1]} · ${t("unit")} ${+s.slice(3)}` : s[0] === "g" ? `HSK ${s.slice(1)} · ${t("grammar")}` : `${t("course")} · ${+s.slice(1) >= 13 ? DATA.course.lessons.find(l => l.n === +s.slice(1)).t : t("lessonOf", { n: +s.slice(1) })}`;
+const skillName = s => s[0] === "h" ? `HSK ${s[1]} · ${t("unit")} ${+s.slice(3)}` : s[0] === "g" ? `HSK ${s.slice(1)} · ${t("module")} ${s.slice(1)}` : `${t("course")} · ${+s.slice(1) >= 13 ? DATA.course.lessons.find(l => l.n === +s.slice(1)).t : t("lessonOf", { n: +s.slice(1) })}`;
 
 /* ---------- rastreamento ---------- */
 const M = skill => { const tr = S.skills[skill]; return tr ? KT.mastery(tr, PILOT) : E.prior(skill, x => S.skills[x] ? KT.mastery(S.skills[x], PILOT) : 0); };
@@ -71,7 +71,7 @@ let ROUTE = { page: S.started ? "map" : "home" }, TAB = {}, CUR = null, RECENT =
 function go(page, arg) { ROUTE = { page, arg }; CUR = null; CHAT = []; render(); window.scrollTo(0, 0); }
 function header() {
   const r = GAME.role(S.xpTotal);
-  const nav = [["home", "🏠"], ["map", "🗺️"], ["grammar", "📝"], ["course", "📘"], ["report", "📊"], ["shop", "🛒"], ["settings", "⚙️"]];
+  const nav = [["home", "🏠"], ["map", "🗺️"], ["arsenal", "📚"], ["report", "📊"], ["shop", "🛒"], ["settings", "⚙️"]];
   return el("header", { class: "top" },
     el("div", { class: "bar" },
       el("button", { class: "brand", onclick: () => go("home") }, el("span", { class: "hz logo" }, "汉"), el("b", {}, "Wikawise")),
@@ -84,7 +84,7 @@ function render() {
   document.body.classList.toggle("nopy", !S.py);
   const app = $app(); app.innerHTML = ""; app.append(header());
   const main = el("main", {}); app.append(main);
-  const P = { home: pHome, map: pMap, course: pCourse, grammar: pGrammar, report: pReport, shop: pShop, settings: pSettings, skill: pSkill }[ROUTE.page] || pHome;
+  const P = { home: pHome, map: pMap, arsenal: pArsenal, course: pArsenal, grammar: pArsenal, report: pReport, shop: pShop, settings: pSettings, skill: pSkill }[ROUTE.page] || pHome;
   P(main);
 }
 
@@ -98,7 +98,7 @@ function pHome(m) {
       el("h1", {}, "Wikawise"),
       el("p", { class: "lead" }, t("tagline")),
       el("p", { class: "muted" }, t("stats", { w: DATA.words.length, u: nU, g: nG, c: 13 })),
-      el("div", { class: "row" }, el("button", { class: "btn", onclick: () => { S.started = true; save(); go("map"); } }, played ? t("continue") : t("start")), el("button", { class: "btn ghost", onclick: () => go("course") }, "📘 " + t("course")))),
+      el("div", { class: "row" }, el("button", { class: "btn", onclick: () => { S.started = true; save(); go("map"); } }, played ? t("continue") : t("start")), el("button", { class: "btn ghost", onclick: () => go("arsenal") }, "📚 " + t("arsenal")))),
     el("section", { class: "pillars" },
       [["stages", "三等九级"], ["dims", "四维基准"], ["skills", "五项技能"], ["tracking", "KT"]].map(([k, zh]) => el("article", {}, el("h3", {}, t(k), " ", el("span", { class: "hz dim" }, zh)), el("p", {}, t(k + "Txt"))))),
     el("section", { class: "levels-strip" }, DATA.levels.map(L => { const st = DATA.standards[L.lv]; return el("button", { class: "lvl", onclick: () => { S.started = true; save(); go("map", L.lv); } }, el("b", {}, "HSK " + L.lv), el("span", {}, st.cum + " " + t("words")), el("span", { class: "muted" }, L.chars.length + " 字 · ✍️ " + ((DATA.writing[L.lv] || []).length))); })),
@@ -127,36 +127,46 @@ function pMap(m) {
 }
 
 /* ---------- gramática ---------- */
-function pGrammar(m) {
-  m.append(el("h2", {}, "📝 " + t("grammar")), el("p", { class: "muted" }, t("gramTxt")));
+function pArsenal(m) {
+  m.append(el("h2", {}, "📚 " + t("arsenal")), el("p", { class: "muted" }, t("arsenalTxt")));
   DATA.levels.forEach(L => {
     const s = "g" + L.lv, pts = (DATA.grammarPT[L.lv] || []).length, its = E.grammarItems(L.lv).length, st = status(s), has = S.skills[s] && S.skills[s].n;
-    const off = DATA.standards[L.lv].gram || (DATA.grammarOfficial[L.lv] || []).length;
+    const stage = L.lv <= 3 ? t("stageEl") : t("stageInt");
     m.append(el("button", { class: "lesson gramcard " + st, onclick: () => go("skill", s) },
-      el("span", { class: "ln hz" }, "语"),
-      el("span", {}, el("b", {}, "HSK " + L.lv), " ", st === "locked" ? el("span", { class: "tag" }, "🔒 " + t("locked")) : null, el("br"),
-        el("span", { class: "muted small" }, pts ? t("gramCounts", { p: pts, i: its }) : t("gramPending"))),
+      el("span", { class: "ln" }, L.lv),
+      el("span", {}, el("b", {}, `${t("module")} ${L.lv} · HSK ${L.lv}`), " ", el("span", { class: "tag" }, stage), st === "locked" ? el("span", { class: "tag" }, "🔒 " + t("locked")) : null, el("br"),
+        el("span", { class: "muted small" }, t("modCounts", { w: DATA.standards[L.lv].words, c: L.chars.length, e: (DATA.writing[L.lv] || []).length, p: pts, i: its }) + (pts ? "" : " · " + t("gramPendingShort")))),
       el("span", { class: "pc" }, has ? pct(M(s)) : "—")));
   });
-  m.append(el("p", { class: "muted small" }, t("gramNote")));
+  m.append(el("p", { class: "muted small" }, t("arsenalNote")));
+}
+function charsTab(box, lv) {
+  const L = DATA.levels[lv - 1], wr = new Set(DATA.writing[lv] || []);
+  const grid = cs => el("div", { class: "chargrid" }, cs.map(c => el("button", { class: "hzcell hz" + (wr.has(c) ? " w" : ""), title: t("strokes"), onclick: () => strokeDialog(c) }, c)));
+  box.append(el("p", { class: "muted" }, t("charsTxt", { n: L.chars.length, e: wr.size })), el("h3", {}, t("charsRead")), grid(L.chars));
+  if (wr.size) box.append(el("h3", {}, t("charsWrite")), grid([...wr]));
+}
+function vocabModule(box, lv) {
+  const L = DATA.levels[lv - 1];
+  box.append(el("p", { class: "muted" }, t("vocabModTxt", { n: L.nwords, u: L.units.length })),
+    el("div", { class: "units" }, L.units.map(unitChip)));
+}
+function courseList(box) {
+  const C = DATA.course;
+  box.append(el("p", { class: "muted" }, t("courseTxt")), el("div", { class: "course-list" }, C.lessons.map(l => { const s = "c" + pad(l.n), mm = M(s), has = S.skills[s] && S.skills[s].n; return el("button", { class: "lesson", onclick: () => go("skill", s) }, el("span", { class: "ln" }, l.n === 13 ? "+" : l.n === 14 ? "♪" : l.n), el("span", {}, el("b", {}, l.n >= 13 ? l.t : t("lessonOf", { n: l.n })), el("br"), l.n >= 13 ? el("span", { class: "muted small" }, l.n === 13 ? t("extraHsk") : t("extraMusic")) : l.t), el("span", { class: "pc" }, has ? pct(mm) : "—")); })));
 }
 
 /* ---------- curso ---------- */
-function pCourse(m) {
-  const C = DATA.course;
-  m.append(el("h2", {}, "📘 " + t("course")), el("p", { class: "muted" }, t("courseTxt")), el("p", { class: "muted small" }, t("coursePDF")),
-    el("div", { class: "course-list" }, C.lessons.map(l => { const s = "c" + pad(l.n), mm = M(s), has = S.skills[s] && S.skills[s].n; return el("button", { class: "lesson", onclick: () => go("skill", s) }, el("span", { class: "ln" }, l.n === 13 ? "+" : l.n === 14 ? "♪" : l.n), el("span", {}, el("b", {}, l.n >= 13 ? l.t : t("lessonOf", { n: l.n })), el("br"), l.n >= 13 ? el("span", { class: "muted small" }, l.n === 13 ? t("extraHsk") : t("extraMusic")) : l.t), el("span", { class: "pc" }, has ? pct(mm) : "—")); })));
-}
 
 /* ---------- página de habilidade (unidade, gramática, aula) ---------- */
 function pSkill(m) {
   const s = ROUTE.arg, kind = s[0], lv = kind === "h" ? +s[1] : kind === "g" ? +s.slice(1) : E.COURSE_LV(+s.slice(1));
   const open = E.skillOpen(S, s, M);
   const items = E.itemsFor(s, CAPS);
-  const tabs = kind === "h" ? ["practice", "wordsH", "support"] : kind === "g" ? [].concat((DATA.grammarPT[lv] || []).length ? ["theory"] : [], items.length ? ["practice"] : [], ["official", "support"]) : ["theory", "practice"].concat(DATA.course.read.some(r => r.a === +s.slice(1)) ? ["reading"] : []).concat(["vocab"]);
+  const tabs = kind === "h" ? ["practice", "wordsH", "support"] : kind === "g" ? ["theory"].concat(items.length ? ["practice"] : [], ["vocabMod", "chars", "official"], lv === 2 ? ["courseM2"] : [], ["support"]) : ["theory", "practice"].concat(DATA.course.read.some(r => r.a === +s.slice(1)) ? ["reading"] : []).concat(["vocab"]);
   if (!TAB[s] || !tabs.includes(TAB[s])) TAB[s] = kind === "h" ? (open ? "practice" : "wordsH") : tabs[0];
   const title = kind === "c" ? (+s.slice(1) >= 13 ? "" : t("lessonOf", { n: +s.slice(1) }) + " — ") + DATA.course.lessons.find(l => l.n === +s.slice(1)).t : skillName(s);
-  m.append(el("div", { class: "row between" }, el("button", { class: "btn ghost small", onclick: () => go(kind === "c" ? "course" : kind === "g" ? "grammar" : "map", kind === "h" ? lv : null) }, "← " + t("back")),
+  m.append(el("div", { class: "row between" }, el("button", { class: "btn ghost small", onclick: () => { if (kind === "c") { TAB.g2 = "courseM2"; go("skill", "g2"); } else go(kind === "g" ? "arsenal" : "map", kind === "h" ? lv : null); } }, "← " + t("back")),
     el("div", { class: "meter" }, el("span", {}, t("mastery") + " " + pct(M(s))), el("div", { class: "track" }, el("div", { class: "fill", style: `width:${pct(M(s))}` })))),
     el("h2", {}, title));
   if (!open) {
@@ -171,6 +181,9 @@ function pSkill(m) {
   else if (tab === "support") supportTab(box, lv);
   else if (tab === "official") officialTab(box, lv);
   else if (tab === "theory") kind === "g" ? grammarPoints(box, lv) : courseTheory(box, +s.slice(1));
+  else if (tab === "vocabMod") vocabModule(box, lv);
+  else if (tab === "chars") charsTab(box, lv);
+  else if (tab === "courseM2") courseList(box);
   else if (tab === "reading") courseReading(box, +s.slice(1));
   else if (tab === "vocab") wordsTab(box, DATA.course.vocab.filter(v => v.a === +s.slice(1)).map(v => v.zh), DATA.course.vocab.filter(v => v.a === +s.slice(1)));
 }
@@ -192,7 +205,10 @@ function officialTab(box, lv) {
   box.append(el("p", { class: "muted" }, t("officialNote")), el("ul", { class: "official" }, (DATA.grammarOfficial[lv] || []).map(l => el("li", { class: "hz-ui" }, l))));
 }
 function grammarPoints(box, lv) {
-  (DATA.grammarPT[lv] || []).forEach(g => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, g.t), el("p", { class: "muted" }, g.e), el("p", { class: "ex" }, el("span", { class: "hz" }, g.zh), el("span", { class: "py pyo" }, g.py), el("span", {}, g.pt)), g.aula ? el("button", { class: "linkish", onclick: () => go("skill", "c" + pad(g.aula)) }, t("coveredIn", { n: g.aula })) : null), sayBtn(g.zh))));
+  const st = DATA.standards[lv];
+  box.append(el("div", { class: "modhead" }, el("p", {}, t("modIntro", { l: lv, w: st.words, cum: st.cum, c: DATA.levels[lv - 1].chars.length, e: (DATA.writing[lv] || []).length }) + (st.gram ? " " + t("modGram", { g: st.gram }) : ""))));
+  if (!(DATA.grammarPT[lv] || []).length) { box.append(el("p", { class: "note" }, t("gramPending"))); return; }
+  (DATA.grammarPT[lv] || []).forEach(g => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, g.t), el("p", { class: "muted" }, g.e), el("p", { class: "ex" }, el("span", { class: "hz" }, g.zh), el("span", { class: "py pyo" }, g.py), el("span", {}, g.pt)), g.aula ? el("button", { class: "linkish", onclick: () => go("skill", "c" + pad(g.aula)) }, (g.aula >= 13 ? "📘 " + DATA.course.lessons.find(l => l.n === g.aula).t : t("coveredIn", { n: g.aula }))) : null), sayBtn(g.zh))));
 }
 function courseTheory(box, n) {
   (DATA.course.theory[n] || []).forEach(r => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, r.s), el("p", { class: "muted" }, r.u), el("p", { class: "ex" }, el("span", { class: "hz" }, r.zh), el("span", { class: "py pyo" }, r.py), el("span", {}, r.pt))), sayBtn(r.zh))));
