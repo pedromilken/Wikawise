@@ -170,10 +170,10 @@
     "pt": "Vamos falar um por um, sem afobação."
    },
    {
-    "t": "Fórmula 不A不B (四字格)",
-    "e": "Quatro caracteres com 不…不… formam provérbios curtos: 不见不散 ('não saio sem te ver'), 不知不觉 ('sem perceber').",
-    "zh": "今晚八点,老地方,不见不散。",
-    "pt": "Hoje, oito da noite, lugar de sempre, te espero lá."
+    "t": "固定格式: 才 / 就 (语气副词 — limitar e sequência imediata)",
+    "e": "Aqui 才 não é tempo, é limite ('só / apenas'; 'tão pouco'): 才三天 = 'só três dias'. E 就 marca a consequência imediata, no par 一…就… ('assim que… já…').",
+    "zh": "才三天,他就想家了。",
+    "pt": "Em só três dias, ele já sente saudade de casa."
    },
    {
     "t": "固定短语: 看来 / 看起来 / 看上去 / 在……看来",
@@ -1022,15 +1022,15 @@
     "ex": "Com 的话 abrindo a condição, a apódose leva 就: 就会出错."
    },
    {
-    "s": "北京,___,非常有名。(capital da China)",
+    "s": "这是我的老师,___。(o nome dele é Wang)",
     "o": [
-     "中国的首都",
-     "首都中国",
-     "中国有首都",
-     "首都的中国"
+     "王老师",
+     "老师王",
+     "王是老师",
+     "老师是"
     ],
-    "a": "中国的首都",
-    "ex": "Aposto: '北京,中国的首都,……' — ordem natural do nome + descrição."
+    "a": "王老师",
+    "ex": "Aposto: '我的老师,王老师' repete o nome ao lado para explicar; as outras ordens são agramaticais."
    },
    {
     "s": "我们班长___今天请假了。",
@@ -1066,15 +1066,15 @@
     "ex": "打扫干净 = V+resultado; 得/很/地 não fecham o complemento."
    },
    {
-    "s": "这条路太长了,要___地走。(uma etapa por vez)",
+    "s": "这些水果很多,要___地洗。(uma por uma)",
     "o": [
-     "一步一步",
-     "一步",
-     "步步",
-     "走路"
+     "一件一件",
+     "非常",
+     "一起",
+     "一直"
     ],
-    "a": "一步一步",
-    "ex": "Padrão 数+量+数+量 (一步一步地走). 一步/步步/走路 não preenchem."
+    "a": "一件一件",
+    "ex": "Padrão 数+量+数+量 (一件一件地洗). 非常/一起/一直 não tomam 地 nesse uso."
    },
    {
     "s": "他___地告诉我这件事。(várias vezes)",
@@ -1088,26 +1088,26 @@
     "ex": "一次一次 = 'uma vez após outra' (repetição distributiva)."
    },
    {
-    "s": "今晚八点,老地方___。(não saio sem te ver)",
+    "s": "___三天,他就想家了。(só / apenas)",
     "o": [
-     "不见不散",
-     "不三不四",
-     "不折不扣",
-     "不知不觉"
+     "才",
+     "一直",
+     "已经",
+     "正在"
     ],
-    "a": "不见不散",
-    "ex": "不见不散 é fórmula de 'te espero lá, não saio sem te ver'."
+    "a": "才",
+    "ex": "才 = 'só/apenas' (tão pouco). 一直/已经/正在 não cabem nesse sentido de limite."
    },
    {
-    "s": "他___地就走了,谁也没注意。(sem perceber)",
+    "s": "他一回到家,___开始看书。(logo em seguida)",
     "o": [
-     "不知不觉",
-     "不见不散",
-     "不三不四",
-     "不折不扣"
+     "就",
+     "因为",
+     "可是",
+     "特别"
     ],
-    "a": "不知不觉",
-    "ex": "不知不觉 = 'sem dar por isso'."
+    "a": "就",
+    "ex": "Par 一…就… = 'assim que… já…'. 因为/可是/特别 não fecham o par."
    },
    {
     "s": "___,我们应该早点去。(na nossa opinião)",
@@ -2313,8 +2313,8 @@
     "pt": "Vamos falar um por um."
    },
    {
-    "zh": "今晚老地方不见不散",
-    "pt": "Hoje, lugar de sempre, te espero lá."
+    "zh": "才三天他就想家了",
+    "pt": "Em só três dias, ele já sente saudade."
    },
    {
     "zh": "看上去他很年轻",
