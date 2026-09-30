@@ -69,7 +69,7 @@ src/llm.js            tutor com chave própria (do IAWise)
 src/app.js            interface
 src/style.css
 tools/build_data.py   gera src/data.js a partir de tools/fontes/
-tools/gerar-glosas.js glosas em português dos níveis 3 a 6 via DeepSeek
+tools/gerar-glosas.js glosas em português dos níveis 3 a 6 (DeepSeek ou Qwen)
 tools/fontes/         listas oficiais, glosas, gramática, curso
 ```
 
@@ -89,7 +89,14 @@ node tools/gerar-glosas.js --niveis 3,4,5,6
 python tools/build_data.py; python build.py
 ```
 
-O script grava em `tools/fontes/pt_glosas.json` a cada lote; pode interromper e rodar de novo.
+Com Qwen (chave **pay-as-you-go** do Model Studio; chaves do Token Plan e do Coding Plan não podem ser usadas em scripts em lote):
+
+```powershell
+node tools/gerar-glosas.js --provedor qwen --niveis 3,4,5,6            # região Singapura (dashscope-intl)
+node tools/gerar-glosas.js --provedor qwen-cn --modelo qwen-max        # região Pequim, outro modelo
+```
+
+O script grava em `tools/fontes/pt_glosas.json` a cada lote; pode interromper e rodar de novo, inclusive trocando de provedor.
 
 ## Fontes e direitos
 
