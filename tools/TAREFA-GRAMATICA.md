@@ -30,3 +30,16 @@ Para a parte `tools/gramatica/gram-N-PP.txt` indicada pelo usuário:
 - Frases em chinês naturais e corretas; nada de frases inventadas que um nativo não diria.
 - Um item testa **um** ponto; a resposta não pode ser deduzida só pela forma das opções.
 - Não repita a mesma frase-exemplo em pontos diferentes.
+
+## Regras de resposta única (obrigatórias)
+
+Toda lacuna deve ter **exatamente uma** opção que produza frase gramatical **e** coerente com o sentido/hint da frase. Antes de gravar, teste cada uma das 3 opções erradas: se ela também formar frase correta e com sentido, o item está quebrado — refaça.
+
+- **Quase-sinônimos (modais, medidores, advérbios de grau/escopo/tempo/frequência):** não basta trocar o distrator por outro da mesma família. Use um **ponto de apoio sintático** que só a resposta aceita (ex.: `需要` antes de substantivo; `得/应该/愿意` exigem verbo; `遍` = leitura completa e não combina com 声/口/顿) ou uma **moldura de negação** que só a resposta preenche (ex.: `一点儿也不愿意`; `一点也不`+modal de obrigação é agramatical).
+- **Medidores (量词):** garanta que a incompatibilidade seja **de classe da palavra**, não só de tradução — o certo (遍) e os errados (声/口/顿) devem ser todos medidores, e só o certo combina com o verbo/objeto dados.
+- **Verbos em `一边…一边…` / serial verb:** escolha o objeto que force **colocação única** (ex.: `睡觉` com 一边, e `做/买/吃觉` são agramaticais). Não deixe dois verbos plausíveis (看书/听书/写书) na mesma lacuna.
+- **Pronomes:** se `大家`, `别人`, `自己` etc. competirem, fixe a oposição no contexto ("nós dois" exclui `大家`; "outras pessoas fora do casal" pede `别人`), ou troque o distrator que colide.
+- **Não repita a frase-exemplo de um ponto dentro de um item.** Se o item espelhar o exemplo, mude um dos dois.
+- **Autocheck final:** leia o item com cada uma das 4 opções em voz alta (mentalmente); a resposta certa é a única frase que um nativo aprovaria **sem** o hint. Se precisar do hint para decidir, o distrator ainda é forte demais.
+
+Essas regras valem para as próximas partes (gram-3-02 a gram-6-02).
