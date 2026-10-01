@@ -5180,5 +5180,3477 @@
     "pt": "Ele tem cinco vezes mais livros que eu."
    }
   ]
+ },
+ "5": {
+  "pontos": [
+   {
+    "t": "Sufixo —头 (substantivo a partir de verbo ou adjetivo)",
+    "e": "Preso a um verbo ou adjetivo, 头 forma um substantivo que indica o que há de aproveitável naquilo ou o seu lado bom/ruim: 看头 ('o que vale a pena ver'), 干头 ('o que vale a pena fazer'), 甜头 ('lado bom, vantagem'), 苦头 ('dificuldade, sofrimento'). Aparece quase sempre depois de 有 ou 没什么.",
+    "zh": "他这几年吃了不少苦头,现在日子好多了。",
+    "pt": "Ele penou bastante nestes últimos anos; agora a vida melhorou muito."
+   },
+   {
+    "t": "Pronomes indicativos: 彼此、如此、本",
+    "e": "彼此 é recíproco e pode funcionar como objeto ('um ao outro': 不分彼此); 如此 demonstra grau ou modo ('assim, tal': 如此重要); 本 vem antes de um substantivo e significa 'este, o nosso' (本人, 本校, 本公司).",
+    "zh": "他们两个人彼此都很了解,说话不用如此小心。",
+    "pt": "Eles dois se conhecem bem, então não precisam falar com tanto cuidado."
+   },
+   {
+    "t": "Medidores específicos: 册、朵、届、颗、匹、行、架、群、支、根",
+    "e": "Cada substantivo pede o seu medidor: 朵 (flores, nuvens), 颗 (coisas pequenas e redondas: 心, 星星, 牙), 根 (finas e compridas: 头发, 香蕉), 支 (canetas, cigarros, músicas, equipes), 架 (aviões, máquinas, pianos), 匹 (cavalos, rolos de tecido). 群 conta multidões e rebanhos, 行 conta linhas de texto, 届 conta edições de eventos (运动会, 会议) e 册 conta volumes de livro em registro formal.",
+    "zh": "那群人站在门口,手里都拿着一朵红花和一支笔。",
+    "pt": "Aquele grupo estava parado na porta, todos com uma flor vermelha e uma caneta na mão."
+   },
+   {
+    "t": "Medidores: 批、束、副、集、周",
+    "e": "批 conta lotes e remessas (一批新书); 束 conta feixes e ramalhetes (一束花); 副 conta pares e conjuntos (一副眼镜, 一副手套); 集 conta episódios de série ou novela; 周 conta voltas e semanas (两周).",
+    "zh": "他买了一束花,打算送给妈妈。",
+    "pt": "Ele comprou um buquê de flores para dar à mãe."
+   },
+   {
+    "t": "Medidor verbal 眼 (uma olhada)",
+    "e": "眼 conta olhares e entra no padrão verbo + numeral + 眼: 看一眼 ('dar uma olhada'), 看了两眼. É o equivalente do nosso 'uma olhadinha' depois de verbos de ver.",
+    "zh": "他看了我一眼,什么也没说就走了。",
+    "pt": "Ele me deu uma olhada e foi embora sem dizer nada."
+   },
+   {
+    "t": "Advérbios de grau: 过于、相当、较、可、格外、极其",
+    "e": "Todos intensificam, mas com registro e nuance próprios: 过于 ('excessivamente', com crítica), 相当 ('bastante', neutro e forte), 较 ('relativamente', comparativo), 可 ('muito', enfático e coloquial), 格外 ('ainda mais que o normal') e 极其 ('extremamente', formal). Só 过于 aceita negação direta: 不过于贵.",
+    "zh": "这件衣服的质量相当好,价钱也不过于贵。",
+    "pt": "A qualidade desta roupa é muito boa e o preço não é caro demais."
+   },
+   {
+    "t": "Advérbios de tempo: 时刻、曾经、立刻、连忙、始终、早已、即将、急忙、渐渐、尽快、早晚",
+    "e": "Situam a ação no tempo: 时刻 ('a todo momento'), 曾经 ('já, alguma vez'), 早已 ('há muito'), 即将 ('em breve'), 早晚 ('cedo ou tarde'), 渐渐 ('aos poucos'), 始终 ('do começo ao fim, sempre'). Os de reação rápida são 立刻 ('imediatamente'), 连忙 e 急忙 ('às pressas'), e 尽快 vale por 'o quanto antes'.",
+    "zh": "这件事他早已知道,却始终没有说出来。",
+    "pt": "Ele já sabia disso havia muito tempo, mas nunca chegou a falar."
+   },
+   {
+    "t": "Advérbios de frequência: 老是、通常、时常",
+    "e": "老是 = 'vive fazendo, só faz', com tom de reclamação; 通常 = 'normalmente', descrevendo o hábito geral; 时常 = 'com frequência', mais escrito que 经常. 通常 pode abrir a frase, antes do sujeito; 老是 e 时常 vêm depois dele.",
+    "zh": "他通常七点起床,可最近老是迟到。",
+    "pt": "Ele normalmente levanta às sete, mas ultimamente vive chegando atrasado."
+   },
+   {
+    "t": "Advérbios de modo: 尽量、亲自",
+    "e": "尽量 = 'faça o máximo possível' e vem antes do verbo ou adjetivo (尽量早点儿来, 尽量快一点儿); 亲自 = 'pessoalmente, em pessoa', destacando que foi o próprio sujeito quem fez, e não outra pessoa. Os dois ficam entre o sujeito e o verbo.",
+    "zh": "有事你尽量自己解决,实在不行我亲自去一趟。",
+    "pt": "Tente resolver você mesmo; se realmente não der, eu vou pessoalmente."
+   },
+   {
+    "t": "Advérbios correlativos: 便、一旦",
+    "e": "便 equivale a 就, mas é próprio da escrita, e marca a consequência logo depois de uma condição ou de um momento (一…便…, 'assim que… logo'); 一旦 abre uma hipótese ('uma vez que, se por acaso') e a oração seguinte traz 就 ou 便.",
+    "zh": "雨一停,我们便出发。",
+    "pt": "Assim que a chuva parar, nós partimos."
+   },
+   {
+    "t": "Advérbios de aparência: 似乎、仿佛",
+    "e": "似乎 e 仿佛 dizem que algo parece ser assim, sem confirmação ('parece que, como se'); os dois são da língua escrita e podem ser seguidos de 似的. 仿佛 carrega uma imagem mais literária, 似乎 é o mais neutro e frequente.",
+    "zh": "他似乎不太高兴,一句话也没说就走了。",
+    "pt": "Ele parecia meio chateado; saiu sem dizer uma palavra."
+   },
+   {
+    "t": "Advérbios de tom: 毕竟、居然、反正、根本、果然、简直、绝对、的确、反而、白、刚好",
+    "e": "Dão o tom da frase: 毕竟 ('afinal'), 居然 ('incrivelmente', surpresa), 果然 ('como se esperava'), 反正 ('de qualquer jeito'), 根本 ('de modo algum', na negativa), 简直 ('simplesmente, quase'), 绝对 ('absolutamente'), 的确 ('de fato'), 反而 ('pelo contrário'), 白 ('em vão, de graça') e 刚好 ('exatamente, por acaso'). 可 entra como reforço coloquial: 我可不去 ('eu é que não vou').",
+    "zh": "他果然考上了北京大学,我们一点儿也不吃惊。",
+    "pt": "Como se esperava, ele passou na Universidade de Pequim; não ficamos nem um pouco surpresos."
+   },
+   {
+    "t": "Preposição 自从 (desde)",
+    "e": "自从 + ponto no tempo (ou + oração inteira) marca o começo de um estado que continua até agora; a oração principal costuma trazer 就, 都, 一直 ou 再也没. Corresponde ao nosso 'desde / desde que'.",
+    "zh": "自从他搬到上海,我们就没见过面。",
+    "pt": "Desde que ele se mudou para Xangai, nós não nos vimos mais."
+   },
+   {
+    "t": "Preposições de direção e caminho: 朝、沿(着)",
+    "e": "朝 + direção + verbo aponta para onde o movimento ou o olhar se dirige ('em direção a', como 往, só que mais escrito); 沿着 + rio, rua ou linha descreve o trajeto percorrido ('ao longo de'), e o 着 pode cair.",
+    "zh": "沿着这条路一直朝前走,就能看到那家银行。",
+    "pt": "Siga por esta rua sempre em frente e você vai ver aquele banco."
+   },
+   {
+    "t": "Preposições que introduzem o objeto: 替、同、较",
+    "e": "替 + pessoa = 'no lugar de, em favor de' (替我去, 替他高兴); 同 + pessoa = 'com, junto com', mais formal que 跟/和 (同他商量); 较 + padrão = 'em comparação com', abrindo a base da comparação no registro escrito (较去年, 较以前).",
+    "zh": "我同他商量了一下,最后他替我去开了会。",
+    "pt": "Conversei com ele e, no fim, ele foi à reunião no meu lugar."
+   },
+   {
+    "t": "Preposições de base e fundamento: 凭、据",
+    "e": "凭 + base ou meio = 'valendo-se de, mediante' (凭票入场, 凭经验); 据 + fonte = 'segundo, conforme' (据说, 据我了解), anunciando de onde vem a informação. 凭 olha para o instrumento, 据 para a origem do que se diz.",
+    "zh": "据我所知,他是凭自己的努力考上的。",
+    "pt": "Pelo que sei, ele passou por esforço próprio."
+   },
+   {
+    "t": "Conjunções que ligam palavras ou grupos: 以及、同",
+    "e": "以及 liga elementos coordenados, em geral deixando por último o item mais acessório ou posterior ('bem como, e ainda'); 同 liga dois substantivos como 'e', no registro escrito. Nenhum dos dois serve para ligar orações inteiras.",
+    "zh": "请带上护照、机票以及三张照片。",
+    "pt": "Traga o passaporte, a passagem e três fotos."
+   },
+   {
+    "t": "Conjunções que ligam orações: 从而、可见、假如、总之",
+    "e": "从而 = 'e com isso, de modo que', ligando a ação anterior ao resultado; 可见 = 'logo, daí se vê que', tirando uma conclusão de um fato observado; 假如 = 'se, caso', abrindo uma hipótese; 总之 = 'em resumo', fechando uma argumentação.",
+    "zh": "他改变了学习方法,从而提高了成绩。",
+    "pt": "Ele mudou o jeito de estudar e com isso melhorou as notas."
+   },
+   {
+    "t": "Partícula 似的 (como se, parecido com)",
+    "e": "X + 似的 forma uma comparação e significa 'parecido com X, como se fosse X'. Vem depois de um substantivo, pronome ou grupo e costuma casar com 像, 好像 ou 仿佛 na frente.",
+    "zh": "时间像流水似的,一年又过去了。",
+    "pt": "O tempo corre como a água de um rio; lá se foi mais um ano."
+   },
+   {
+    "t": "Formato fixo A来A去 (verbo + 来 + verbo + 去)",
+    "e": "Repetir o verbo com 来 e 去 (走来走去, 想来想去, 说来说去) diz que a ação se repete sem sair do lugar ou sem chegar a um resultado. Costuma carregar a impaciência ou o cansaço de quem fala.",
+    "zh": "他在门口走来走去,等了半个小时也没等到人。",
+    "pt": "Ele andava de um lado para o outro na porta; esperou meia hora e ninguém apareceu."
+   },
+   {
+    "t": "Formato fixo A着A着 (verbo + 着 + verbo + 着)",
+    "e": "Repetir o verbo com 着 (说着说着, 走着走着, 看着看着) mostra que, no meio de uma ação contínua, algo de repente acontece. A segunda oração traz sempre o fato inesperado.",
+    "zh": "两个孩子说着说着就哭了起来。",
+    "pt": "No meio da conversa, as duas crianças começaram a chorar."
+   },
+   {
+    "t": "四字格: 没A没B (sem A, sem B)",
+    "e": "Molde de quatro caracteres com 没 dos dois lados: 没完没了 ('sem fim'), 没日没夜 ('dia e noite sem parar'). A e B se opõem ou se repetem, quase sempre com tom de exagero ou reprovação.",
+    "zh": "他一说起足球就没完没了,大家都听累了。",
+    "pt": "Quando ele começa a falar de futebol, não para mais, e todo mundo se cansa de ouvir."
+   },
+   {
+    "t": "固定短语: 说A就A (é dizer e é fazer)",
+    "e": "O mesmo verbo aparece entre 说 e 就 para dizer que a ação sai no instante em que é anunciada: 说走就走, 说干就干, 说哭就哭. Serve tanto para decisão rápida quanto para reação difícil de controlar.",
+    "zh": "我弟弟说哭就哭,谁也没办法。",
+    "pt": "Meu irmãozinho chora de uma hora para outra; ninguém consegue fazer nada."
+   },
+   {
+    "t": "固定短语: 不得了 / 了不得 (fora do comum)",
+    "e": "Abre uma frase como exclamação de susto ('ai, que coisa!') e, com 真, diz que algo é extraordinário demais. A forma 得+不得了 como complemento de grau é outro ponto (程度补语2).",
+    "zh": "不得了,外面下大雨了,快把窗户关上!",
+    "pt": "Ai, que chuva lá fora! Fecha logo a janela!"
+   },
+   {
+    "t": "用不着 (não há necessidade de)",
+    "e": "用不着 + verbo nega a necessidade de um jeito mais coloquial que 不用: 'não precisa, não há por que'. Só existe na negativa.",
+    "zh": "时间还早,你用不着着急。",
+    "pt": "Ainda é cedo, você não precisa ficar com pressa."
+   },
+   {
+    "t": "从……来看 (a julgar por)",
+    "e": "从 + a base do julgamento + 来看 apresenta a evidência de onde se tira a conclusão: 'a julgar por…'. O que vem depois de 来看 é o comentário, não o objeto de 从.",
+    "zh": "从这次考试来看,他的进步很大。",
+    "pt": "A julgar por esta prova, ele progrediu muito."
+   },
+   {
+    "t": "固定格式: A的A，B的B (cada um do seu jeito)",
+    "e": "Repete o mesmo verbo ou adjetivo com 的 para pintar uma cena de ações e estados misturados: 说的说,笑的笑; 大的大,小的小. Costuma trazer exagero ou descontentamento.",
+    "zh": "这些衣服大的大,小的小,我一件也穿不了。",
+    "pt": "Estas roupas: umas enormes, outras minúsculas — nenhuma me serve."
+   },
+   {
+    "t": "（自）……以来 (desde que)",
+    "e": "自/自从 + um ponto ou período + 以来 marca o início de um estado que continua até agora. A oração principal costuma trazer 一直, 都 ou 没.",
+    "zh": "自去年以来,我们一直没见面。",
+    "pt": "Desde o ano passado, a gente não se vê."
+   },
+   {
+    "t": "由……组成 (ser composto de)",
+    "e": "由 apresenta as partes ou os membros e 组成 fecha a estrutura: 'X é formado por Y'. É o nosso 'composto de', e o sujeito é o todo, nunca as partes.",
+    "zh": "这个小组由五名学生组成。",
+    "pt": "Este grupo é formado por cinco alunos."
+   },
+   {
+    "t": "固定格式: X也不是，Y也不是 (nem uma coisa nem outra)",
+    "e": "As duas opções possíveis vêm em paralelo com 也不是 para mostrar que nenhuma serve: 'se eu fizer X não presta, se não fizer também não'. Exprime um dilema sem saída.",
+    "zh": "我帮他也不是,不帮他也不是。",
+    "pt": "Se eu ajudar fica ruim, se não ajudar também."
+   },
+   {
+    "t": "固定格式: X也X不得，Y也Y不得 (não dá nem para X nem para Y)",
+    "e": "O verbo se repete com 不得 nas duas metades: 穿也穿不得,扔也扔不得. Aqui 不得 indica proibição ou inconveniência, não incapacidade (essa é 不了).",
+    "zh": "这件旧衣服穿也穿不得,扔也扔不得。",
+    "pt": "Esta roupa velha: não dá para usar, nem para jogar fora."
+   },
+   {
+    "t": "固定格式: X是它，Y也是它 (no fundo é tudo a mesma coisa)",
+    "e": "As duas metades apontam com 它 para a mesma coisa: 'é isso que faz X e é isso também que faz Y'. Resume que o lado bom e o lado ruim vêm do mesmo lugar, em geral com resignação.",
+    "zh": "钱这东西,让人高兴的是它,让人担心的也是它。",
+    "pt": "O dinheiro: é ele que alegra a gente e é ele que preocupa."
+   },
+   {
+    "t": "固定格式: X着也是X着 (já que está assim mesmo)",
+    "e": "O verbo com 着 se repete ligado por 也是: concede que a situação é ociosa para abrir uma sugestão, quase sempre com 不如. 'Já que está parado assim mesmo, melhor fazer outra coisa'.",
+    "zh": "等着也是等着,不如先看会儿书。",
+    "pt": "Já que estamos só esperando, melhor ir lendo um pouco."
+   },
+   {
+    "t": "不管怎样说 (seja como for)",
+    "e": "Locução fixa no início da frase: apesar de qualquer argumento, o fato seguinte vale ('seja como for', 'afinal de contas'). A oração principal costuma ter 也 ou 都.",
+    "zh": "不管怎样说,他也是你的哥哥,你应该帮他。",
+    "pt": "Seja como for, ele é o seu irmão mais velho: você devia ajudá-lo."
+   },
+   {
+    "t": "真有你/他/她的 (você é demais, hein!)",
+    "e": "Fórmula coloquial de reprovação ou admiração, com 的 final opcional: 真有你的! ('você é demais, hein'). Troca-se 你 por 他/她 conforme de quem se fala.",
+    "zh": "真有你的,这么难的题你都会做!",
+    "pt": "Você é demais, hein! Consegue resolver até uma questão tão difícil!"
+   },
+   {
+    "t": "固定格式: X什么X (pra que X?)",
+    "e": "Repete o verbo com 什么 no meio para afastar a ideia com desprezo: 怕什么怕 = 'medo de quê?'. É pergunta retórica que manda o outro parar com aquilo.",
+    "zh": "哭什么哭?别难过,下次一定能考好。",
+    "pt": "Chorar por quê? Não fica triste: da próxima vez você vai se sair bem."
+   },
+   {
+    "t": "什么X不X（的）(essa história de X ou não X)",
+    "e": "什么 cita o par 'X ou não X' para descartar a diferença: 什么贵不贵的 = 'caro ou não caro, tanto faz'. Termina em 的 e vem seguido de outra decisão.",
+    "zh": "什么贵不贵的,你喜欢就买。",
+    "pt": "Essa de caro ou não caro: se você gostou, compra."
+   },
+   {
+    "t": "不X白不X (se é de graça, aproveite)",
+    "e": "白 significa 'de graça, em vão': 不吃白不吃 diz que, sendo a oportunidade gratuita, recusá-la seria desperdício. As duas metades repetem o mesmo verbo com 白 no meio.",
+    "zh": "这顿饭有人请,不吃白不吃!",
+    "pt": "Alguém está pagando a refeição: se é de graça, é comer!"
+   },
+   {
+    "t": "X来X去，都是/就是…… (vai e vem, dá no mesmo)",
+    "e": "X来X去 mostra a ação repetida (dizer, pensar, procurar) e 都是/就是 entrega a conclusão. 'De tanto virar e mexer, é sempre a mesma coisa'.",
+    "zh": "说来说去,就是钱的问题。",
+    "pt": "No fim das contas, é só uma questão de dinheiro."
+   },
+   {
+    "t": "动词+什么（就）是什么 (o que ele diz, vale)",
+    "e": "说什么就是什么: o que a pessoa diz passa a valer só porque ela disse. Mostra obediência ou critica quem não admite discussão.",
+    "zh": "在家里,爸爸说什么就是什么。",
+    "pt": "Lá em casa, o que o papai diz é lei."
+   },
+   {
+    "t": "多项状语 (ordem dos adverbiais)",
+    "e": "Com vários adverbiais, a ordem básica é tempo → lugar → modo ou instrumento → companhia ou destinatário → verbo. Por isso 每天在公园里跑步, nunca 在公园里每天跑步.",
+    "zh": "他每天下午在公园里跟朋友一起跑步。",
+    "pt": "Todo dia à tarde ele corre com os amigos no parque."
+   },
+   {
+    "t": "可能补语2: 动词+得/不得 (poder ou não poder)",
+    "e": "Colado ao verbo, 得/不得 diz se a ação é possível ou admissível: 喝不得 = 'não se pode beber'. 不得 traz proibição, perigo ou inconveniência; 得 aparece em 值得, 舍得, 记得.",
+    "zh": "水果还没洗,吃不得。",
+    "pt": "A fruta ainda não foi lavada: não se pode comer."
+   },
+   {
+    "t": "程度补语2: 形容词/心理动词+得+不得了 (grau extremo)",
+    "e": "得+不得了 leva um adjetivo ou um verbo de sentimento ao limite: 高兴得不得了, 热得不得了. É mais forte que 很 e não aceita outro complemento de grau ao lado.",
+    "zh": "听说要去看海,孩子们高兴得不得了。",
+    "pt": "Só de ouvir que iam ver o mar, as crianças ficaram radiantes."
+   },
+   {
+    "t": "趋向补语3: 动词/形容词+下来/下去/起来/过来/过去 (sentido de estado)",
+    "e": "Aqui os complementos direcionais viram marcas de estado: 下去 continua, 下来 interrompe ou fixa, 起来 começa ou surge (想起来 = lembrar). 过来/过去 indicam a passagem de um estado a outro.",
+    "zh": "他休息了一个星期,身体好起来了。",
+    "pt": "Ele descansou uma semana e a saúde começou a melhorar."
+   },
+   {
+    "t": "状态补语2: 动词/形容词+得+动词短语 / +得+主谓短语 / +得+固定短语",
+    "e": "Depois de 得 vem uma frase verbal (累得站不起来), uma frase sujeito-predicado (说得大家都笑了) ou uma expressão fixa (高兴得不得了), descrevendo o estado ou o grau da ação. O complemento nunca vem antes de 得.",
+    "zh": "他说得大家都笑了。",
+    "pt": "Ele falou de um jeito que todo mundo riu."
+   },
+   {
+    "t": "\"有\"字句3: 主语+有+着+宾语 (存在) / 主语+动词+有+宾语 (附着)",
+    "e": "有+着 indica existência ou posse, geralmente de algo abstrato (他有着丰富的经验). Verbo+有 indica que algo está aderido a uma superfície (墙上挂有一幅画).",
+    "zh": "墙上挂有一幅画。",
+    "pt": "Há um quadro pendurado na parede."
+   },
+   {
+    "t": "\"把\"字句3: 主语+把+宾语+一+动词 / 主语+把+宾语1+动词+宾语2",
+    "e": "把+objeto+一+verbo descreve um gesto rápido e decidido que puxa a ação seguinte (他把门一关,就走了). 把+objeto1+verbo+objeto2 transfere algo a alguém (我把作业交给了老师).",
+    "zh": "他把手机一放,就开始做饭。",
+    "pt": "Ele largou o celular e já começou a cozinhar."
+   },
+   {
+    "t": "连动句3: dois verbos com relação causal, adversativa ou condicional",
+    "e": "Dois predicados verbais do mesmo sujeito, sem conjunção entre eles. Podem ter relação de causa (他生病没来上课), de contraste (有钱不花) ou de condição (有空来找我).",
+    "zh": "他生病没来上课。",
+    "pt": "Ele ficou doente e não veio à aula."
+   },
+   {
+    "t": "比较句4: A+形容词+B+数量补语",
+    "e": "O adjetivo funciona como verbo transitivo e leva a pessoa comparada como objeto, seguida da quantidade: 他大我三岁 (= 他比我大三岁). Não se usa 比 nem 更 nesse modelo.",
+    "zh": "哥哥大我三岁。",
+    "pt": "Meu irmão mais velho é três anos mais velho que eu."
+   },
+   {
+    "t": "被动句3: 主语+被/叫/让+宾语+给+动词+其他成分",
+    "e": "Na passiva, o 给 colocado antes do verbo reforça o tom de contrariedade: 被人给骑走了. O verbo nunca aparece isolado: vem com 了, um complemento ou outro componente.",
+    "zh": "我的自行车被人给骑走了。",
+    "pt": "Minha bicicleta foi levada por alguém."
+   },
+   {
+    "t": "承接复句: ……,便……",
+    "e": "便 é o equivalente escrito e formal de 就: encadeia dois fatos em sequência. Fica logo depois do sujeito da segunda oração.",
+    "zh": "他吃完早饭便去上班了。",
+    "pt": "Ele tomou o café e logo foi trabalhar."
+   },
+   {
+    "t": "选择复句: 或是……，或是……",
+    "e": "或是……,或是…… enumera alternativas equivalentes, sem preferência ('ou…ou…'). Em perguntas usa-se 还是, e 或者 serve para ligar dois itens soltos.",
+    "zh": "周末我或是去图书馆,或是在家看电影。",
+    "pt": "No fim de semana, ou vou à biblioteca, ou fico em casa vendo filme."
+   },
+   {
+    "t": "假设复句: 一旦……就…… / 假如……(就)…… / 万一……(就)……",
+    "e": "一旦……就…… marca uma hipótese que, se ocorrer, desencadeia o resultado ('uma vez que'). 假如……(就)…… é 'supondo que', e 万一……(就)…… é 'se por acaso', para um fato improvável e geralmente ruim.",
+    "zh": "一旦下雨,比赛就取消。",
+    "pt": "Se chover, o jogo será cancelado."
+   },
+   {
+    "t": "……，要不然/不然……",
+    "e": "要不然/不然 introduz a consequência negativa que acontece se a instrução anterior não for seguida ('senão'). Vem depois de uma vírgula, no início da segunda oração.",
+    "zh": "你得快点儿,要不然就迟到了。",
+    "pt": "Você precisa se apressar, senão vai se atrasar."
+   },
+   {
+    "t": "因果复句: ……，因而…… / ……，可见……",
+    "e": "因而 apresenta a consequência lógica do que foi dito ('portanto'). 可见 tira uma conclusão a partir de uma evidência ('logo se vê que').",
+    "zh": "他一直努力练习,因而进步很快。",
+    "pt": "Ele sempre se esforçou nos treinos, por isso progrediu rápido."
+   },
+   {
+    "t": "让步复句: 哪怕……，也……",
+    "e": "哪怕……,也…… concede um caso extremo e afirma que, ainda assim, o resultado não muda ('mesmo que…também'). O segundo membro exige 也.",
+    "zh": "哪怕下雨,我也要去。",
+    "pt": "Mesmo que chova, eu vou."
+   },
+   {
+    "t": "递进复句: 不但不/不但没有……，反而…… / 不是……，还/还是……",
+    "e": "不但不/不但没有……,反而…… nega o que se esperava e avança para o contrário ('não só não…como pelo contrário…'). A forma 不是……,还/还是…… acrescenta um grau a mais ao que foi dito.",
+    "zh": "他不但没有生气,反而笑了起来。",
+    "pt": "Ele não só não ficou bravo, como ainda começou a rir."
+   },
+   {
+    "t": "目的复句: ……，为的是……",
+    "e": "为的是 introduz a finalidade da ação já citada ('o objetivo é…'). Aparece na segunda oração, depois de uma vírgula, e é seguido do que se quer alcançar.",
+    "zh": "他每天早起跑步,为的是保持健康。",
+    "pt": "Ele corre toda manhã cedo para se manter saudável."
+   },
+   {
+    "t": "紧缩复句: 没有……就没有…… (sem X não há Y)",
+    "e": "Nega a condição e nega o resultado juntos: 没有水就没有生命 ('sem água não há vida'). Os dois membros usam 没有.",
+    "zh": "没有父母就没有我。",
+    "pt": "Sem meus pais, eu não existiria."
+   },
+   {
+    "t": "紧缩复句: 不……不…… (se não X, não Y)",
+    "e": "Comprime condição+resultado negativos ou um meio-termo: 不尝不知道 ('se não provar, não sabe'), 不紧不慢 ('nem rápido nem devagar').",
+    "zh": "这菜不尝不知道。",
+    "pt": "Se não provar, não sabe quão bom é."
+   },
+   {
+    "t": "紧缩复句: 再……也…… (mesmo que / por mais que)",
+    "e": "再 + verbo/adjetivo + 也 = concessão extrema: 再难也要坚持 ('por mais difícil que seja, insistir').",
+    "zh": "再难也要做完。",
+    "pt": "Por mais difícil, vou terminar."
+   }
+  ],
+  "itens": [
+   {
+    "s": "这部电影没什么看___,我们还是换一部吧。(sufixo que transforma o verbo em substantivo)",
+    "o": [
+     "头",
+     "见",
+     "完",
+     "到"
+    ],
+    "a": "头",
+    "ex": "O sufixo 头 cria 看头 ('o que vale a pena ver') dentro do molde 没什么 + verbo + 头. 见, 完 e 到 são complementos de resultado que formam 看见/看完/看到: '没什么看见', '没什么看完' e '没什么看到' são agramaticais, porque aí nada vira substantivo."
+   },
+   {
+    "s": "先给他一点儿甜___,以后他就愿意跟我们合作了。(sufixo: 'lado bom, vantagem')",
+    "o": [
+     "头",
+     "嘴",
+     "糖",
+     "心"
+    ],
+    "a": "头",
+    "ex": "甜头 ('vantagem, lado bom') é formado pelo sufixo 头. 甜嘴 não existe (o adjetivo é 嘴甜), 甜糖 é redundante e 甜心 significa 'queridinha' — nenhum dos três aceita '给他一点儿…' no sentido de vantagem."
+   },
+   {
+    "s": "我们两个人认识二十多年了,互相帮助,不分___。(pronome recíproco: 'o meu e o teu')",
+    "o": [
+     "彼此",
+     "互相",
+     "对方",
+     "大家"
+    ],
+    "a": "彼此",
+    "ex": "不分彼此 é o molde fixo em que o pronome recíproco ocupa a posição de objeto. 互相 é advérbio e só pode vir antes do verbo (por isso mesmo já aparece antes, em 互相帮助); 对方 e 大家 não combinam com 不分 — '不分对方' e '不分大家' não se dizem."
+   },
+   {
+    "s": "___重要的事,你怎么能一个人决定?(pronome demonstrativo de grau: 'tão, tal')",
+    "o": [
+     "如此",
+     "本",
+     "彼此",
+     "万一"
+    ],
+    "a": "如此",
+    "ex": "如此 modifica um adjetivo ou um grupo inteiro: 如此重要 = 'tão importante'. 本 só se prende diretamente a um substantivo (本人, 本校), 彼此 é recíproco e 万一 é conjunção de hipótese — nenhum deles pode vir antes de 重要."
+   },
+   {
+    "s": "桌子上放着一___花,是他昨天买的。(medidor de flores)",
+    "o": [
+     "朵",
+     "匹",
+     "颗",
+     "架"
+    ],
+    "a": "朵",
+    "ex": "朵 é o medidor de flores e de nuvens. 匹 conta cavalos e rolos de tecido, 颗 conta coisas pequenas e redondas (心, 星星) e 架 conta aviões e máquinas — nenhum dos três combina com 花."
+   },
+   {
+    "s": "这___飞机是刚从上海飞来的。(medidor de aviões)",
+    "o": [
+     "架",
+     "朵",
+     "根",
+     "届"
+    ],
+    "a": "架",
+    "ex": "架 é o medidor de aviões, máquinas e pianos. 朵 é de flores e nuvens, 根 é de coisas finas e compridas (头发) e 届 conta edições de eventos; com 飞机, só 架 serve."
+   },
+   {
+    "s": "爸爸新买了一___眼镜,戴着看报纸很清楚。(medidor de pares e conjuntos)",
+    "o": [
+     "副",
+     "束",
+     "集",
+     "周"
+    ],
+    "a": "副",
+    "ex": "副 mede objetos que formam par ou conjunto: 一副眼镜. 束 é para coisas amarradas em feixe (一束花), 集 para episódios de série e 周 para semanas ou voltas — nenhum deles serve para óculos."
+   },
+   {
+    "s": "学校这个月收到了一___新书,一共三百多本。(medidor de lote)",
+    "o": [
+     "批",
+     "副",
+     "束",
+     "集"
+    ],
+    "a": "批",
+    "ex": "批 conta um lote recebido de uma só vez: 一批新书. 副 pede par ou conjunto, 束 pede coisas reunidas em feixe e 集 pede episódios; para livros que chegam em quantidade, só 批 fecha."
+   },
+   {
+    "s": "我站在窗边向外看了一___,外面下着大雨。(medidor verbal: 'uma olhada')",
+    "o": [
+     "眼",
+     "口",
+     "顿",
+     "声"
+    ],
+    "a": "眼",
+    "ex": "Depois de 看 o medidor verbal é 眼 (看一眼). 口 conta bocadas e goles (喝一口), 顿 conta refeições e surras (打了一顿) e 声 conta sons (说一声) — com o verbo 看, os três são agramaticais."
+   },
+   {
+    "s": "他只是随便看了一___,没想到就发现了问题。(medidor verbal: 'uma olhada')",
+    "o": [
+     "眼",
+     "觉",
+     "顿",
+     "口"
+    ],
+    "a": "眼",
+    "ex": "A combinação fixa é 看 + 眼. 觉 só entra com 睡 (睡了一觉), 顿 com 打/骂 e refeições, e 口 com verbos de boca (喝一口, 咬一口) — nenhum deles acompanha 看."
+   },
+   {
+    "s": "这家店的东西不___贵,所以生意很好。(advérbio de grau negável: 'excessivamente')",
+    "o": [
+     "过于",
+     "相当",
+     "极其",
+     "格外"
+    ],
+    "a": "过于",
+    "ex": "过于 é o único desses advérbios que aceita a negação direta: 不过于贵 = 'não caro demais'. 相当, 极其 e 格外 só funcionam na afirmativa — '不相当贵', '不极其贵' e '不格外贵' não se dizem (usa-se 不太贵)."
+   },
+   {
+    "s": "这两种手机,那一种___便宜一些,可是质量差一点儿。(advérbio de grau: 'relativamente')",
+    "o": [
+     "较",
+     "过于",
+     "极其",
+     "格外"
+    ],
+    "a": "较",
+    "ex": "较 é o comparativo 'relativamente' e combina com o atenuante 一些: 较便宜一些. 过于 (excesso), 极其 (extremo) e 格外 (fora do comum) marcam grau absoluto e não aceitam 一些 — '过于便宜一些', '极其便宜一些' e '格外便宜一些' são agramaticais."
+   },
+   {
+    "s": "在外面工作,要___注意安全。(advérbio: 'a todo momento, sempre')",
+    "o": [
+     "时刻",
+     "曾经",
+     "即将",
+     "早已"
+    ],
+    "a": "时刻",
+    "ex": "时刻 é 'a todo momento' e pede uma atitude que se mantém sem interrupção (注意安全). 曾经 situa a ação num passado vivido, 即将 num futuro próximo e 早已 num passado já consumado — depois de 要, que pede algo a manter, os três ficam sem sentido."
+   },
+   {
+    "s": "孩子___长大了,以前的衣服都穿不下了。(advérbio: 'aos poucos, com o tempo')",
+    "o": [
+     "渐渐",
+     "连忙",
+     "立刻",
+     "急忙"
+    ],
+    "a": "渐渐",
+    "ex": "渐渐 marca uma mudança lenta e natural, a única compatível com crescer. 连忙 e 急忙 descrevem a pressa de alguém que reage a uma situação, e 立刻 exige um resultado instantâneo e controlado — '孩子连忙/急忙/立刻长大了' não se diz."
+   },
+   {
+    "s": "你怎么___问我同一个问题?我都回答三遍了。(advérbio: 'vive, só faz', tom de reclamação)",
+    "o": [
+     "老是",
+     "通常",
+     "从来",
+     "早已"
+    ],
+    "a": "老是",
+    "ex": "老是 traz o tom de impaciência diante de algo que se repete, exatamente o que a cobrança de 怎么…? e o 回答三遍了 pedem. 通常 descreve um hábito neutro e não casa com a reprovação; 从来 exige negação (从来不问) e 早已 marca um passado consumado, incompatível com a pergunta."
+   },
+   {
+    "s": "___他都是自己做饭,今天却在外面吃了。(advérbio: 'normalmente')",
+    "o": [
+     "通常",
+     "老是",
+     "立刻",
+     "渐渐"
+    ],
+    "a": "通常",
+    "ex": "通常 pode abrir a frase, antes do sujeito, e prepara o contraste marcado por 却. 老是 só vem depois do sujeito ('他老是…'), e 立刻 e 渐渐 falam da rapidez ou do desenrolar de um fato pontual, nunca de um hábito."
+   },
+   {
+    "s": "妈妈不放心,决定___去一趟。(advérbio: 'pessoalmente, em pessoa')",
+    "o": [
+     "亲自",
+     "连忙",
+     "始终",
+     "渐渐"
+    ],
+    "a": "亲自",
+    "ex": "亲自 diz que a própria pessoa faz a ação, o que fecha com 'não ficar tranquila'. 连忙 exigiria um gatilho anterior que a apressasse, 始终 pediria um estado contínuo e 渐渐 uma mudança lenta — nenhum dos três cabe numa decisão já tomada de fazer uma única visita."
+   },
+   {
+    "s": "时间不多了,你___快一点儿,不然要迟到了。(advérbio: 'o máximo possível')",
+    "o": [
+     "尽量",
+     "亲自",
+     "始终",
+     "早已"
+    ],
+    "a": "尽量",
+    "ex": "尽量 + adjetivo pede esforço até o limite do possível: 尽量快一点儿. 亲自 exige um verbo que alguém executa em pessoa, 始终 pede continuidade e 早已 fala de algo já consumado — nenhum deles aceita '快一点儿'."
+   },
+   {
+    "s": "___下雨,我们就不去公园了。(advérbio correlativo: 'se por acaso, uma vez que')",
+    "o": [
+     "一旦",
+     "连忙",
+     "亲自",
+     "时刻"
+    ],
+    "a": "一旦",
+    "ex": "一旦 abre a hipótese e pede 就 na oração seguinte (一旦…就…). 连忙 descreve a pressa de alguém, 亲自 marca quem age em pessoa e 时刻 exige uma ação contínua — nenhum dos três introduz condição, e '连忙/亲自/时刻下雨' é agramatical."
+   },
+   {
+    "s": "他一到北京,___给我们打了电话。(advérbio correlativo da escrita: 'então, logo em seguida')",
+    "o": [
+     "便",
+     "过于",
+     "始终",
+     "时刻"
+    ],
+    "a": "便",
+    "ex": "便 é o 就 da língua escrita e fecha o par 一…便… ('assim que… logo…'). 过于 só intensifica adjetivos, 始终 exige continuidade com 都 e 时刻 pede uma ação repetida — nenhum deles liga a chegada ao telefonema."
+   },
+   {
+    "s": "外面___有人在哭,你出去看看。(advérbio: 'parece que')",
+    "o": [
+     "似乎",
+     "始终",
+     "连忙",
+     "亲自"
+    ],
+    "a": "似乎",
+    "ex": "似乎 introduz uma impressão não confirmada, e é isso que justifica o pedido 'vá lá fora ver'. 始终 afirmaria com certeza e por todo o tempo, 连忙 descreveria a pressa de alguém e 亲自 exigiria um agente que age em pessoa — nenhum dos três expressa dúvida."
+   },
+   {
+    "s": "十年过去了,这里___还是老样子,一点儿也没变。(advérbio: 'como se, parecia que')",
+    "o": [
+     "仿佛",
+     "连忙",
+     "亲自",
+     "过于"
+    ],
+    "a": "仿佛",
+    "ex": "仿佛 compara a situação a uma aparência: 'como se ainda estivesse tudo igual'. 连忙 pede uma reação apressada de alguém, 亲自 exige um agente que faz algo em pessoa e 过于 só intensifica adjetivos — nenhum deles se encaixa antes de 还是老样子."
+   },
+   {
+    "s": "他___没做过这件事,你们别再说他了。(advérbio de tom: 'de modo algum', na negativa)",
+    "o": [
+     "根本",
+     "连忙",
+     "亲自",
+     "渐渐"
+    ],
+    "a": "根本",
+    "ex": "根本 reforça uma negação total: 根本没做过 = 'nunca fez, de modo algum'. 连忙 e 渐渐 descrevem o modo ou o ritmo de uma ação real, e 亲自 marca quem a faz em pessoa — os três exigem uma ação afirmativa e não cabem antes de 没做过."
+   },
+   {
+    "s": "我跑了一上午,___排了两个小时队,最后还是没买到票。(advérbio de tom: 'em vão, à toa')",
+    "o": [
+     "白",
+     "根本",
+     "始终",
+     "过于"
+    ],
+    "a": "白",
+    "ex": "白 diz que o esforço foi inútil, e 最后还是没买到票 confirma isso. 根本 só aparece reforçando negações, 始终 exigiria 都 e um estado contínuo, e 过于 só intensifica adjetivos — nenhum deles cabe antes de 排了两个小时队."
+   },
+   {
+    "s": "___去年秋天,她一直在学中国画。(preposição: 'desde')",
+    "o": [
+     "自从",
+     "朝",
+     "沿着",
+     "凭"
+    ],
+    "a": "自从",
+    "ex": "Só 自从 introduz o ponto de partida no tempo, que o 一直…在 confirma. 朝 marca a direção de um movimento, 沿着 acompanha um trajeto (rio, rua) e 凭 indica a base ou o instrumento de que se depende — nenhuma das três aceita um substantivo de tempo."
+   },
+   {
+    "s": "___孩子上了小学,她每天都早起做早饭。(preposição: 'desde que')",
+    "o": [
+     "自从",
+     "沿着",
+     "朝",
+     "据"
+    ],
+    "a": "自从",
+    "ex": "Aqui 自从 introduz uma oração inteira ('desde que o menino entrou na escola') e a liga ao hábito de 每天都. 沿着 e 朝 pedem um caminho ou uma direção, e 据 pede a fonte de uma informação — nenhuma das três abre uma oração temporal."
+   },
+   {
+    "s": "___这条河种了很多树,现在是一个公园。(preposição: 'ao longo de')",
+    "o": [
+     "沿着",
+     "朝",
+     "自从",
+     "替"
+    ],
+    "a": "沿着",
+    "ex": "沿着 acompanha o trajeto do rio e diz onde as árvores foram plantadas. 朝 só aponta a direção de um movimento, 自从 marca o início no tempo e 替 introduz a pessoa beneficiada — nenhuma das três descreve um caminho percorrido."
+   },
+   {
+    "s": "他___我笑了笑,然后什么也没说就走了。(preposição: 'em direção a')",
+    "o": [
+     "朝",
+     "沿着",
+     "自从",
+     "据"
+    ],
+    "a": "朝",
+    "ex": "朝 indica para quem se dirige o sorriso: 朝我笑了笑. 沿着 pede um caminho, 自从 pede um ponto no tempo e 据 pede a fonte de uma informação — nenhuma delas aceita o pronome 我 como alvo de um gesto."
+   },
+   {
+    "s": "他病了,所以我___他去机场接客人。(preposição: 'no lugar de')",
+    "o": [
+     "替",
+     "较",
+     "沿着",
+     "自从"
+    ],
+    "a": "替",
+    "ex": "替 introduz a pessoa em cujo lugar se age (替他 = 'no lugar dele'), e é isso que a doença dele explica. 较 abre uma comparação, 沿着 acompanha um trajeto e 自从 marca o início no tempo — nenhuma das três cabe antes de 他去机场."
+   },
+   {
+    "s": "他的身体___以前好多了,医生也很高兴。(preposição: 'em comparação com')",
+    "o": [
+     "较",
+     "替",
+     "自从",
+     "沿着"
+    ],
+    "a": "较",
+    "ex": "较 é a preposição de comparação do registro escrito: 较以前好多了 = 'bem melhor que antes'. 替 introduz o beneficiário, 自从 pede um ponto de partida que continua até hoje (e não uma base de comparação) e 沿着 acompanha um caminho — com 以前, só 较 fecha."
+   },
+   {
+    "s": "___我了解,他这几年身体一直不好。(preposição: 'segundo, conforme')",
+    "o": [
+     "据",
+     "凭",
+     "同",
+     "较"
+    ],
+    "a": "据",
+    "ex": "据 anuncia a fonte da informação: 据我了解 = 'pelo que eu sei'. 凭 pediria o instrumento ou título de que se depende (凭票, 凭经验), 同 introduz companhia e 较 abre comparação — nenhuma das três cabe antes de 我了解."
+   },
+   {
+    "s": "坐火车要___票,没有票上不了车。(preposição: 'mediante, com base em')",
+    "o": [
+     "凭",
+     "据",
+     "替",
+     "朝"
+    ],
+    "a": "凭",
+    "ex": "凭 indica o instrumento exigido: 凭票 = 'mediante a passagem'. 据 só anuncia a fonte de uma informação (据说, 据我了解), 替 introduz quem é substituído e 朝 aponta direção — nenhum deles combina com o bilhete como condição de entrada."
+   },
+   {
+    "s": "他喜欢运动、音乐___画画儿,周末很少在家。(conjunção: 'bem como', antes do último item)",
+    "o": [
+     "以及",
+     "从而",
+     "总之",
+     "可见"
+    ],
+    "a": "以及",
+    "ex": "以及 é a conjunção que fecha uma lista de nomes, destacando o último item. 从而 marca a consequência de uma ação, 可见 tira uma conclusão de um fato e 总之 resume uma argumentação — as três ligam orações e nunca dois substantivos."
+   },
+   {
+    "s": "这个问题老师___学生都不满意。(conjunção: 'e')",
+    "o": [
+     "同",
+     "从而",
+     "既然",
+     "可见"
+    ],
+    "a": "同",
+    "ex": "同 liga os dois substantivos (老师同学生 = 'professores e alunos'), e o 都 seguinte mostra que formam um grupo só. 从而 marca consequência, 既然 abre uma premissa que pede conclusão e 可见 tira uma conclusão — todos ligam orações, nunca dois nomes."
+   },
+   {
+    "s": "他把长句子分开来记,___记得又快又好。(conjunção: 'e com isso, de modo que')",
+    "o": [
+     "从而",
+     "可见",
+     "假如",
+     "反正"
+    ],
+    "a": "从而",
+    "ex": "从而 liga o método adotado ao resultado obtido. 可见 partiria do resultado para concluir o método (ordem invertida), 假如 abriria uma hipótese irreal e 反正 descartaria as razões — nenhuma das três expressa a consequência de uma ação."
+   },
+   {
+    "s": "他连这么简单的题都不会做,___基础很差。(conjunção: 'logo, daí se vê que')",
+    "o": [
+     "可见",
+     "假如",
+     "从而",
+     "反而"
+    ],
+    "a": "可见",
+    "ex": "可见 parte de um fato observado (ele não acerta nem uma questão simples) para concluir algo. 假如 abriria uma hipótese, 从而 exige uma ação que produz um resultado e 反而 inverte uma expectativa — só 可见 fecha a inferência."
+   },
+   {
+    "s": "他好像没听见___,一直在看手机。(partícula: 'como se')",
+    "o": [
+     "似的",
+     "的话",
+     "而已",
+     "来着"
+    ],
+    "a": "似的",
+    "ex": "没听见似的 = 'como se não tivesse ouvido', fechando o par 好像…似的. 的话 abriria uma condição, 而已 reduziria o dito a 'apenas isso' e 来着 recordaria um fato passado — nenhuma das três completa a comparação."
+   },
+   {
+    "s": "她的字写得很漂亮,像画儿___。(partícula: 'como se fosse')",
+    "o": [
+     "似的",
+     "而已",
+     "的话",
+     "来着"
+    ],
+    "a": "似的",
+    "ex": "Depois de 像 + substantivo, a partícula que fecha a comparação é 似的. 而已 significa 'e nada mais', 的话 exige uma oração condicional e 来着 lembra algo já dito — nenhuma delas serve depois de 像画儿."
+   },
+   {
+    "s": "他在楼下走___走去,不知道在等谁。(formato fixo A来A去)",
+    "o": [
+     "来",
+     "得",
+     "着",
+     "过"
+    ],
+    "a": "来",
+    "ex": "O formato é A来A去, com o mesmo verbo dos dois lados: 走来走去. 走得走去, 走着走去 e 走过走去 não existem — 得, 着 e 过 são complementos e partículas que não formam esse par de repetição."
+   },
+   {
+    "s": "这件事他想来想___,还是想不出办法。(formato fixo A来A去)",
+    "o": [
+     "去",
+     "了",
+     "着",
+     "得"
+    ],
+    "a": "去",
+    "ex": "O par é sempre 来…去 com o verbo repetido: 想来想去. 想了想去, 想着想去 e 想得想去 quebram o formato e não exprimem a repetição sem resultado."
+   },
+   {
+    "s": "我们看着___着,天就黑了,只好回家。(formato fixo A着A着)",
+    "o": [
+     "看",
+     "就",
+     "不",
+     "得"
+    ],
+    "a": "看",
+    "ex": "O formato repete o mesmo verbo com 着 dos dois lados: 看着看着, e a segunda oração traz o fato inesperado (天就黑了). 看着就着, 看着不着 e 看着得着 não existem em chinês."
+   },
+   {
+    "s": "孩子走___走着就停了下来,说脚疼。(formato fixo A着A着)",
+    "o": [
+     "着",
+     "了",
+     "过",
+     "来"
+    ],
+    "a": "着",
+    "ex": "A forma fixa é 走着走着, com 着 repetido para marcar a ação em curso que é interrompida. 走了走着, 走过走着 e 走来走着 não formam o padrão e não existem."
+   },
+   {
+    "s": "他一说起足球就___,大家都听累了。(sem fim, sem parar)",
+    "o": [
+     "没完没了",
+     "没大没小",
+     "没头没脑",
+     "没吃没穿"
+    ],
+    "a": "没完没了",
+    "ex": "没完没了 é 'sem fim', o único que combina com 一说起…就 e com o cansaço de quem ouve. 没大没小 é falta de respeito com os mais velhos, 没头没脑 é 'sem pé nem cabeça' e 没吃没穿 descreve pobreza."
+   },
+   {
+    "s": "那时候,山里的人___,一年也吃不上几次肉。(sem comida nem roupa)",
+    "o": [
+     "没吃没穿",
+     "没完没了",
+     "没大没小",
+     "没头没脑"
+    ],
+    "a": "没吃没穿",
+    "ex": "Só 没吃没穿 ('sem comer nem vestir') explica quase nunca comer carne. 没完没了 fala de algo sem fim, 没大没小 de falta de respeito com os mais velhos e 没头没脑 de algo sem lógica — nenhum descreve a pobreza dessas pessoas."
+   },
+   {
+    "s": "这孩子___,刚才还好好的,现在又哭了。(chora num instante)",
+    "o": [
+     "说哭就哭",
+     "说笑就笑",
+     "说走就走",
+     "说睡就睡"
+    ],
+    "a": "说哭就哭",
+    "ex": "A moldura é 说A就A e o contexto escolhe o verbo: estava bem e já chorou, então 说哭就哭. 说笑就笑 contradiz as lágrimas, 说走就走 é sair de repente e 说睡就睡 é adormecer na hora."
+   },
+   {
+    "s": "他做事很快,___,从不等到第二天。(é dizer e é fazer)",
+    "o": [
+     "说干就干",
+     "说干才干",
+     "说干又干",
+     "说干再干"
+    ],
+    "a": "说干就干",
+    "ex": "Na moldura 说A就A quem liga as duas partes é 就, que marca a ação imediata. 才 exige uma condição, 又 indica repetição e 再 fala de uma próxima vez — nenhum forma 说干就干."
+   },
+   {
+    "s": "___,外面下大雨了,快把窗户关上!(Ai, que coisa!)",
+    "o": [
+     "不得了",
+     "忍不住",
+     "来不及",
+     "用不着"
+    ],
+    "a": "不得了",
+    "ex": "不得了 abre a frase como exclamação de susto. 忍不住 ('não consegue se conter') e 用不着 ('não precisa') exigem um verbo depois, e 来不及 ('não dá tempo') não combina com a ordem 快把窗户关上."
+   },
+   {
+    "s": "这孩子才五岁就会写这么多汉字,真___。(fora do comum)",
+    "o": [
+     "不得了",
+     "忍不住",
+     "说不定",
+     "用不着"
+    ],
+    "a": "不得了",
+    "ex": "真不得了 = 'é fora do comum', o elogio que combina com uma criança de cinco anos que já escreve tanto. 忍不住 e 用不着 pedem verbo depois, e 说不定 ('talvez') não se usa com 真."
+   },
+   {
+    "s": "这儿我去过很多次,你___给我带路。(não precisa)",
+    "o": [
+     "用不着",
+     "不敢",
+     "不肯",
+     "不该"
+    ],
+    "a": "用不着",
+    "ex": "用不着 + verbo = 'não há necessidade'. Como eu já conheço o caminho, não faz sentido 不敢 ('não tem coragem'), 不肯 ('não quer') nem 不该 ('não deveria')."
+   },
+   {
+    "s": "他的病不重,___住医院。(não precisa)",
+    "o": [
+     "用不着",
+     "不得不",
+     "忍不住",
+     "说不定"
+    ],
+    "a": "用不着",
+    "ex": "Se a doença não é grave, não há necessidade: 用不着住医院. 不得不 ('não tem outra saída') contradiz 不重, 忍不住 ('não se contém') não combina com 住医院 e 说不定 ('talvez') não nega necessidade nenhuma."
+   },
+   {
+    "s": "___天气来看,明天不会下雨。(a julgar pelo)",
+    "o": [
+     "从",
+     "在",
+     "当",
+     "跟"
+    ],
+    "a": "从",
+    "ex": "A moldura é 从……来看. 在 só marca lugar ou tempo em curso, 当 ('naquele momento') não introduz ponto de vista e 跟 pede 跟……一样/差不多 — nenhum fecha com 来看."
+   },
+   {
+    "s": "___这次比赛来看,我们还要多练习。(a julgar por)",
+    "o": [
+     "从",
+     "为了",
+     "除了",
+     "关于"
+    ],
+    "a": "从",
+    "ex": "Só 从……来看 introduz a evidência de onde vem a conclusão. 为了 marca finalidade, 除了 exclui ('além de') e 关于 introduz o assunto sem combinar com 来看."
+   },
+   {
+    "s": "下课了,孩子们在公园里___,热闹得很。(uns correm, outros pulam)",
+    "o": [
+     "跑的跑,跳的跳",
+     "跑就跑,跳就跳",
+     "跑着跑,跳着跳",
+     "跑也跑,跳也跳"
+    ],
+    "a": "跑的跑,跳的跳",
+    "ex": "A的A,B的B descreve ações misturadas ao mesmo tempo. 跑就跑 é a moldura 说A就A (decisão imediata), e 跑着跑 / 跑也跑 não existem como moldura em chinês."
+   },
+   {
+    "s": "他们家___,只有他一个人能工作。(uns velhos, outros crianças)",
+    "o": [
+     "老的老,小的小",
+     "越老越,越小越",
+     "老就老,小就小",
+     "老也老,小也小"
+    ],
+    "a": "老的老,小的小",
+    "ex": "老的老,小的小 descreve os dois grupos da família de uma vez e explica por que só ele trabalha. 越老越 fica sem complemento (越……越……), 老就老 seria 说A就A e 老也老 não forma moldura."
+   },
+   {
+    "s": "___上个月以来,他每天都工作到很晚。(desde)",
+    "o": [
+     "自",
+     "当",
+     "离",
+     "往"
+    ],
+    "a": "自",
+    "ex": "Só 自 forma o par 自……以来 ('desde'). 当 ('naquele momento'), 离 (distância ou prazo a partir de) e 往 (direção) não se ligam a 以来."
+   },
+   {
+    "s": "自从我上大学___,就很少回家了。(peça que fecha 'desde que')",
+    "o": [
+     "以来",
+     "的话",
+     "似的",
+     "一样"
+    ],
+    "a": "以来",
+    "ex": "自从……以来 é o par fixo de tempo. 的话 marca hipótese e exige 要是/如果, 似的 e 一样 marcam comparação e exigem 像/跟."
+   },
+   {
+    "s": "这个学习小组___五名学生和两名老师组成。(formado por)",
+    "o": [
+     "由",
+     "把",
+     "被",
+     "在"
+    ],
+    "a": "由",
+    "ex": "A moldura é 由……组成 ('ser formado por'). 把 e 被 exigem uma ação feita ao objeto, e aqui 组成 só descreve a composição do sujeito; 在 apenas indica lugar."
+   },
+   {
+    "s": "这本书由三个部分___,一共有三十课。(compor)",
+    "o": [
+     "组成",
+     "参加",
+     "见面",
+     "帮忙"
+    ],
+    "a": "组成",
+    "ex": "由……组成 é a moldura de composição. 参加 pediria 有…参加, e 见面 e 帮忙 são verbos que não aceitam esse sujeito coletivo depois de 由."
+   },
+   {
+    "s": "这件事告诉他___,不告诉他也不是,我真不知道怎么办。(nem uma coisa nem outra)",
+    "o": [
+     "也不是",
+     "就不是",
+     "又不",
+     "还是不"
+    ],
+    "a": "也不是",
+    "ex": "X也不是,Y也不是 pede as duas metades em paralelo com 也不是. 就不是 quebra o paralelo, 又不 fica sem complemento e 还是不 introduziria uma escolha ('melhor…'), não um dilema."
+   },
+   {
+    "s": "妈妈说去,爸爸说别去,我去___,不去也不是。(nem X nem Y)",
+    "o": [
+     "也不是",
+     "就不",
+     "才好",
+     "又不"
+    ],
+    "a": "也不是",
+    "ex": "Só 也不是 mantém o paralelo 去也不是,不去也不是 ('se eu for não presta, se não for também não'). 就不, 才好 e 又不 não formam a moldura e ainda contradizem a segunda metade."
+   },
+   {
+    "s": "妈妈的手机,你拿也拿___,用也用不得,快放下!(não pode usar)",
+    "o": [
+     "不得",
+     "不了",
+     "不完",
+     "不住"
+    ],
+    "a": "不得",
+    "ex": "A moldura é X也X不得,Y也Y不得: como o segundo verbo já veio com 不得 (proibição), o primeiro repete 不得. 不了 é incapacidade ('não consigo usar'), 不完 é não terminar e 不住 é não aguentar."
+   },
+   {
+    "s": "这是别人的东西,动也动___,拿也拿不得,快送回去。(não se pode mexer)",
+    "o": [
+     "不得",
+     "不了",
+     "不完",
+     "不住"
+    ],
+    "a": "不得",
+    "ex": "O paralelo com 拿也拿不得 exige 不得: a moldura fala de proibição, não de incapacidade. 动不了 seria 'não consigo mover', 动不完 'não termino de mover' e 动不住 não existe."
+   },
+   {
+    "s": "手机这东西,让你高兴的是它,让你难过的也是___。(ele, a mesma coisa)",
+    "o": [
+     "它",
+     "他",
+     "谁",
+     "什么"
+    ],
+    "a": "它",
+    "ex": "O assunto é 手机, uma coisa, então o pronome que retoma é 它. 他 só serve para pessoas, e 谁/什么 transformariam a frase numa pergunta."
+   },
+   {
+    "s": "这只小猫,让你笑的是它,让你___的也是它,真没办法。(deixar bravo)",
+    "o": [
+     "生气",
+     "不住",
+     "下来",
+     "过去"
+    ],
+    "a": "生气",
+    "ex": "Depois de 让你+___+的 entra um verbo de sentimento que contraste com 笑: 生气. 不住, 下来 e 过去 são complementos que não preenchem esse lugar (让你不住的 / 让你下来的 não têm sentido aqui)."
+   },
+   {
+    "s": "闲着___闲着,不如出去走走。(já que está à toa)",
+    "o": [
+     "也是",
+     "又是",
+     "才是",
+     "不是"
+    ],
+    "a": "也是",
+    "ex": "A moldura concessiva é X着也是X着 ('já que está assim mesmo'), que abre a sugestão com 不如. 又是 marca repetição, 才 exige condição e 不是 negaria o estado — nenhum liga as duas metades."
+   },
+   {
+    "s": "反正___,不如出去买东西。(já que estamos só sentados)",
+    "o": [
+     "坐着也是坐着",
+     "坐了也是坐了",
+     "坐着也坐着",
+     "坐着就是坐着了"
+    ],
+    "a": "坐着也是坐着",
+    "ex": "O frame é V着也是V着: o verbo com 着 (estado em curso) repetido e ligado por 也是. 坐了 fala de ação concluída, 坐着也坐着 fica sem o 是 da moldura e 坐着就是坐着了 soa como resignação, não como abertura para 不如."
+   },
+   {
+    "s": "___,他也是个孩子,别生他的气。(seja como for)",
+    "o": [
+     "不管怎样说",
+     "不怎么说",
+     "怎么也不说",
+     "不管怎样地"
+    ],
+    "a": "不管怎样说",
+    "ex": "不管怎样说 é a locução fixa ('seja como for') e casa com 也 na oração principal. 不怎么说 ('não fala muito') e 怎么也不说 ('de jeito nenhum diz') mudam o sentido, e 不管怎样地 não existe — a locução não leva 地."
+   },
+   {
+    "s": "不管怎样说,他___帮过我们,我们应该谢谢他。(afinal de contas)",
+    "o": [
+     "也",
+     "才",
+     "更",
+     "不"
+    ],
+    "a": "也",
+    "ex": "Depois de 不管怎样说 a oração principal pede 也 (ou 都): 'seja como for, ele já nos ajudou'. 才 marca condição, 更 compara grau e 不 tornaria a frase agramatical com 帮过."
+   },
+   {
+    "s": "真有___,连这种事你都想得出来!(você é demais, hein)",
+    "o": [
+     "你的",
+     "你了",
+     "你吗",
+     "你吧"
+    ],
+    "a": "你的",
+    "ex": "A fórmula é 真有你(的)!: o 的 final dá o tom de exclamação. 了 marcaria mudança de estado e 吗/吧 transformariam a exclamação em pergunta."
+   },
+   {
+    "s": "___,连老师的电话都忘了!(você é demais, hein)",
+    "o": [
+     "真有你(的)",
+     "真没你(的)",
+     "真是你(的)",
+     "真像你(的)"
+    ],
+    "a": "真有你(的)",
+    "ex": "Só 真有你(的)! exprime 'você é demais, hein'. 真没你(的) não existe, 真是你(的) diria 'é você mesmo' e 真像你(的) faria uma comparação."
+   },
+   {
+    "s": "___,不就是丢了一辆车吗?(medo de quê?)",
+    "o": [
+     "怕什么怕",
+     "怕不怕",
+     "什么怕",
+     "怕什么了"
+    ],
+    "a": "怕什么怕",
+    "ex": "X什么X é a pergunta retórica que manda parar com aquilo: 怕什么怕 = 'medo de quê?'. 怕不怕 é pergunta neutra de sim/não, 什么怕 não existe e 怕什么了 não fecha a moldura."
+   },
+   {
+    "s": "你___,不过是个玩笑。(rir por quê?)",
+    "o": [
+     "笑什么笑",
+     "笑不笑",
+     "什么笑",
+     "笑了吗"
+    ],
+    "a": "笑什么笑",
+    "ex": "Só 笑什么笑 é a moldura retórica 'rir por quê?', que combina com 'não passou de uma brincadeira'. 笑不笑 é pergunta de sim/não, 什么笑 não existe e 笑了吗 pergunta se a pessoa já riu."
+   },
+   {
+    "s": "___,只要他高兴,我们就去。(essa de longe ou não longe)",
+    "o": [
+     "什么远不远的",
+     "怎么远不远的",
+     "为什么远不远的",
+     "多远不远的"
+    ],
+    "a": "什么远不远的",
+    "ex": "什么X不X(的) descarta a oposição: 'longe ou não longe, tanto faz'. 怎么 e 为什么 fariam uma pergunta real, e 多……的 pediria um adjetivo só (多远的), sem o par 远不远."
+   },
+   {
+    "s": "他这个人,___,只要自己高兴就行。(gostar ou não gostar, tanto faz)",
+    "o": [
+     "什么喜欢不喜欢的",
+     "怎么喜欢不喜欢的",
+     "为什么喜欢不喜欢的",
+     "喜欢不喜欢的什么"
+    ],
+    "a": "什么喜欢不喜欢的",
+    "ex": "A moldura é 什么X不X(的), com 什么 na frente e 的 no fim, para descartar a diferença. 怎么/为什么 fariam pergunta real e 喜欢不喜欢的什么 inverte as peças, o que não existe."
+   },
+   {
+    "s": "反正不要钱,不拿___。(se é de graça, melhor pegar)",
+    "o": [
+     "白不拿",
+     "就不拿",
+     "也白拿",
+     "才不拿"
+    ],
+    "a": "白不拿",
+    "ex": "A moldura é 不X白不X, com 白 ('de graça') no meio: se é de graça, não pegar seria desperdício. 就不拿 e 才不拿 dizem o contrário, e 也白拿 quebra a moldura."
+   },
+   {
+    "s": "这水不要钱,___,快喝吧。(se é de graça, beba)",
+    "o": [
+     "不喝白不喝",
+     "不喝就不喝",
+     "喝了也白喝",
+     "白喝不白喝"
+    ],
+    "a": "不喝白不喝",
+    "ex": "不X白不X diz que recusar o que é grátis seria desperdício, e por isso combina com 快喝吧. 不喝就不喝 ('se não beber, não bebeu') contradiz o convite, 喝了也白喝 ('beber é em vão') diz o contrário e 白喝不白喝 não é moldura."
+   },
+   {
+    "s": "___,他还是不同意我们的计划。(vai e vem, no fim das contas)",
+    "o": [
+     "说来说去",
+     "说去说去",
+     "说来就是",
+     "说就是说"
+    ],
+    "a": "说来说去",
+    "ex": "A moldura é X来X去 ('de tanto dizer e redizer'), seguida de 都是/就是 com a conclusão. As outras três trocam as peças e não existem em chinês."
+   },
+   {
+    "s": "我___,还是觉得应该先告诉他。(pensa daqui, pensa dali)",
+    "o": [
+     "想来想去",
+     "想也不想",
+     "想不到",
+     "想起来"
+    ],
+    "a": "想来想去",
+    "ex": "想来想去 ('de tanto pensar') leva à conclusão marcada por 还是觉得. 想也不想 é o oposto ('sem pensar nada'), 想不到 significa 'não esperava' e 想起来 é 'lembrar' — nenhum introduz uma conclusão amadurecida."
+   },
+   {
+    "s": "妈妈说什么___,我们都得听。(o que ela diz, vale)",
+    "o": [
+     "就是什么",
+     "就不是什么",
+     "才是什么",
+     "还是什么"
+    ],
+    "a": "就是什么",
+    "ex": "A moldura é 说什么就是什么: 就 liga o que foi dito ao que vale. 就不是什么 nega, 才是什么 exigiria uma condição (只有……才) e 还是什么 faria uma pergunta."
+   },
+   {
+    "s": "老师说什么___什么,学生们只好听着。(é lei)",
+    "o": [
+     "就是",
+     "才",
+     "又",
+     "很"
+    ],
+    "a": "就是",
+    "ex": "说什么就是什么 é a moldura fixa, e 就是 é a peça que a fecha. 才 pede condição (只有……才), 又 marca repetição e 很 não pode ligar dois predicados."
+   },
+   {
+    "s": "他___打篮球,身体一直很好。(todo dia na escola)",
+    "o": [
+     "每天在学校",
+     "在学校每天",
+     "每天学校在",
+     "在每天学校"
+    ],
+    "a": "每天在学校",
+    "ex": "Na ordem dos adverbiais o tempo vem antes do lugar: 每天 + 在学校 + 打篮球. 在学校每天 inverte as duas marcas, e as outras duas separam 在 do lugar que ela introduz."
+   },
+   {
+    "s": "他每天___七点起床。(sempre, sem exceção)",
+    "o": [
+     "都",
+     "很",
+     "非常",
+     "太"
+    ],
+    "a": "都",
+    "ex": "A ordem é tempo + 都 + expressão de hora + verbo: 每天都七点起床. 很, 非常 e 太 são advérbios de grau e só modificam adjetivos ou verbos de estado — nunca uma hora."
+   },
+   {
+    "s": "这种玩笑开___,会让别人生气的。(não se pode contar)",
+    "o": [
+     "不得",
+     "不住",
+     "不过",
+     "不下"
+    ],
+    "a": "不得",
+    "ex": "V+不得 diz que a ação não é admissível: 开不得 = 'não se deve contar'. 开不住, 开不过 e 开不下 não são complementos possíveis de 开."
+   },
+   {
+    "s": "那儿晚上一个人去___,太危险了。(não se deve ir)",
+    "o": [
+     "不得",
+     "不完",
+     "不住",
+     "不过"
+    ],
+    "a": "不得",
+    "ex": "去不得 = 'não se deve ir': 不得 expressa perigo ou proibição. 去不完 ('não terminar de ir'), 去不住 e 去不过 não se combinam com 去."
+   },
+   {
+    "s": "跑了一天,他累___不得了,一进门就睡了。(partícula do complemento de grau)",
+    "o": [
+     "得",
+     "的",
+     "地",
+     "了"
+    ],
+    "a": "得",
+    "ex": "O complemento de grau se liga ao adjetivo com 得: 累得不得了. 的 marca atributo, 地 marca adverbial e 了 marca mudança de estado — nenhum introduz complemento."
+   },
+   {
+    "s": "这几天他忙___,连电话也没时间打。(ocupado ao extremo)",
+    "o": [
+     "不得了",
+     "很",
+     "真",
+     "十分"
+    ],
+    "a": "不得了",
+    "ex": "Depois de 得 só entra complemento: 不得了 fecha o grau extremo. 很, 真 e 十分 são advérbios e não funcionam como complemento (o certo seria 很忙, sem 得)."
+   },
+   {
+    "s": "别停,再坚持___,一定能成功。(continuar)",
+    "o": [
+     "下去",
+     "下来",
+     "起来",
+     "过来"
+    ],
+    "a": "下去",
+    "ex": "下去 continua uma ação já em curso ('siga em frente'). 下来 olha para o ponto de chegada ('aguentar até o fim'), 起来 marca o começo e 过来 a passagem para cá — com 别停 + 再, só 下去 serve."
+   },
+   {
+    "s": "一说到小时候,我就想___很多快乐的事。(lembrar)",
+    "o": [
+     "起来",
+     "下去",
+     "下来",
+     "过去"
+    ],
+    "a": "起来",
+    "ex": "想起来 = 'lembrar (de repente)': aqui 起 indica o surgimento de um estado. 想下去 seria continuar pensando, 想下来 não existe nesse sentido e 想过去 leria como 'pensar no passado'."
+   },
+   {
+    "s": "妈妈累___一坐下就睡着了。(complemento de estado)",
+    "o": [
+     "得",
+     "的",
+     "地",
+     "着"
+    ],
+    "a": "得",
+    "ex": "Só 得 abre um complemento de estado: 累得一坐下就睡着了. 的 liga atributo a substantivo, 地 marca advérbio e 着 marca aspecto contínuo — nenhum introduz complemento."
+   },
+   {
+    "s": "老师讲___,连坐在最后一排的学生也听到了。(complemento de estado após verbo)",
+    "o": [
+     "得很清楚",
+     "清楚得很",
+     "的很清楚",
+     "得清楚很"
+    ],
+    "a": "得很清楚",
+    "ex": "A ordem é verbo+得+complemento: 讲得很清楚. 清楚得很 inverte o complemento para antes do 得 obrigatório, 的很清楚 usa o marcador errado e 得清楚很 quebra a ordem do próprio complemento."
+   },
+   {
+    "s": "墙上___一张画,是弟弟自己画的。(有字句3: 动词+有, aderência)",
+    "o": [
+     "挂有",
+     "挂着有",
+     "挂到",
+     "挂在"
+    ],
+    "a": "挂有",
+    "ex": "Para dizer que algo está aderido à superfície usa-se verbo+有: 挂有一张画. 挂着有 empilha dois marcadores de estado, e 挂到/挂在 exigem um complemento de lugar, não o objeto."
+   },
+   {
+    "s": "他___丰富的工作经验,一定能解决这个问题。(有字句3: 主语+有+着, existência)",
+    "o": [
+     "有着",
+     "在",
+     "是",
+     "过着"
+    ],
+    "a": "有着",
+    "ex": "有+着 exprime posse/existência de algo abstrato: 有着丰富的经验. 在 e 是 não podem reger esse objeto, e 过着 só combina com 生活/日子."
+   },
+   {
+    "s": "他把门___关,生气地走了出去。(把字句3: 主语+把+宾语+一+动词)",
+    "o": [
+     "一",
+     "就",
+     "又",
+     "再"
+    ],
+    "a": "一",
+    "ex": "O padrão é 把+objeto+一+verbo, ação rápida e decidida: 把门一关. 就 não entra nesse slot (iria antes do segundo verbo), 又 exigiria 又关上了 e 再 pediria uma repetição futura."
+   },
+   {
+    "s": "我把作业___了老师,然后就回家了。(把字句3: 把+宾语1+动词+宾语2)",
+    "o": [
+     "交给",
+     "给交",
+     "交到",
+     "交着"
+    ],
+    "a": "交给",
+    "ex": "Em 把+O1+V+O2 o verbo precisa de 给 para introduzir o recebedor: 交给了老师. 给交 inverte a ordem, 交到 pede um lugar e 交着 não existe nesse padrão."
+   },
+   {
+    "s": "弟弟___就笑了起来。(连动句3: V1 causa → V2 resultado)",
+    "o": [
+     "一看见妈妈",
+     "看见妈妈一",
+     "把妈妈看见",
+     "妈妈一看见"
+    ],
+    "a": "一看见妈妈",
+    "ex": "A causa vem primeiro, com 一+verbo: 一看见妈妈就笑了起来. 看见妈妈一 coloca o 一 fora do lugar, 把妈妈看见 é agramatical (verbo de percepção não aceita 把) e 妈妈一看见 troca o sujeito da frase."
+   },
+   {
+    "s": "他___,连新衣服也不买。(连动句3: relação adversativa)",
+    "o": [
+     "有钱不花",
+     "不花有钱",
+     "钱有不花",
+     "有钱不"
+    ],
+    "a": "有钱不花",
+    "ex": "A série verbal adversativa é 有+objeto+不+verbo: 有钱不花 ('tem dinheiro e não gasta'). As demais trocam a ordem dos dois verbos e 有钱不 fica sem o verbo que fecha a estrutura."
+   },
+   {
+    "s": "姐姐___我五岁,已经工作了。(comparação: adjetivo + quantidade)",
+    "o": [
+     "大",
+     "比",
+     "更",
+     "很"
+    ],
+    "a": "大",
+    "ex": "Nesse modelo o adjetivo é transitivo: 大我五岁. 比 e 更 são preposição e advérbio, não podem reger 我五岁, e 很 não admite objeto."
+   },
+   {
+    "s": "他___我一个头,一眼就能看出来。(comparação: adjetivo + quantidade)",
+    "o": [
+     "高",
+     "比高",
+     "高比",
+     "比"
+    ],
+    "a": "高",
+    "ex": "A forma é A+形容词+B+数量补语: 高我一个头. 比高 e 高比 misturam as duas estruturas, e 比 sozinho deixa a frase sem adjetivo."
+   },
+   {
+    "s": "我的手机被弟弟___弄坏了,我只好去买新的。(被动句3: 被+agente+给+动词)",
+    "o": [
+     "给",
+     "了",
+     "把",
+     "被"
+    ],
+    "a": "给",
+    "ex": "O 给 de reforço vem entre o agente e o verbo: 被弟弟给弄坏了. 了 não ocupa esse slot, 把 abriria outra construção e repetir 被 antes do verbo é agramatical."
+   },
+   {
+    "s": "作业___老师给退回来了,他要重写一遍。(被动句3: 被+agente+给+动词)",
+    "o": [
+     "被",
+     "把",
+     "对",
+     "跟"
+    ],
+    "a": "被",
+    "ex": "O sujeito 作业 é paciente, então só a marca passiva 被 cabe antes do agente. 把 exigiria que 作业 fosse o agente, e 对/跟 são preposições que não formam passiva."
+   },
+   {
+    "s": "他一进门,___发现桌子上放着一封信。(承接复句: ……,便……)",
+    "o": [
+     "便",
+     "把",
+     "被",
+     "对"
+    ],
+    "a": "便",
+    "ex": "便 é o 就 formal que marca a sequência logo após o sujeito. 把/被/对 são preposições e precisam de um objeto antes do verbo, não podem ocupar o slot do advérbio."
+   },
+   {
+    "s": "他先洗了手,___坐下来吃饭。(承接复句: ……,便……)",
+    "o": [
+     "便",
+     "被",
+     "让",
+     "给"
+    ],
+    "a": "便",
+    "ex": "A segunda ação segue a primeira com 便 (=就). 被/让/给 são marcas de passiva ou de causativo e exigiriam um agente ou um objeto, que a frase não tem."
+   },
+   {
+    "s": "他或是走路,___骑自行车去上班。(选择复句: 或是……,或是……)",
+    "o": [
+     "或是",
+     "就是",
+     "而是",
+     "但是"
+    ],
+    "a": "或是",
+    "ex": "A dupla é 或是……,或是……. 就是 só funciona no par 不是……就是……, 而是 exige 不是 antes e 但是 introduz contraste, não alternativa."
+   },
+   {
+    "s": "___看书,或是听音乐,他每天过得都很开心。(选择复句: 或是……,或是……)",
+    "o": [
+     "或是",
+     "虽然",
+     "不但",
+     "哪怕"
+    ],
+    "a": "或是",
+    "ex": "O primeiro 或是 fecha o par com o segundo. 虽然 pediria 但是, 不但 pediria 而且/还 e 哪怕 pediria 也 — nenhum combina com 或是."
+   },
+   {
+    "s": "___离开家,他就会想念妈妈做的饭。(hipótese: uma vez que… então…)",
+    "o": [
+     "一旦",
+     "虽然",
+     "即使",
+     "尽管"
+    ],
+    "a": "一旦",
+    "ex": "一旦……就…… liga a hipótese ao resultado. 虽然/即使/尽管 são concessivos e exigem 也 ou 还是 no segundo membro, nunca 就."
+   },
+   {
+    "s": "把电话带上,___孩子找不到我们就麻烦了。(hipótese improvável e ruim)",
+    "o": [
+     "万一",
+     "既然",
+     "虽然",
+     "尽管"
+    ],
+    "a": "万一",
+    "ex": "万一 apresenta um imprevisto improvável e ruim ('se por acaso'). 既然 parte de um fato já consumado, e 虽然/尽管 são concessivos que pedem 也/还是."
+   },
+   {
+    "s": "早点儿睡吧,___明天起不来。(……,要不然/不然……)",
+    "o": [
+     "要不然",
+     "既然",
+     "只要",
+     "哪怕"
+    ],
+    "a": "要不然",
+    "ex": "要不然 introduce o que acontece de ruim se o conselho não for seguido ('senão'). 既然 e 只要 abrem uma premissa, e 哪怕 exige 也 no segundo membro — nenhuma fecha essa frase sozinha."
+   },
+   {
+    "s": "把窗户关上,___外面太吵了。(……,要不然/不然……)",
+    "o": [
+     "不然",
+     "可见",
+     "因而",
+     "哪怕"
+    ],
+    "a": "不然",
+    "ex": "不然 = 'senão', apontando a consequência de não fechar a janela. 可见 conclui a partir de uma evidência, 因而 daria a entender que fechar a janela causa o barulho e 哪怕 exige 也."
+   },
+   {
+    "s": "他每次考试都是第一名,___他学习很努力。(conclusão a partir de evidência)",
+    "o": [
+     "可见",
+     "万一",
+     "哪怕",
+     "或是"
+    ],
+    "a": "可见",
+    "ex": "可见 tira a conclusão a partir da evidência citada. 万一 levanta um imprevisto, 哪怕 é concessivo e precisa de 也, e 或是 enumera alternativas — nada disso conclui."
+   },
+   {
+    "s": "这条路正在修,___我们只好换一条路走。(consequência lógica)",
+    "o": [
+     "因而",
+     "万一",
+     "或是",
+     "哪怕"
+    ],
+    "a": "因而",
+    "ex": "因而 apresenta a consequência da causa anterior. 万一 hipotetiza um imprevisto, 或是 lista alternativas e 哪怕 concede um caso extremo esperando 也."
+   },
+   {
+    "s": "___再难,他也要把这件事做完。(让步复句: 哪怕……,也……)",
+    "o": [
+     "哪怕",
+     "因为",
+     "只要",
+     "可见"
+    ],
+    "a": "哪怕",
+    "ex": "哪怕……也…… concede o extremo e mantém o resultado. 因为 e 可见 não abrem uma concessão, e 只要 casa com 就, não com 也."
+   },
+   {
+    "s": "哪怕下大雪,他___坚持每天跑步。(让步复句: 哪怕……,也……)",
+    "o": [
+     "也",
+     "就",
+     "才",
+     "便"
+    ],
+    "a": "也",
+    "ex": "O par fixo é 哪怕……也……. 就/便 encadeiam ações em sequência e 才 marca condição restritiva; nenhum forma par concessivo com 哪怕."
+   },
+   {
+    "s": "他不但不接受意见,___发起了脾气。(递进复句: 不但不……,反而……)",
+    "o": [
+     "反而",
+     "就",
+     "才",
+     "便"
+    ],
+    "a": "反而",
+    "ex": "不但不 pede 反而 (ou 还) no segundo membro, mostrando o contrário do esperado. 就/便/才 são advérbios de sequência ou de condição e deixam o 不但不 sem par."
+   },
+   {
+    "s": "吃了这个药,他___没有好转,反而更难受了。(递进复句: 不但没有……,反而……)",
+    "o": [
+     "不但",
+     "因为",
+     "万一",
+     "哪怕"
+    ],
+    "a": "不但",
+    "ex": "Só 不但没有 forma par com 反而. 因为 daria uma causa solta sem consequência marcada, 万一 hipotetiza e 哪怕 exige 也 — nenhum casa com 反而."
+   },
+   {
+    "s": "他每天六点起床读书,___考上好大学。(目的复句: ……,为的是……)",
+    "o": [
+     "为的是",
+     "可见",
+     "万一",
+     "或是"
+    ],
+    "a": "为的是",
+    "ex": "为的是 anuncia a finalidade da ação anterior. 可见 conclui a partir de uma evidência, 万一 levanta um imprevisto e 或是 enumera alternativas — nenhuma expressa finalidade."
+   },
+   {
+    "s": "妈妈每天很早就起床做饭,___我们上学不迟到。(目的复句: ……,为的是……)",
+    "o": [
+     "为的是",
+     "反而",
+     "哪怕",
+     "一旦"
+    ],
+    "a": "为的是",
+    "ex": "A segunda oração diz para que a mãe acorda cedo: 为的是. 反而 inverte a expectativa (exigiria 不但不), 哪怕 é concessivo e pede 也, e 一旦 introduz hipótese com 就."
+   },
+   {
+    "s": "___老师的帮助,就没有我的今天。(sem X não há Y)",
+    "o": [
+     "没有",
+     "因为",
+     "虽然",
+     "如果"
+    ],
+    "a": "没有",
+    "ex": "没有…就没有… é o par fixo. 因为/虽然/如果 não abrem a dupla negação de condição+resultado."
+   },
+   {
+    "s": "没有大家的努力,___今天的成绩。(sem X não há Y)",
+    "o": [
+     "就没有",
+     "才有",
+     "就有",
+     "也会有"
+    ],
+    "a": "就没有",
+    "ex": "O segundo membro repete 没有: 没有…就没有…. 才有/就有/也会有 contradizem a condição negada."
+   },
+   {
+    "s": "他___地往前走,一点儿也不急。(nem apressado nem devagar)",
+    "o": [
+     "不紧不慢",
+     "很快很慢",
+     "又紧又慢",
+     "很紧很慢"
+    ],
+    "a": "不紧不慢",
+    "ex": "不紧不慢 = 'sem pressa, nem rápido nem devagar'. 很快很慢/又紧又慢/很紧很慢 não formam o四字格 不A不B."
+   },
+   {
+    "s": "这办法___不知道好不好。(se não tentar, não sabe)",
+    "o": [
+     "不试",
+     "不吃",
+     "不看",
+     "不听"
+    ],
+    "a": "不试",
+    "ex": "不试不知道 = 'se não tentar, não sabe'. 不吃/不看/听 não combinam com 办法 (método)."
+   },
+   {
+    "s": "___忙,也要按时吃饭。(por mais que)",
+    "o": [
+     "再",
+     "又",
+     "还",
+     "也"
+    ],
+    "a": "再",
+    "ex": "再+adj+也 = concessão ('por mais ocupado'). 又/还/也 não abrem o par 再…也."
+   },
+   {
+    "s": "明天___下雨,我们也要去。(mesmo que)",
+    "o": [
+     "再",
+     "很",
+     "非常",
+     "太"
+    ],
+    "a": "再",
+    "ex": "再+verbo+也 = 'mesmo que chova'. 很/非常/太 não podem modificar 下雨 (verbo) nesse frame."
+   }
+  ],
+  "frases": [
+   {
+    "zh": "墙是用石头做的",
+    "pt": "O muro é feito de pedra."
+   },
+   {
+    "zh": "本公司明天开始放假",
+    "pt": "Nossa empresa entra de férias amanhã."
+   },
+   {
+    "zh": "他买了一匹白马",
+    "pt": "Ele comprou um cavalo branco."
+   },
+   {
+    "zh": "这部电视剧一共二十集",
+    "pt": "Esta série tem vinte episódios no total."
+   },
+   {
+    "zh": "我只看了一眼就喜欢上了",
+    "pt": "Bastou uma olhada para eu gostar."
+   },
+   {
+    "zh": "他可喜欢这部电影了",
+    "pt": "Ele gosta demais deste filme."
+   },
+   {
+    "zh": "请尽快给我回电话",
+    "pt": "Me ligue de volta o quanto antes."
+   },
+   {
+    "zh": "他时常想起小时候的事",
+    "pt": "Ele se lembra com frequência da infância."
+   },
+   {
+    "zh": "这件事得他亲自去办",
+    "pt": "Isso tem de ser tratado por ele em pessoa."
+   },
+   {
+    "zh": "一旦有问题就来找我",
+    "pt": "Se houver qualquer problema, venha me procurar."
+   },
+   {
+    "zh": "她仿佛没听见我的话",
+    "pt": "Ela fez como se não tivesse me ouvido."
+   },
+   {
+    "zh": "反正他不同意",
+    "pt": "De qualquer jeito, ele não concorda."
+   },
+   {
+    "zh": "自从那时起他就变了",
+    "pt": "Desde aquela época ele mudou."
+   },
+   {
+    "zh": "他一直朝着学校的方向看",
+    "pt": "Ele ficou olhando na direção da escola."
+   },
+   {
+    "zh": "我替他买了两张票",
+    "pt": "Comprei dois ingressos no lugar dele."
+   },
+   {
+    "zh": "据说他下个月结婚",
+    "pt": "Dizem que ele casa no mês que vem."
+   },
+   {
+    "zh": "我买了笔、本子以及一张地图",
+    "pt": "Comprei canetas, cadernos e um mapa."
+   },
+   {
+    "zh": "假如你有时间就来找我",
+    "pt": "Se você tiver tempo, venha me procurar."
+   },
+   {
+    "zh": "他像孩子似的笑着",
+    "pt": "Ele ria como uma criança."
+   },
+   {
+    "zh": "他忙来忙去,什么也没做好",
+    "pt": "Ele correu de um lado para o outro e não fez nada direito."
+   },
+   {
+    "zh": "说着说着他就笑了",
+    "pt": "No meio da conversa, ele caiu na risada."
+   },
+   {
+    "zh": "他一说起玩就没完没了。",
+    "pt": "Quando começa a falar de brincadeira, não para mais."
+   },
+   {
+    "zh": "他这个人说走就走。",
+    "pt": "Ele é do tipo que vai embora na hora."
+   },
+   {
+    "zh": "不得了,他又迟到了!",
+    "pt": "Ai, que coisa: ele se atrasou de novo!"
+   },
+   {
+    "zh": "这点儿小事用不着生气。",
+    "pt": "Não vale a pena se irritar por uma bobagem dessas."
+   },
+   {
+    "zh": "从他的话来看,他不想去。",
+    "pt": "Pelo que ele disse, ele não quer ir."
+   },
+   {
+    "zh": "大家说的说,笑的笑,谁也没听老师的话。",
+    "pt": "Todo mundo falando e rindo; ninguém ouviu o professor."
+   },
+   {
+    "zh": "自开学以来,他一天也没休息过。",
+    "pt": "Desde que as aulas começaram, ele não descansou um dia."
+   },
+   {
+    "zh": "这个队由十个人组成。",
+    "pt": "Esta equipe é formada por dez pessoas."
+   },
+   {
+    "zh": "说也不是,不说也不是,真难办。",
+    "pt": "Se eu falo não dá, se não falo também não: complicado."
+   },
+   {
+    "zh": "这药过期了,吃也吃不得。",
+    "pt": "Este remédio venceu: não se pode tomar."
+   },
+   {
+    "zh": "这个游戏,让人高兴的是它,让人着急的也是它。",
+    "pt": "Este jogo: é ele que diverte e é ele que deixa a gente aflito."
+   },
+   {
+    "zh": "闲着也是闲着,帮妈妈做点儿事吧。",
+    "pt": "Já que está à toa mesmo, vá ajudar sua mãe com alguma coisa."
+   },
+   {
+    "zh": "不管怎样说,这件事我们得做完。",
+    "pt": "Seja como for, temos de terminar isto."
+   },
+   {
+    "zh": "真有他的,一个人做了这么多事!",
+    "pt": "Ele é demais: fez tudo isso sozinho!"
+   },
+   {
+    "zh": "急什么急,还有时间呢。",
+    "pt": "Pra que pressa? Ainda dá tempo."
+   },
+   {
+    "zh": "什么好不好的,能用就行。",
+    "pt": "Essa de bom ou não bom: se funciona, está ótimo."
+   },
+   {
+    "zh": "书是别人送的,不看白不看。",
+    "pt": "O livro foi presente: quem não lê é bobo."
+   },
+   {
+    "zh": "想来想去,都是他的错。",
+    "pt": "Pensando bem, a culpa é toda dele."
+   },
+   {
+    "zh": "你别他说什么就是什么。",
+    "pt": "Não vá acreditando em tudo o que ele diz."
+   },
+   {
+    "zh": "我昨天晚上在家跟妈妈一起看了电视。",
+    "pt": "Ontem à noite assisti à TV em casa com a minha mãe."
+   },
+   {
+    "zh": "这水喝不得,太脏了。",
+    "pt": "Esta água não se pode beber: está suja demais."
+   },
+   {
+    "zh": "今天冷得不得了,别出门了。",
+    "pt": "Hoje está um frio insuportável; não saia."
+   },
+   {
+    "zh": "请大家安静下来,现在开始上课。",
+    "pt": "Fiquem quietos, por favor: a aula vai começar."
+   },
+   {
+    "zh": "他说得大家都笑了",
+    "pt": "Ele falou de um jeito que todos riram."
+   },
+   {
+    "zh": "他有着十年的教学经验",
+    "pt": "Ele tem dez anos de experiência como professor."
+   },
+   {
+    "zh": "他把门一关就走了",
+    "pt": "Ele fechou a porta de uma vez e foi embora."
+   },
+   {
+    "zh": "他生病没来上课",
+    "pt": "Ele ficou doente e não veio à aula."
+   },
+   {
+    "zh": "哥哥大我三岁",
+    "pt": "Meu irmão é três anos mais velho que eu."
+   },
+   {
+    "zh": "杯子被弟弟给打碎了",
+    "pt": "O copo foi quebrado pelo meu irmão mais novo."
+   },
+   {
+    "zh": "他吃完早饭便去上班了",
+    "pt": "Ele tomou café e logo foi trabalhar."
+   },
+   {
+    "zh": "周末我或是打球,或是看书",
+    "pt": "No fim de semana, ou jogo bola, ou leio."
+   },
+   {
+    "zh": "万一下雨,我们就取消",
+    "pt": "Se por acaso chover, nós cancelamos."
+   },
+   {
+    "zh": "把作业带上,不然老师会批评你",
+    "pt": "Leve a lição, senão a professora vai te criticar."
+   },
+   {
+    "zh": "他病了,因而没来上班",
+    "pt": "Ele adoeceu, por isso não veio trabalhar."
+   },
+   {
+    "zh": "哪怕很累,他也坚持工作",
+    "pt": "Mesmo muito cansado, ele continua trabalhando."
+   },
+   {
+    "zh": "他不但不道歉,反而发脾气",
+    "pt": "Ele não só não pediu desculpa, como ainda se irritou."
+   },
+   {
+    "zh": "我早点儿出发,为的是不迟到",
+    "pt": "Saio mais cedo para não me atrasar."
+   },
+   {
+    "zh": "没有父母就没有我",
+    "pt": "Sem meus pais, eu não existiria."
+   },
+   {
+    "zh": "他做事不紧不慢",
+    "pt": "Ele faz tudo sem pressa."
+   },
+   {
+    "zh": "再难也要做完",
+    "pt": "Por mais difícil, vou terminar."
+   }
+  ]
+ },
+ "6": {
+  "pontos": [
+   {
+    "t": "类前缀: 超—/多—/反—/无—/亚—/准— (prefixos)",
+    "e": "Esses morfemas vêm ANTES da base e criam palavra nova: 超— (acima do limite), 多— (vários), 反— (contra), 无— (sem), 亚— (sub), 准— (quase/no ponto). Ex.: 超重, 多功能, 无污染, 准点.",
+    "zh": "这种无污染的蔬菜越来越受欢迎。",
+    "pt": "Esses legumes sem poluição estão cada vez mais populares."
+   },
+   {
+    "t": "类后缀: —化/—式/—型/—性 (sufixos)",
+    "e": "—化 forma verbo 'tornar-se' (现代化); —式 indica estilo ou formato (中式); —型 indica modelo (大型); —性 transforma a base em substantivo abstrato (重要性). O sufixo decide a classe da palavra.",
+    "zh": "城市的交通越来越现代化。",
+    "pt": "O trânsito da cidade está cada vez mais modernizado."
+   },
+   {
+    "t": "人称代词: 人家 (os outros / ele-ela / 'eu' coloquial)",
+    "e": "人家 substitui 'as outras pessoas' ou uma terceira pessoa já citada, muitas vezes com tom de elogio ou reprovação. Na fala coloquial pode substituir o próprio falante, em tom de queixa: 人家等了半天了。",
+    "zh": "人家都同意了,你还反对什么?",
+    "pt": "Todo mundo já concordou; o que você ainda tem a objetar?"
+   },
+   {
+    "t": "专用名量词: 串、滴、枝、扇、卷 (classificadores próprios)",
+    "e": "Cada substantivo exige seu classificador: 串 (coisas enfiadas ou em fila), 滴 (gotas), 枝 (flores e hastes), 扇 (portas e janelas), 卷 (coisas enroladas). Trocar o classificador soa errado mesmo com o número certo.",
+    "zh": "他手里拿着一串钥匙。",
+    "pt": "Ele está com um molho de chaves na mão."
+   },
+   {
+    "t": "动量词: 番 (uma rodada de ação ou de fala)",
+    "e": "番 mede ações e falas que se estendem por um tempo: 一番话, 调查一番, 讨论一番. Aparece em 一/这 + 番 + N ou em V + 一番.",
+    "zh": "经过一番调查,我们终于找到了原因。",
+    "pt": "Depois de uma investigação, finalmente encontramos a causa."
+   },
+   {
+    "t": "程度副词: 特、异常、较为 (grau)",
+    "e": "特 é coloquial do norte e equivale a 很; 异常 é escrito e indica grau fora do normal; 较为 é formal e significa 'relativamente'. Só 较为 combina com 一些/一点.",
+    "zh": "他异常激动,一句话也说不出来。",
+    "pt": "Ele ficou anormalmente emocionado e não conseguiu dizer uma palavra."
+   },
+   {
+    "t": "范围副词: 净、一同、大都 (escopo)",
+    "e": "净 = 'nada além de, só' (净说闲话); 一同 = 'juntos, ao mesmo tempo'; 大都 = 'na maioria', não todos. Eles delimitam quanto do grupo a afirmação alcança.",
+    "zh": "我们将一同去参观博物馆。",
+    "pt": "Iremos visitar o museu juntos."
+   },
+   {
+    "t": "时间副词: 一时、不时、仍旧、依旧、一向 (tempo)",
+    "e": "一时 = 'no momento, passageiro'; 不时 = 'de vez em quando'; 仍旧/依旧 = 'ainda, como antes'; 一向 = 'sempre, por hábito'. O ponto é saber se o estado é momentâneo, repetido ou permanente.",
+    "zh": "他不时回头看,好像在等人。",
+    "pt": "Ele olhava para trás de vez em quando, como se estivesse esperando alguém."
+   },
+   {
+    "t": "频率副词: 一再、再三 (repetição)",
+    "e": "一再 e 再三 indicam que a ação se repete várias vezes e vêm antes do verbo: 一再强调, 再三嘱咐. 再三 costuma aparecer com verbos de fala e pensamento (说、请求、考虑).",
+    "zh": "他一再强调,质量比速度更重要。",
+    "pt": "Ele repetidamente enfatizou que a qualidade é mais importante que a velocidade."
+   },
+   {
+    "t": "方式副词: 不禁、赶忙、特地、特意、偷偷 (modo)",
+    "e": "不禁 = 'não conseguir evitar' e só aceita verbos involuntários; 赶忙 = 'às pressas'; 特地/特意 = 'de propósito'; 偷偷 = 'às escondidas'. O modo precisa combinar com o tipo de ação.",
+    "zh": "他特地请了一天假来看我。",
+    "pt": "Ele tirou um dia de folga especialmente para me ver."
+   },
+   {
+    "t": "否定副词: 未必 (não necessariamente)",
+    "e": "未必 nega a certeza em vez de negar o fato: 'não necessariamente, pode ser que não'. Vem antes do verbo ou adjetivo e não aceita outro 不 na mesma oração.",
+    "zh": "贵的东西未必质量好。",
+    "pt": "Coisas caras não são necessariamente de boa qualidade."
+   },
+   {
+    "t": "语气副词: 恰好、倒是、干脆、明明、总算 (tom do falante)",
+    "e": "恰好 = 'bem naquele momento'; 倒是 = contraste suave; 干脆 = 'simplesmente, de uma vez'; 明明 = 'claramente', com reprovação e uma contradição a seguir; 总算 = 'finalmente', após espera longa.",
+    "zh": "我正要出门,他恰好来了。",
+    "pt": "Eu estava justamente saindo quando ele chegou."
+   },
+   {
+    "t": "介词: 于 (introduzir tempo ou lugar)",
+    "e": "于 é a forma escrita de 在 para introduzir tempo ou lugar, e normalmente vem depois do verbo: 出生于…, 于九点开始, 位于市中心. Não serve para introduzir pessoa.",
+    "zh": "会议于上午九点准时开始。",
+    "pt": "A reunião começa pontualmente às nove da manhã."
+   },
+   {
+    "t": "介词: 至于 (quanto a — introduz novo tópico)",
+    "e": "至于 abre um assunto novo ou desloca o tópico, equivalendo a 'quanto a, no que diz respeito a'. Vem no início da oração, seguido de um tema: 至于我, 至于细节.",
+    "zh": "钱的事不用担心,至于时间,我们再商量。",
+    "pt": "Não se preocupe com o dinheiro; quanto ao tempo, a gente combina depois."
+   },
+   {
+    "t": "介词: 因 (por causa de — formal)",
+    "e": "因 é a forma escrita e monossilábica de 因为, usada antes de substantivo ou de oração curta: 因病请假, 因下雨改期, 因时间关系. Não admite 所以 na mesma oração.",
+    "zh": "比赛因下雨改到了下周。",
+    "pt": "A partida foi adiada para a semana que vem por causa da chuva."
+   },
+   {
+    "t": "介词: 除 (exceto / além de — com 以外、之外)",
+    "e": "除 marca o que fica fora do grupo e quase sempre aparece com 以外 ou 之外: 除星期天以外, 除课本之外. Pode indicar exclusão ('exceto') ou acréscimo ('além de').",
+    "zh": "除英语以外,他还会说日语。",
+    "pt": "Além do inglês, ele também fala japonês."
+   },
+   {
+    "t": "连词: 不料 (inesperadamente — liga orações)",
+    "e": "不料 abre a segunda oração e inverte a expectativa criada pela primeira: 'mas, contra o esperado'. Só pode iniciar oração, nunca aparecer no meio dela.",
+    "zh": "我以为他会拒绝,不料他一口就答应了。",
+    "pt": "Achei que ele recusaria; inesperadamente, ele aceitou na hora."
+   },
+   {
+    "t": "结构助词: 所 (antes do verbo; e em 为…所…)",
+    "e": "所 antes do verbo transforma-o em substantivo: 他所说的 = 'o que ele disse'. No padrão 为/被 + agente + 所 + verbo, ele marca a voz passiva formal: 为大家所接受.",
+    "zh": "这正是我所想要的答案。",
+    "pt": "É exatamente a resposta que eu queria."
+   },
+   {
+    "t": "语气助词: 啦、嘛 (partículas de tom)",
+    "e": "啦 é 了 + 啊 e marca mudança já concluída, com tom exclamativo. 嘛 não indica mudança: marca razão óbvia ou faz uma pausa depois do tópico.",
+    "zh": "别急,饭马上就好啦。",
+    "pt": "Calma, a comida já vai ficar pronta."
+   },
+   {
+    "t": "其他助词: 也好 (seja… seja…; 'tanto melhor')",
+    "e": "No par A也好, B也好, os dois casos levam à mesma conclusão ('seja X, seja Y'). Sozinho no fim da frase, 也好 admite uma alternativa: 'tanto melhor, também serve'.",
+    "zh": "你去也好,他去也好,总得有一个人留下。",
+    "pt": "Seja você, seja ele, alguém tem que ficar."
+   },
+   {
+    "t": "四字格: A这A那 (verbo repetido entre 这 e 那)",
+    "e": "Um mesmo verbo se repete com 这 e 那 para indicar ação repetida e sem foco: 说这说那, 问这问那, 想这想那. É coloquial e muitas vezes traz reprovação.",
+    "zh": "她总是想这想那,睡不好觉。",
+    "pt": "Ela fica pensando nisso e naquilo e não consegue dormir direito."
+   },
+   {
+    "t": "四字格: 左A右B (左…右… com dois elementos paralelos)",
+    "e": "左 e 右 emolduram dois componentes paralelos, indicando ação repetida ou os dois lados: 左思右想, 左顾右盼, 左邻右舍. A ordem A e B é fixa.",
+    "zh": "街上的人左顾右盼,好像在找什么。",
+    "pt": "As pessoas na rua olhavam para os dois lados, como se procurassem algo."
+   },
+   {
+    "t": "固定短语: 好(不)容易 (com muito custo)",
+    "e": "好容易 e 好不容易 significam o mesmo: 'só com muito custo, até que enfim'. Vêm antes do verbo e quase sempre exigem 才; não significam 'muito fácil'.",
+    "zh": "我好不容易才买到票。",
+    "pt": "Só com muito custo consegui comprar o ingresso."
+   },
+   {
+    "t": "固定短语: 那倒(也)是 (conceder: 'isso é verdade')",
+    "e": "Resposta coloquial que admite em parte o que o outro acabou de dizer: 那倒是 / 那倒也是. Abre a fala e costuma vir seguida de 不过 ou 可是 com a ressalva.",
+    "zh": "那倒也是,不过我们还是得去。",
+    "pt": "Isso é verdade, mas ainda assim temos que ir."
+   },
+   {
+    "t": "算了 (deixa pra lá / desistir)",
+    "e": "算了 encerra o assunto: ou você desiste de um plano (不买了算了), ou pede que o outro pare de insistir (算了,别说了). É sempre 'deixa pra lá', nunca o verbo calcular.",
+    "zh": "算了,别为这点儿小事生气了。",
+    "pt": "Deixa pra lá, não fique bravo por uma bobagem dessas."
+   },
+   {
+    "t": "得了 (e pronto / basta)",
+    "e": "得了 (děle) fecha uma proposta: verbo ou frase + 得了 significa 'faça isso e pronto' (一人一半得了). Sozinho no começo da frase, pede que o outro pare (得了,别说了).",
+    "zh": "别争了,一人一半得了。",
+    "pt": "Parem de discutir; metade pra cada um e pronto."
+   },
+   {
+    "t": "A一+量词,B一+量词 (um pra cada)",
+    "e": "Repete 一 + medidor com dois participantes (你一杯我一杯) para dividir algo um por um ou para ações que se alternam. O medidor é o mesmo nos dois lados.",
+    "zh": "两个人你一杯我一杯,喝得停不下来。",
+    "pt": "Os dois, um copo você e um copo eu, beberam sem parar."
+   },
+   {
+    "t": "东一A,西一A (uma coisa aqui, outra ali)",
+    "e": "东 + 一 + A + 西 + 一 + A descreve coisas espalhadas ou falas e atos sem ordem (东一句西一句, 东一件西一件). A mesma palavra A aparece nos dois lados.",
+    "zh": "他东一句西一句地说,我听不明白。",
+    "pt": "Ele falou uma coisa aqui e outra ali; não entendi nada."
+   },
+   {
+    "t": "到……为止 (até)",
+    "e": "到 + limite + 为止 marca o ponto final de tempo ou de espaço: 到目前为止 ('até este momento'). O 为止 vem depois da expressão de limite e é típico do registro escrito.",
+    "zh": "到目前为止,这个问题还没有解决。",
+    "pt": "Até agora, esse problema ainda não foi resolvido."
+   },
+   {
+    "t": "X到Y头上来了 (veio cair logo em cima de Y)",
+    "e": "Uma ação (culpa, crítica, ordem) 'cai na cabeça' de alguém: X到+人+头上来了. Expressa indignação por aquilo ter chegado justo a essa pessoa.",
+    "zh": "你才来几天,就管到我头上来了?",
+    "pt": "Você chegou há poucos dias e já vem mandar em mim?"
+   },
+   {
+    "t": "不X不……,一X…… (sem X não……; fez X, ……)",
+    "e": "Comprime causa e efeito: sem a ação nada se sabe, e assim que ela acontece o resultado aparece (不问不知道,一问才明白). O mesmo verbo X se repete nos dois lados.",
+    "zh": "这孩子不哭不闹,一哭就停不下来。",
+    "pt": "Essa criança não chora nem faz manha; quando chora, não para mais."
+   },
+   {
+    "t": "好你个X (olha só você, hein!)",
+    "e": "好你个 + nome chama a pessoa para repreender ou reclamar, muitas vezes em tom de brincadeira. Só funciona com quem está sendo tratado por 你.",
+    "zh": "好你个小王,居然敢骗我!",
+    "pt": "Olha só você, Xiao Wang, teve a coragem de me enganar!"
+   },
+   {
+    "t": "早(也)不X,晚(也)不X (nem antes nem depois)",
+    "e": "Nega o mesmo verbo em dois momentos opostos para reclamar da hora escolhida: 早不来晚不来,正好这时候来. Depois vem quase sempre o fato que atrapalha.",
+    "zh": "他早不说晚不说,等客人走了才说。",
+    "pt": "Ele não falou antes nem depois; falou justo depois que os convidados foram embora."
+   },
+   {
+    "t": "看/瞧+把+宾语+X得 (olha só como você ficou X)",
+    "e": "看/瞧 + 把 + pessoa + verbo/adjetivo + 得 comenta, com exagero ou reprovação, o estado a que a pessoa chegou. Aqui o 把 não desloca nada: só introduz quem está naquele estado.",
+    "zh": "瞧把他累的,一句话也说不出来了。",
+    "pt": "Olha como ele está cansado, não consegue dizer uma palavra."
+   },
+   {
+    "t": "放着X不Y (tendo X e não Y)",
+    "e": "放着 + o que está disponível + 不 + verbo critica quem ignora a opção óbvia: 放着大路不走. Tem tom de reprovação, como 'tendo aquilo ali, vai logo pelo difícil?'.",
+    "zh": "放着好菜不吃,他一定要吃方便面。",
+    "pt": "Tem comida boa na mesa e não come; faz questão de comer macarrão instantâneo."
+   },
+   {
+    "t": "X了就X了,(没)有…… (aconteceu, aconteceu)",
+    "e": "Repete o verbo com 就 no meio para aceitar o que não tem mais jeito (丢了就丢了) e em geral continua com 没什么 para consolar. Serve para encerrar o assunto sem drama.",
+    "zh": "杯子碎了就碎了,别难过了。",
+    "pt": "O copo quebrou, quebrou; não fique triste."
+   },
+   {
+    "t": "这/那也不X,那/这也不Y (nem isso, nem aquilo)",
+    "e": "这也不X,那也不Y reclama de quem recusa tudo: 这也不吃,那也不吃. Os dois lados usam 也不, com verbos iguais ou diferentes.",
+    "zh": "这也不吃,那也不吃,你到底想吃什么?",
+    "pt": "Não come isso, não come aquilo; afinal, o que você quer comer?"
+   },
+   {
+    "t": "X归X,Y归Y (X é X, Y é Y)",
+    "e": "归 separa duas coisas que não devem ser misturadas: 工作归工作,生活归生活. Com um só membro (累归累) vira concessão: 'cansado é cansado, mas…'.",
+    "zh": "工作归工作,生活归生活。",
+    "pt": "Trabalho é trabalho, vida pessoal é vida pessoal."
+   },
+   {
+    "t": "看你X的/瞧他X的 (olha como você está X)",
+    "e": "看/瞧 + pessoa + estado + 的 comenta o estado visível de alguém (看你累的!). Diferente do padrão com 把, aqui a frase fecha em 的, sem complemento depois.",
+    "zh": "看你急的,汗都出来了。",
+    "pt": "Olha como você está aflito, até suou."
+   },
+   {
+    "t": "程度补语: 动词/形容词+透+了 (completamente)",
+    "e": "透 como complemento de grau depois de verbo ou adjetivo significa 'até o fim, por completo': 熟透了, 湿透了, 烦透了. Vem sempre com 了 e aceita objeto (看透了这个道理).",
+    "zh": "这个道理我终于看透了。",
+    "pt": "Finalmente entendi esse princípio por completo."
+   },
+   {
+    "t": "把字句4: sujeito inanimado + 把 + objeto; 把 + objeto agente",
+    "e": "O sujeito pode ser uma coisa que causa o estado (这件事把他气坏了). Num tipo raro, o objeto de 把 é o agente de um verbo intransitivo, com 个, para um fato inesperado: 怎么把个小偷跑了!",
+    "zh": "那部电影把他感动得哭了。",
+    "pt": "Aquele filme o comoveu até chorar."
+   },
+   {
+    "t": "并列复句: 一时……一时…… (ora……, ora……)",
+    "e": "一时 X, 一时 Y alterna dois estados ou duas vontades no mesmo período, como 'ora…, ora…'. É mais escrito que 一会儿…一会儿.",
+    "zh": "他一时想去看电影,一时又想在家睡觉。",
+    "pt": "Ele ora quer ir ao cinema, ora quer ficar dormindo em casa."
+   },
+   {
+    "t": "选择复句: 要么……,要么…… (ou……, ou……)",
+    "e": "要么 A, 要么 B apresenta duas alternativas que se excluem e deixa a escolha para o ouvinte. Os dois membros precisam repetir 要么; 或者 não entra nesse par.",
+    "zh": "周末要么在家看书,要么出去走走。",
+    "pt": "No fim de semana, ou fico lendo em casa, ou saio para caminhar."
+   },
+   {
+    "t": "转折复句: 虽……,但/可/却/也……",
+    "e": "虽 é a forma curta e mais escrita de 虽然 e abre a concessão; o segundo membro fecha com 但, 可, 却 ou 也. O par 虽…就/才 não existe.",
+    "zh": "他虽年轻,经验却很丰富。",
+    "pt": "Embora seja jovem, ele tem muita experiência."
+   },
+   {
+    "t": "条件复句: 凡是……都…… / 除非……才…… / 除非……否则……",
+    "e": "凡是 + grupo + 都 generaliza sem exceção ('todo aquele que'). 除非 marca a única condição: 除非A才B ('só se A, então B') ou 除非A否则B ('a não ser que A, senão B').",
+    "zh": "凡是参加比赛的,都得到了一个小礼物。",
+    "pt": "Todos os que participaram da competição ganharam uma lembrancinha."
+   },
+   {
+    "t": "让步复句: 就算……,也……",
+    "e": "就算 aceita uma hipótese extrema e o segundo membro responde com 也: 就算下雨,我们也要去. É o jeito coloquial de dizer o que 即使 ou 哪怕 dizem no registro formal.",
+    "zh": "就算下雨,我们也要去。",
+    "pt": "Mesmo que chova, nós vamos."
+   },
+   {
+    "t": "目的复句: ……,以便……",
+    "e": "以便 liga a ação à sua finalidade no registro escrito: 'para que', 'a fim de que'. Fica no segundo membro e é seguido de oração, não de substantivo.",
+    "zh": "请大家早点儿到,以便会议按时开始。",
+    "pt": "Cheguem mais cedo para que a reunião comece no horário."
+   }
+  ],
+  "itens": [
+   {
+    "s": "这是一种___功能的机器,能做好几种工作。(prefixo 'vários/multi-')",
+    "o": [
+     "多",
+     "反",
+     "亚",
+     "准"
+    ],
+    "a": "多",
+    "ex": "多— significa 'vários' e forma 多功能 ('multifuncional'), o que combina com 'faz vários tipos de trabalho'. 反— (contra), 亚— (sub) e 准— (quase) não formam palavra com 功能 e não dão o sentido de variedade."
+   },
+   {
+    "s": "这个箱子___重了,坐飞机得再付钱。(prefixo 'acima do limite')",
+    "o": [
+     "超",
+     "反",
+     "亚",
+     "无"
+    ],
+    "a": "超",
+    "ex": "超— indica passar do limite: 超重 = 'acima do peso', o que explica pagar taxa extra. 反重, 亚重 e 无重 não existem e não expressam excesso."
+   },
+   {
+    "s": "这件事的重要___,大家都很清楚。(sufixo que forma substantivo abstrato)",
+    "o": [
+     "性",
+     "化",
+     "式",
+     "型"
+    ],
+    "a": "性",
+    "ex": "—性 transforma o adjetivo 重要 no substantivo abstrato 重要性 ('importância'), que pode ser sujeito da frase. 重要化, 重要式 e 重要型 não são palavras do mandarim."
+   },
+   {
+    "s": "我们要把落后的生产方式逐步现代___。(sufixo 'tornar-se', depois de 把 + objeto)",
+    "o": [
+     "化",
+     "性",
+     "式",
+     "型"
+    ],
+    "a": "化",
+    "ex": "Depois de 把 + objeto é obrigatório um verbo: só —化 cria o verbo 现代化 ('modernizar'). 现代性, 现代式 e 现代型 são substantivos/adjetivos e não podem fechar a estrutura 把…逐步…."
+   },
+   {
+    "s": "妈,___已经长大了,您就别再把我当小孩子了!(na fala coloquial, o próprio falante)",
+    "o": [
+     "人家",
+     "他们",
+     "人们",
+     "咱们"
+    ],
+    "a": "人家",
+    "ex": "Na fala coloquial 人家 substitui o próprio falante, com tom de queixa; é o único que concorda com '把我当小孩子'. 他们/人们 falam de terceiros e 咱们 inclui a mãe, contradizendo 'não me trate como criança'."
+   },
+   {
+    "s": "___去年就考上了北京大学,你还不知道?(substitui uma terceira pessoa já citada)",
+    "o": [
+     "人家",
+     "自己",
+     "你们",
+     "人们"
+    ],
+    "a": "人家",
+    "ex": "人家 retoma uma terceira pessoa específica ('ele/ela'), que é o que a frase pressupõe. 自己 voltaria para o próprio ouvinte, 你们 não concorda com 你 e 人们 é genérico demais para alguém que 'passou em Pequim'."
+   },
+   {
+    "s": "她感动得流下了一___眼泪。(gota)",
+    "o": [
+     "滴",
+     "串",
+     "扇",
+     "卷"
+    ],
+    "a": "滴",
+    "ex": "滴 é o classificador próprio de líquidos em gota: 一滴眼泪. 串 serve para coisas enfiadas em fila, 扇 para portas e janelas e 卷 para coisas enroladas — nenhum combina com 眼泪."
+   },
+   {
+    "s": "他把那___窗户打开,让新鲜空气进来。(porta ou janela)",
+    "o": [
+     "扇",
+     "枝",
+     "滴",
+     "串"
+    ],
+    "a": "扇",
+    "ex": "扇 é o classificador exclusivo de portas, janelas e folhas semelhantes: 一扇窗户. 枝 conta flores e hastes, 滴 conta gotas e 串 conta coisas em fila, todos incompatíveis com 窗户."
+   },
+   {
+    "s": "校长的一___话让全场安静下来。(medida para um trecho de fala)",
+    "o": [
+     "番",
+     "遍",
+     "次",
+     "趟"
+    ],
+    "a": "番",
+    "ex": "番 mede fala ou ação que se estende: 一番话 = 'um conjunto de palavras'. 遍 exige repetição de uma ação inteira, 次 e 趟 contam ocorrências ou viagens e não podem vir antes de 话 nesse molde."
+   },
+   {
+    "s": "这个问题先讨论一___,然后再决定。(V + 一 + medida de ação)",
+    "o": [
+     "番",
+     "顿",
+     "把",
+     "趟"
+    ],
+    "a": "番",
+    "ex": "讨论一番 é o molde V + 一番, 'discutir por um tempo'. 顿 mede refeições ou broncas, 把 aparece em 试一把/帮一把 e 趟 mede idas e vindas — nenhum se liga a 讨论."
+   },
+   {
+    "s": "和去年相比,今年的雨水___少一些。(relativamente — combina com 一些)",
+    "o": [
+     "较为",
+     "异常",
+     "特",
+     "十分"
+    ],
+    "a": "较为",
+    "ex": "Só 较为 ('relativamente', registro formal) admite 一些 depois: 较为少一些. 异常, 特 e 十分 marcam grau absoluto e não podem ser amaciados por 一些."
+   },
+   {
+    "s": "那几天天气___热,连晚上也睡不着觉。(grau fora do normal)",
+    "o": [
+     "异常",
+     "有点儿",
+     "不太",
+     "略微"
+    ],
+    "a": "异常",
+    "ex": "A estrutura 连…也… exige grau extremo, que só 异常 ('anormalmente') fornece. 有点儿, 不太 e 略微 indicam grau baixo e contradizem 'nem à noite conseguia dormir'."
+   },
+   {
+    "s": "我们班的同学___来自南方,北方人只有两个。(na maioria)",
+    "o": [
+     "大都",
+     "一同",
+     "净",
+     "全"
+    ],
+    "a": "大都",
+    "ex": "大都 = 'na maioria', o único compatível com a exceção 'só dois são do norte'. 净 e 全 significam 'todos/sem exceção' e 一同 significa 'juntos', nenhum expressa maioria com resto."
+   },
+   {
+    "s": "这孩子___想着玩,把作业都忘了。(só, nada além de)",
+    "o": [
+     "净",
+     "一同",
+     "大都",
+     "先后"
+    ],
+    "a": "净",
+    "ex": "净 = 'não faz outra coisa além de', e cabe num sujeito singular com tom de reprovação. 一同 exige vários agentes, 大都 exige um grupo contável e 先后 exige dois eventos no tempo."
+   },
+   {
+    "s": "昨天听到这个消息,他___说不出话来。(no momento, passageiro)",
+    "o": [
+     "一时",
+     "一向",
+     "从来",
+     "总是"
+    ],
+    "a": "一时",
+    "ex": "一时 marca um estado passageiro num evento único ('ontem'). 一向, 从来 e 总是 descrevem hábito permanente e contradizem 昨天…这个消息."
+   },
+   {
+    "s": "他___很准时,今天却迟到了二十分钟。(sempre, por hábito)",
+    "o": [
+     "一向",
+     "一时",
+     "不时",
+     "忽然"
+    ],
+    "a": "一向",
+    "ex": "一向 = 'sempre, por hábito', e é o que cria o contraste com 今天却迟到了. 一时 é passageiro e não modifica 很准时, 不时 ('de vez em quando') e 忽然 ('de repente') não expressam regularidade."
+   },
+   {
+    "s": "妈妈___嘱咐我,一个人在外面要照顾好自己。(repetidas vezes)",
+    "o": [
+     "再三",
+     "一同",
+     "略微",
+     "大都"
+    ],
+    "a": "再三",
+    "ex": "再三 ('uma vez após outra') é o advérbio de repetição que combina com 嘱咐. 一同 exige vários agentes, 略微 mede grau e não ação repetida, e 大都 exige um grupo, não a mãe sozinha."
+   },
+   {
+    "s": "这个问题我要___考虑,明天再给你答复。(repetidas vezes)",
+    "o": [
+     "一再",
+     "一同",
+     "略微",
+     "大都"
+    ],
+    "a": "一再",
+    "ex": "一再 indica insistência repetida antes de verbos como 考虑, 强调, 请求. 一同 precisaria de companhia, 略微 não modifica 考虑 e 大都 não se aplica a um sujeito único."
+   },
+   {
+    "s": "听到这首歌,他___想起了小时候的事情。(reação involuntária, sem conseguir evitar)",
+    "o": [
+     "不禁",
+     "赶忙",
+     "略微",
+     "特地"
+    ],
+    "a": "不禁",
+    "ex": "不禁 = 'não conseguir evitar' e só aceita verbos involuntários como 想起. 赶忙 e 特地 exigem ação deliberada, e 略微 mede grau — nenhum pode modificar 想起."
+   },
+   {
+    "s": "弟弟___把糖藏进口袋,怕妈妈看见。(às escondidas)",
+    "o": [
+     "偷偷",
+     "不禁",
+     "一同",
+     "略微"
+    ],
+    "a": "偷偷",
+    "ex": "偷偷 ('às escondidas') combina com esconder o doce por medo da mãe. 不禁 exige reação involuntária e não aceita 把, 一同 exige companhia e 略微 não modifica uma ação com 把."
+   },
+   {
+    "s": "他学习很努力,但成绩___好,可能是方法不对。(não necessariamente)",
+    "o": [
+     "未必",
+     "必须",
+     "已经",
+     "一同"
+    ],
+    "a": "未必",
+    "ex": "未必 nega a certeza ('não necessariamente'), o que casa com a hipótese final sobre o método. 必须 impõe obrigação, 已经 afirma fato consumado (contradiz a dúvida) e 一同 não tem função adverbial aqui."
+   },
+   {
+    "s": "这种药___对每个人都有效,还得看个人的情况。(não necessariamente)",
+    "o": [
+     "未必",
+     "必须",
+     "已经",
+     "大都"
+    ],
+    "a": "未必",
+    "ex": "Só 未必 admite a ressalva 'depende do caso de cada um'. 必须 e 已经 afirmariam eficácia geral, contradizendo a frase seguinte, e 大都 redundaria com 每个人."
+   },
+   {
+    "s": "下了三天的雨___停了,我们可以出去走走了。(finalmente, após longa espera)",
+    "o": [
+     "总算",
+     "明明",
+     "略微",
+     "不时"
+    ],
+    "a": "总算",
+    "ex": "总算 expressa alívio depois de espera longa ('três dias de chuva'). 明明 exige uma contradição a seguir, 略微 mede grau e não combina com 停了, e 不时 ('de vez em quando') contradiz a parada única."
+   },
+   {
+    "s": "你___知道这件事,为什么骗我说不知道?(claramente — com reprovação)",
+    "o": [
+     "明明",
+     "总算",
+     "略微",
+     "不时"
+    ],
+    "a": "明明",
+    "ex": "明明 afirma o óbvio e prepara a acusação ('por que mentiu?'). 总算 indicaria alívio por ele enfim saber, 略微 e 不时 enfraquecem ou fragmentam o conhecimento, quebrando a reprovação."
+   },
+   {
+    "s": "这次会议___市中心的酒店举行,交通很方便。(em — lugar, registro formal)",
+    "o": [
+     "于",
+     "朝",
+     "往",
+     "沿着"
+    ],
+    "a": "于",
+    "ex": "于 é a preposição escrita que introduz lugar depois de 举行: 于…举行. 朝 e 往 indicam direção do movimento e 沿着 indica percurso ao longo de algo — nenhuma serve para o local do evento."
+   },
+   {
+    "s": "这部小说___1985年出版,很受读者欢迎。(em — antes de data)",
+    "o": [
+     "于",
+     "从",
+     "离",
+     "往"
+    ],
+    "a": "于",
+    "ex": "于 introduz o ponto no tempo em que algo acontece: 于1985年出版. 从 exigiria um processo contínuo (从…起), 离 mede distância temporal até um prazo e 往 indica direção, não data."
+   },
+   {
+    "s": "这件事我同意,___别的细节,我们下次再谈。(quanto a)",
+    "o": [
+     "至于",
+     "于是",
+     "因此",
+     "忽然"
+    ],
+    "a": "至于",
+    "ex": "至于 desloca o tópico para 'os outros detalhes'. 于是 e 因此 são conjunções de consequência e exigem oração, não um substantivo, e 忽然 é advérbio de tempo."
+   },
+   {
+    "s": "去不去由你决定,___我,是一定要去的。(no que diz respeito a)",
+    "o": [
+     "至于",
+     "于是",
+     "反而",
+     "赶忙"
+    ],
+    "a": "至于",
+    "ex": "至于 + pronome abre o novo tópico ('quanto a mim'). 于是 liga consequência a uma oração, 反而 e 赶忙 são advérbios e não podem introduzir o tema 我."
+   },
+   {
+    "s": "他___病没有来上课,老师让他好好休息。(por causa de — antes de substantivo)",
+    "o": [
+     "因",
+     "于",
+     "向",
+     "把"
+    ],
+    "a": "因",
+    "ex": "因 é a preposição formal de causa e liga-se diretamente ao substantivo: 因病. 于 introduz tempo ou lugar, 向 introduz destinatário e 把 exige verbo de manipulação — nenhum dá causa."
+   },
+   {
+    "s": "会议___时间关系,只讨论了主要问题。(em razão de — expressão formal)",
+    "o": [
+     "因",
+     "于",
+     "朝",
+     "从"
+    ],
+    "a": "因",
+    "ex": "因时间关系 é a expressão escrita para 'por questões de tempo'. 于 situa tempo/lugar, 朝 indica direção e 从 marca ponto de partida; nenhuma introduz a causa da reunião reduzida."
+   },
+   {
+    "s": "___星期天以外,他每天都在图书馆学习。(exceto — com 以外)",
+    "o": [
+     "除",
+     "于",
+     "因",
+     "向"
+    ],
+    "a": "除",
+    "ex": "A moldura é 除…以外 ('exceto'). 于…以外, 因…以外 e 向…以外 não existem: nenhuma dessas preposições forma par com 以外 para excluir um membro do grupo."
+   },
+   {
+    "s": "___课本之外,老师还给我们介绍了别的书。(além de — com 之外)",
+    "o": [
+     "除",
+     "于",
+     "朝",
+     "把"
+    ],
+    "a": "除",
+    "ex": "除…之外 significa 'além de', introduzindo acréscimo. 于, 朝 e 把 não formam o par com 之外 e deixariam a frase sem preposição de exclusão ou acréscimo."
+   },
+   {
+    "s": "出门时天还是晴的,___没走多远就下起雨来了。(contra a expectativa)",
+    "o": [
+     "不料",
+     "因此",
+     "于是",
+     "否则"
+    ],
+    "a": "不料",
+    "ex": "不料 inverte a expectativa criada pela primeira oração. 因此 e 于是 fariam da chuva consequência lógica do céu limpo, o que é absurdo, e 否则 exigiria uma condição negativa anterior."
+   },
+   {
+    "s": "我们以为路很近,___走了两个小时才到。(mas, inesperadamente)",
+    "o": [
+     "不料",
+     "于是",
+     "因此",
+     "只要"
+    ],
+    "a": "不料",
+    "ex": "Só 不料 expressa o resultado contrário ao que se pensava. 于是 e 因此 indicariam consequência esperada, e 只要 abriria uma condição que não existe na frase."
+   },
+   {
+    "s": "这个方案为全体代表___通过,会议圆满结束。(voz passiva formal 为…所…)",
+    "o": [
+     "所",
+     "被",
+     "给",
+     "让"
+    ],
+    "a": "所",
+    "ex": "Depois de 为 + agente, a passiva formal exige 所: 为全体代表所通过. 被, 给 e 让 já são marcas de passiva e não podem aparecer depois de 为 + agente."
+   },
+   {
+    "s": "我完全同意你___说的,不用再改了。(所 + verbo forma 'o que')",
+    "o": [
+     "所",
+     "得",
+     "地",
+     "着"
+    ],
+    "a": "所",
+    "ex": "所 antes do verbo nominaliza: 你所说的 = 'o que você disse'. 得 introduce complemento de resultado, 地 é advérbio de modo e 着 marca aspecto durativo — nenhum forma o relativo."
+   },
+   {
+    "s": "快来看,雪停___,太阳出来了!(mudança concluída, tom exclamativo)",
+    "o": [
+     "啦",
+     "嘛",
+     "所",
+     "番"
+    ],
+    "a": "啦",
+    "ex": "啦 = 了 + 啊 e anuncia uma mudança já concluída, com exclamação. 嘛 não marca mudança e soaria errado depois de 停 neste contexto, 所 é partícula estrutural e 番 é classificador de ação."
+   },
+   {
+    "s": "学习___,就要有耐心,不能太着急。(pausa depois do tópico)",
+    "o": [
+     "嘛",
+     "啦",
+     "所",
+     "番"
+    ],
+    "a": "嘛",
+    "ex": "Aqui 嘛 faz pausa depois do tópico e prepara a justificativa óbvia. 啦 indicaria mudança concluída ('já estudou'), o que não cabe, e 所 e 番 são partícula estrutural e classificador, não de tom."
+   },
+   {
+    "s": "喝茶也好,喝咖啡___,我都没意见。(par A也好, B也好)",
+    "o": [
+     "也好",
+     "而已",
+     "反倒",
+     "一同"
+    ],
+    "a": "也好",
+    "ex": "O par A也好, B也好 exige a repetição de 也好 para listar alternativas equivalentes. 而已 ('apenas'), 反倒 ('ao contrário') e 一同 ('juntos') quebram o paralelismo e não fecham a moldura."
+   },
+   {
+    "s": "你不来___,正好省得我多做一份饭。(tanto melhor / também serve)",
+    "o": [
+     "也好",
+     "而已",
+     "反倒",
+     "一同"
+    ],
+    "a": "也好",
+    "ex": "No fim da frase 也好 admite a alternativa ('tanto melhor'). 而已 limitaria o fato a 'apenas isso', 反倒 inverteria o sentido e 一同 exigiria companhia — nenhum fecha 'você não vir + isso até me poupa'."
+   },
+   {
+    "s": "孩子们围着老师___,老师都来不及回答。(padrão A这A那: perguntar isso e aquilo)",
+    "o": [
+     "问这问那",
+     "问什么这",
+     "这问那问",
+     "问这那问"
+    ],
+    "a": "问这问那",
+    "ex": "O padrão é o mesmo verbo repetido entre 这 e 那: 问这问那. As demais combinações invertem ou trocam os elementos e não formam o quadro fixo de ação repetida."
+   },
+   {
+    "s": "别___的,快说你要买哪一个。(padrão A这A那: falar disso e daquilo)",
+    "o": [
+     "说这说那",
+     "说这那么",
+     "这说那说",
+     "说那这说"
+    ],
+    "a": "说这说那",
+    "ex": "说这说那 segue A这A那, com o verbo repetido, e encaixa em 'pare de enrolar'. As outras opções misturam 那么 ou invertem 这/那, quebrando o quadro."
+   },
+   {
+    "s": "他___,怎么也想不出好办法来。(pensar de um lado e do outro — 左A右B)",
+    "o": [
+     "左思右想",
+     "左思左想",
+     "右思左想",
+     "思左想右"
+    ],
+    "a": "左思右想",
+    "ex": "左思右想 é o quadro 左A右B com os dois componentes paralelos na ordem fixa. As variantes repetem o mesmo lado ou trocam a posição de 左/右 e não existem como expressão."
+   },
+   {
+    "s": "搬来以后,他跟___处得很好,常常互相帮忙。(vizinhos dos dois lados — 左A右B)",
+    "o": [
+     "左邻右舍",
+     "左邻左舍",
+     "右邻左舍",
+     "邻左右舍"
+    ],
+    "a": "左邻右舍",
+    "ex": "左邻右舍 ('vizinhos de ambos os lados') segue 左A右B com 邻 e 舍 paralelos. As outras combinações repetem o lado ou trocam a ordem e não formam a expressão."
+   },
+   {
+    "s": "他___才通过考试,前后准备了一年多。(com muito custo)",
+    "o": [
+     "好不容易",
+     "很轻松",
+     "太容易",
+     "不轻易"
+    ],
+    "a": "好不容易",
+    "ex": "好不容易 + 才 significa 'só com muito custo'. 很轻松 e 太容易 contradizem 才 e o ano de preparação, e 不轻易 não funciona como advérbio antes de 才."
+   },
+   {
+    "s": "我们___才找到这个地方,原来它就在书店后面。(até que enfim, com custo)",
+    "o": [
+     "好容易",
+     "很轻松",
+     "太容易",
+     "一点儿"
+    ],
+    "a": "好容易",
+    "ex": "好容易 tem o mesmo valor de 好不容易 ('com muito custo') e exige 才. 很轻松 e 太容易 anulam a dificuldade marcada por 才, e 一点儿 não forma advérbio nesse lugar."
+   },
+   {
+    "s": "——这道菜味道不错。——___,我也这么觉得。(concordar em parte: 'isso é verdade')",
+    "o": [
+     "那倒是",
+     "那倒不是",
+     "倒那是",
+     "是那倒"
+    ],
+    "a": "那倒是",
+    "ex": "那倒是 concede e combina com 'eu também acho'. 那倒不是 negaria o elogio e contradiria a segunda fala; as outras duas opções embaralham a ordem fixa 那+倒+是."
+   },
+   {
+    "s": "——这件衣服有点儿贵。——___,可是质量确实好。(conceder antes da ressalva)",
+    "o": [
+     "那倒也是",
+     "那倒是也",
+     "倒那也是",
+     "也是那倒"
+    ],
+    "a": "那倒也是",
+    "ex": "那倒也是 admite o ponto do outro e abre espaço para o 可是 seguinte. As demais opções deslocam 倒 e 也 fora da ordem fixa da expressão e não existem em mandarim."
+   },
+   {
+    "s": "既然他不愿意帮忙,那___,我们自己想办法吧。(deixa pra lá)",
+    "o": [
+     "算了",
+     "而已",
+     "来着",
+     "着呢"
+    ],
+    "a": "算了",
+    "ex": "那算了 = 'então deixa pra lá'. 而已 precisa de 不过是/只是 antes; 来着 lembra um fato recente ('era…'); 着呢 marca estado em curso. Nenhum fecha a frase depois de 那."
+   },
+   {
+    "s": "这双鞋太贵了,不买___,我们再去别家看看。(então desisto de comprar)",
+    "o": [
+     "算了",
+     "完了",
+     "够了",
+     "到了"
+    ],
+    "a": "算了",
+    "ex": "不买算了 = 'então não compro e pronto'. 完了, 够了 e 到了 são complementos de resultado que não formam essa expressão de desistência depois de 不买."
+   },
+   {
+    "s": "十块钱就十块钱___,给你了。(e pronto)",
+    "o": [
+     "得了",
+     "掉了",
+     "起来",
+     "过去"
+    ],
+    "a": "得了",
+    "ex": "Frase + 得了 fecha a proposta: 'dez yuan, então dez yuan e pronto'. 掉了, 起来 e 过去 são complementos que não carregam esse valor de 'e basta'."
+   },
+   {
+    "s": "剩下的钱你留着___,不用给我了。(e pronto)",
+    "o": [
+     "得了",
+     "掉了",
+     "起来",
+     "完了"
+    ],
+    "a": "得了",
+    "ex": "留着得了 = 'fica com ele e pronto'. 留着掉了, 留着起来 e 留着完了 não são construções possíveis em chinês."
+   },
+   {
+    "s": "老师把糖发给孩子们,你___,一人一颗。(um pra você, um pra mim)",
+    "o": [
+     "一颗我一颗",
+     "一颗给我",
+     "一颗我的",
+     "一颗是我"
+    ],
+    "a": "一颗我一颗",
+    "ex": "A moldura é A一+量词, B一+量词: 你一颗我一颗. 给我, 我的 e 是我 quebram o paralelismo entre os dois lados e deixam a frase sem sentido."
+   },
+   {
+    "s": "孩子们分铅笔,你___支我一支,分得又快又公平。(um pra você, um pra mim)",
+    "o": [
+     "一",
+     "每",
+     "本",
+     "各"
+    ],
+    "a": "一",
+    "ex": "O padrão pede o numeral 一 nos dois lados: 你一支我一支. 每 e 各 não podem ocupar esse lugar, e 本 é outro medidor, então 本支 não existe."
+   },
+   {
+    "s": "写文章要有顺序,不能___地乱写。(uma coisa aqui, outra ali)",
+    "o": [
+     "东一句西一句",
+     "东一句西两句",
+     "东边西边",
+     "一句一句"
+    ],
+    "a": "东一句西一句",
+    "ex": "东一句西一句 = escrever sem ordem, um trecho aqui e outro ali. 东一句西两句 quebra o paralelismo da moldura; 东边西边 sozinho não funciona; 一句一句 significa 'frase por frase', ou seja, com ordem."
+   },
+   {
+    "s": "他看书没有计划,___,结果什么都没记住。(uma página aqui, outra ali)",
+    "o": [
+     "东一页西一页",
+     "一页一页",
+     "每页每页",
+     "东边西边"
+    ],
+    "a": "东一页西一页",
+    "ex": "东一页西一页 descreve leitura dispersa. 一页一页 e 每页每页 querem dizer 'página por página', o contrário de 没有计划; 东边西边 não fecha a frase."
+   },
+   {
+    "s": "到今天___,这项工作只完成了一半。(até hoje)",
+    "o": [
+     "为止",
+     "开始",
+     "现在",
+     "以后"
+    ],
+    "a": "为止",
+    "ex": "到+expressão de tempo+为止 é o par fixo ('até hoje'). 开始 pede 从…开始; 现在 e 以后 não fecham o limite aberto por 到."
+   },
+   {
+    "s": "报名到本月底___,想参加的人要抓紧时间。(até o fim deste mês)",
+    "o": [
+     "为止",
+     "开始",
+     "以后",
+     "起"
+    ],
+    "a": "为止",
+    "ex": "到本月底为止 = 'até o fim deste mês'. 开始 e 起 pedem 从…开始/从…起; 以后 indicaria 'depois', não o limite final."
+   },
+   {
+    "s": "他今天怎么了?竟然批评到老师___来了!(logo com o professor)",
+    "o": [
+     "头上",
+     "心里",
+     "手上",
+     "眼里"
+    ],
+    "a": "头上",
+    "ex": "A moldura é X到+人+头上来了: a ação 'cai na cabeça' da pessoa. 心里, 手上 e 眼里 não recebem a crítica nesse padrão fixo."
+   },
+   {
+    "s": "你怎么怪___我头上来了?这又不是我的错。(a culpa veio cair em mim)",
+    "o": [
+     "到",
+     "从",
+     "跟",
+     "对"
+    ],
+    "a": "到",
+    "ex": "怪到某人头上 = 'jogar a culpa em alguém'; 到 marca a chegada da ação. 从 indica origem, e 跟 e 对 não exprimem esse deslocamento até a pessoa."
+   },
+   {
+    "s": "这道题___不知道,一算就出来了。(se não calcular, não sabe)",
+    "o": [
+     "不算",
+     "不写",
+     "不读",
+     "不记"
+    ],
+    "a": "不算",
+    "ex": "不X不Y，一X…… repete o mesmo verbo: como a segunda metade diz 一算, a primeira tem de ser 不算. 不写, 不读 e 不记 quebram a repetição exigida pela moldura."
+   },
+   {
+    "s": "他们俩___不相识,打了一架,反而成了好朋友。(só se conheceram porque brigaram)",
+    "o": [
+     "不打",
+     "不看",
+     "不说",
+     "不走"
+    ],
+    "a": "不打",
+    "ex": "不打不相识 é a expressão fixa ('não se conheceram sem brigar'), confirmada por 打了一架. 不看, 不说 e 不走 não formam essa expressão."
+   },
+   {
+    "s": "___老王,你竟然背着我把票卖了!(olha só você, hein!)",
+    "o": [
+     "好你个",
+     "你个好",
+     "好个你",
+     "你好个"
+    ],
+    "a": "好你个",
+    "ex": "好你个+nome é a moldura fixa de reprovação. As outras três apenas trocam a ordem das palavras e não existem em chinês."
+   },
+   {
+    "s": "___小张,说好八点来,你怎么又迟到了?(olha só, hein!)",
+    "o": [
+     "好你个",
+     "好他个",
+     "好我一个",
+     "好谁个"
+    ],
+    "a": "好你个",
+    "ex": "A frase fala direto com 小张 (你怎么又迟到了), então é 好你个. 好他个 serviria para terceira pessoa; 好我一个 e 好谁个 não existem."
+   },
+   {
+    "s": "他早不打电话,___不打电话,正好在我开会的时候打。(não ligou antes nem depois)",
+    "o": [
+     "晚",
+     "先",
+     "才",
+     "又"
+    ],
+    "a": "晚",
+    "ex": "A moldura opõe dois momentos: 早不X，晚不X. Com 早 na primeira metade, só 晚 fecha o par. 先, 才 e 又 não exprimem essa oposição."
+   },
+   {
+    "s": "___不下雨晚不下雨,我一走出门就下大了。(não choveu antes nem depois)",
+    "o": [
+     "早",
+     "刚",
+     "才",
+     "总"
+    ],
+    "a": "早",
+    "ex": "早不X，晚不X é o par fixo que reclama do momento. 刚, 才 e 总 não fazem par com 晚不下雨."
+   },
+   {
+    "s": "看___你高兴得,嘴都合不上了。(olha só como você ficou contente)",
+    "o": [
+     "把",
+     "跟",
+     "和",
+     "同"
+    ],
+    "a": "把",
+    "ex": "O frame é 看/瞧+把+pessoa+estado+得; aqui 把 só introduz quem chegou àquele estado. 跟, 和 e 同 ligam dois termos e não abrem esse padrão."
+   },
+   {
+    "s": "瞧___他忙得,连饭也没吃。(olha como ele está ocupado)",
+    "o": [
+     "把",
+     "对",
+     "朝",
+     "往"
+    ],
+    "a": "把",
+    "ex": "瞧把他忙得 é a mesma moldura de comentário. 对, 朝 e 往 marcam direção e não podem introduzir a pessoa que está naquele estado."
+   },
+   {
+    "s": "___好好的工作不干,自己开店去了。(tendo um bom emprego)",
+    "o": [
+     "放着",
+     "拿着",
+     "带着",
+     "用着"
+    ],
+    "a": "放着",
+    "ex": "放着 X 不 Y = 'tendo X ali disponível e não usando'. 拿着, 带着 e 用着 descrevem ações reais com o objeto e não combinam com 好好的工作不干."
+   },
+   {
+    "s": "___新的不用,他一定要用那台旧的。(tendo o novo)",
+    "o": [
+     "放着",
+     "看着",
+     "想着",
+     "听着"
+    ],
+    "a": "放着",
+    "ex": "放着新的不用 critica quem deixa de lado o que tem à mão. 看着, 想着 e 听着 são verbos de percepção que não introduzem essa ideia de disponibilidade ignorada."
+   },
+   {
+    "s": "钱花了___,以后还能再挣。(o que gastou, gastou)",
+    "o": [
+     "就花了",
+     "就不花了",
+     "还没花",
+     "才花了"
+    ],
+    "a": "就花了",
+    "ex": "X了就X了 repete o verbo para aceitar o fato: 花了就花了. 就不花了 contradiz o que já aconteceu; 还没花 e 才花了 não formam a moldura."
+   },
+   {
+    "s": "他走了___走了,我们还有别的办法呢。(foi, foi)",
+    "o": [
+     "就",
+     "才",
+     "都",
+     "又"
+    ],
+    "a": "就",
+    "ex": "A repetição do verbo leva 就 no meio: 走了就走了 ('foi, foi'). 才, 都 e 又 não criam esse valor de conformação."
+   },
+   {
+    "s": "这孩子___也不喜欢,那也不喜欢,真拿他没办法。(não gosta disso nem daquilo)",
+    "o": [
+     "这",
+     "那",
+     "每",
+     "各"
+    ],
+    "a": "这",
+    "ex": "A moldura opõe 这 a 那: 这也不喜欢,那也不喜欢. 那 repetiria o mesmo termo; 每 e 各 não podem abrir esse par."
+   },
+   {
+    "s": "___也不去,那也不去,他就想在家里待着。(não vai aqui nem ali)",
+    "o": [
+     "这",
+     "那",
+     "这么",
+     "那么"
+    ],
+    "a": "这",
+    "ex": "这也不去,那也不去 reclama de quem recusa tudo. 那 repetiria o segundo termo; 这么 e 那么 são advérbios de grau e não apontam coisas."
+   },
+   {
+    "s": "感情___感情,钱还是要算清楚的。(sentimento é sentimento)",
+    "o": [
+     "归",
+     "在",
+     "对",
+     "跟"
+    ],
+    "a": "归",
+    "ex": "X归X separa o que não deve ser misturado: 感情归感情,钱归钱. 在, 对 e 跟 não têm esse uso de separar domínios."
+   },
+   {
+    "s": "贵___贵,东西确实好,值得买。(caro é caro)",
+    "o": [
+     "归",
+     "比",
+     "像",
+     "和"
+    ],
+    "a": "归",
+    "ex": "Aqui 归 repete o adjetivo com valor concessivo: 'caro é caro, mas…'. 比, 像 e 和 não podem repetir o adjetivo dessa maneira."
+   },
+   {
+    "s": "看你累___,快坐下休息一会儿吧。(olha como você está cansado)",
+    "o": [
+     "的",
+     "过",
+     "完",
+     "起来"
+    ],
+    "a": "的",
+    "ex": "看/瞧+pessoa+estado+的 fecha o comentário em 的: 看你累的. 过 e 完 são complementos de resultado que mudariam o sentido; 起来 indicaria início e não fecha a frase."
+   },
+   {
+    "s": "瞧他高兴___,一晚上都在笑。(olha como ele está contente)",
+    "o": [
+     "的",
+     "过",
+     "完",
+     "掉"
+    ],
+    "a": "的",
+    "ex": "瞧他高兴的 é o comentário com 的 final. 过, 完 e 掉 são complementos de resultado que não cabem depois de 高兴 nesse padrão."
+   },
+   {
+    "s": "西瓜熟___了,快切开吃吧。(madura por completo)",
+    "o": [
+     "透",
+     "完",
+     "够",
+     "满"
+    ],
+    "a": "透",
+    "ex": "透 é complemento de grau: 熟透了 ('maduro por completo'). 完, 够 e 满 não funcionam como complemento depois de 熟."
+   },
+   {
+    "s": "衣服全湿___了,快换下来吧。(completamente encharcada)",
+    "o": [
+     "透",
+     "完",
+     "干",
+     "满"
+    ],
+    "a": "透",
+    "ex": "湿透了 = 'encharcado até o fim'. 完 não combina com 湿; 干 é o oposto; 满 não serve de complemento de grau nesse caso."
+   },
+   {
+    "s": "这件事___气得一夜都没睡。(isso o deixou tão bravo que não dormiu a noite toda)",
+    "o": [
+     "把他",
+     "对他",
+     "跟他",
+     "向他"
+    ],
+    "a": "把他",
+    "ex": "O sujeito é uma coisa (这件事) que causa o estado: 把他气得一夜都没睡. 对他, 跟他 e 向他 não introduzem a pessoa afetada pelo verbo."
+   },
+   {
+    "s": "明天就要比赛了,怎么___李明病了,真让人着急。(justo o Li Ming adoeceu)",
+    "o": [
+     "把个",
+     "被个",
+     "对个",
+     "跟个"
+    ],
+    "a": "把个",
+    "ex": "Nesse tipo raro de 把, o objeto é o agente de um verbo intransitivo e vem com 个: 把个李明病了 ('justo o Li Ming adoeceu'). 被个 exigiria verbo transitivo afetando o sujeito; 对个 e 跟个 não existem nessa moldura."
+   },
+   {
+    "s": "这孩子___哭一时笑,大家都拿他没办法。(ora chora, ora ri)",
+    "o": [
+     "一时",
+     "有时候",
+     "常常",
+     "一直"
+    ],
+    "a": "一时",
+    "ex": "一时X一时Y alterna dois estados opostos. 有时候, 常常 e 一直 não formam o par e deixam 一时笑 sem correspondente."
+   },
+   {
+    "s": "他的脾气一时好___坏,我们都不敢多说。(ora bom, ora ruim)",
+    "o": [
+     "一时",
+     "也",
+     "又",
+     "就"
+    ],
+    "a": "一时",
+    "ex": "O par é 一时…一时…: o segundo 一时 repete o primeiro. 也, 又 e 就 não exprimem essa alternância de estados."
+   },
+   {
+    "s": "这件事___你去做,要么我去做,反正要有人做。(ou você, ou eu)",
+    "o": [
+     "要么",
+     "或者",
+     "不是",
+     "要是"
+    ],
+    "a": "要么",
+    "ex": "要么…要么… apresenta duas alternativas e exige a mesma palavra nos dois membros. 或者 não forma par com 要么; 不是 pede 就是; 要是 abriria uma condição."
+   },
+   {
+    "s": "晚饭___吃面,要么吃米饭,你选一样吧。(ou uma coisa ou outra)",
+    "o": [
+     "要么",
+     "或者",
+     "不是",
+     "就算"
+    ],
+    "a": "要么",
+    "ex": "要么吃面,要么吃米饭 é a escolha entre duas opções. 或者 não se combina com 要么; 不是 pede 就是; 就算 pede 也."
+   },
+   {
+    "s": "他___很累,还是坚持把工作做完了。(embora)",
+    "o": [
+     "虽",
+     "如果",
+     "只要",
+     "除非"
+    ],
+    "a": "虽",
+    "ex": "虽 abre a concessão e o segundo membro fecha com 还是. 如果, 只要 e 除非 abrem condição e não combinam com 还是 nesse contexto."
+   },
+   {
+    "s": "这条路虽远,___风景很好,走的人不少。(mas)",
+    "o": [
+     "可",
+     "就",
+     "才",
+     "都"
+    ],
+    "a": "可",
+    "ex": "虽…可… é o par concessivo ('embora… mas…'). 就 e 才 indicariam consequência ou condição; 都 generalizaria: nenhum marca a oposição pedida por 虽."
+   },
+   {
+    "s": "___迟到的,都要向老师说明原因。(todo aquele que)",
+    "o": [
+     "凡是",
+     "因为",
+     "虽然",
+     "如果"
+    ],
+    "a": "凡是",
+    "ex": "凡是+grupo com 的+都 generaliza sem exceção: 'todo mundo que se atrasa'. 因为, 虽然 e 如果 não podem introduzir uma frase em 的 usada como sujeito."
+   },
+   {
+    "s": "___你亲自去请,他才会来。(só se você for convidá-lo)",
+    "o": [
+     "除非",
+     "虽然",
+     "即使",
+     "不管"
+    ],
+    "a": "除非",
+    "ex": "除非…才… marca a única condição possível. 虽然 e 即使 pedem 也 ou 还是; 不管 pede 都 ou 也. Nenhum deles aceita 才."
+   },
+   {
+    "s": "___你不来,我们也按时开始。(mesmo que)",
+    "o": [
+     "就算",
+     "凡是",
+     "除非",
+     "只要"
+    ],
+    "a": "就算",
+    "ex": "就算…也… aceita a hipótese extrema e responde com 也. 凡是 pede 都; 除非 pede 才 ou 否则; 只要 pede 就."
+   },
+   {
+    "s": "就算你说得对,___不能这样对他说话。(mesmo assim)",
+    "o": [
+     "也",
+     "就",
+     "才",
+     "再"
+    ],
+    "a": "也",
+    "ex": "O par é 就算…也…. 就 e 才 fecham condição, não concessão; 再 indicaria repetição."
+   },
+   {
+    "s": "请把电话号码留下,___有事的时候能马上找到你。(para que)",
+    "o": [
+     "以便",
+     "所以",
+     "而且",
+     "可是"
+    ],
+    "a": "以便",
+    "ex": "以便 introduz a finalidade ('para que'). Como o primeiro membro é um pedido, 所以 (resultado já realizado), 而且 (acréscimo) e 可是 (oposição) não cabem."
+   },
+   {
+    "s": "请把重要的话写下来,___以后忘了可以看看。(para que)",
+    "o": [
+     "以便",
+     "而且",
+     "但是",
+     "才"
+    ],
+    "a": "以便",
+    "ex": "以便 liga a ação ao objetivo. 而且 acrescentaria outra ação; 但是 oporia; 才 exigiria uma condição antes."
+   }
+  ],
+  "frases": [
+   {
+    "zh": "这种无污染的蔬菜越来越受欢迎",
+    "pt": "Esses legumes sem poluição estão cada vez mais populares."
+   },
+   {
+    "zh": "城市的交通越来越现代化",
+    "pt": "O trânsito da cidade está cada vez mais modernizado."
+   },
+   {
+    "zh": "人家都同意了,你还反对什么?",
+    "pt": "Todo mundo já concordou; o que você ainda tem a objetar?"
+   },
+   {
+    "zh": "他手里拿着一串钥匙",
+    "pt": "Ele está com um molho de chaves na mão."
+   },
+   {
+    "zh": "经过一番调查,我们终于找到了原因",
+    "pt": "Depois de uma investigação, finalmente encontramos a causa."
+   },
+   {
+    "zh": "他异常激动,一句话也说不出来",
+    "pt": "Ele ficou anormalmente emocionado e não conseguiu dizer uma palavra."
+   },
+   {
+    "zh": "我们将一同去参观博物馆",
+    "pt": "Iremos visitar o museu juntos."
+   },
+   {
+    "zh": "他不时回头看,好像在等人",
+    "pt": "Ele olhava para trás de vez em quando, como se estivesse esperando alguém."
+   },
+   {
+    "zh": "他一再强调,质量比速度更重要",
+    "pt": "Ele repetidamente enfatizou que a qualidade é mais importante que a velocidade."
+   },
+   {
+    "zh": "他特地请了一天假来看我",
+    "pt": "Ele tirou um dia de folga especialmente para me ver."
+   },
+   {
+    "zh": "贵的东西未必质量好",
+    "pt": "Coisas caras não são necessariamente de boa qualidade."
+   },
+   {
+    "zh": "我正要出门,他恰好来了",
+    "pt": "Eu estava justamente saindo quando ele chegou."
+   },
+   {
+    "zh": "会议于上午九点准时开始",
+    "pt": "A reunião começa pontualmente às nove da manhã."
+   },
+   {
+    "zh": "钱的事不用担心,至于时间,我们再商量",
+    "pt": "Não se preocupe com o dinheiro; quanto ao tempo, a gente combina depois."
+   },
+   {
+    "zh": "比赛因下雨改到了下周",
+    "pt": "A partida foi adiada para a semana que vem por causa da chuva."
+   },
+   {
+    "zh": "除英语以外,他还会说日语",
+    "pt": "Além do inglês, ele também fala japonês."
+   },
+   {
+    "zh": "我以为他会拒绝,不料他一口就答应了",
+    "pt": "Achei que ele recusaria; inesperadamente, ele aceitou na hora."
+   },
+   {
+    "zh": "这正是我所想要的答案",
+    "pt": "É exatamente a resposta que eu queria."
+   },
+   {
+    "zh": "别急,饭马上就好啦",
+    "pt": "Calma, a comida já vai ficar pronta."
+   },
+   {
+    "zh": "你去也好,他去也好,总得有一个人留下",
+    "pt": "Seja você, seja ele, alguém tem que ficar."
+   },
+   {
+    "zh": "她总是想这想那,睡不好觉",
+    "pt": "Ela fica pensando nisso e naquilo e não consegue dormir direito."
+   },
+   {
+    "zh": "街上的人左顾右盼,好像在找什么",
+    "pt": "As pessoas na rua olhavam para os dois lados, como se procurassem algo."
+   },
+   {
+    "zh": "我好不容易才买到票",
+    "pt": "Só com muito custo consegui comprar o ingresso."
+   },
+   {
+    "zh": "那倒也是,不过我们还是得去",
+    "pt": "Isso é verdade, mas ainda assim temos que ir."
+   },
+   {
+    "zh": "算了,这点儿小事我不管了。",
+    "pt": "Deixa pra lá, não vou me meter nessa bobagem."
+   },
+   {
+    "zh": "你早点儿睡得了,别想那么多。",
+    "pt": "Vai dormir logo e pronto, não fica pensando tanto."
+   },
+   {
+    "zh": "老师发本子,你一个我一个。",
+    "pt": "A professora distribuiu os cadernos, um pra você e um pra mim."
+   },
+   {
+    "zh": "衣服东一件西一件,扔在地上。",
+    "pt": "As roupas estão jogadas no chão, uma aqui e outra ali."
+   },
+   {
+    "zh": "到目前为止,他还没来。",
+    "pt": "Até agora, ele ainda não veio."
+   },
+   {
+    "zh": "别把责任推到我头上。",
+    "pt": "Não jogue a responsabilidade em mim."
+   },
+   {
+    "zh": "不试不知道,一试就成功了。",
+    "pt": "Sem tentar não dá pra saber; tentou e deu certo."
+   },
+   {
+    "zh": "好你个老李,连我的话也不听!",
+    "pt": "Olha só você, Lao Li, nem me escuta!"
+   },
+   {
+    "zh": "他早不来晚不来,现在才来。",
+    "pt": "Ele não veio antes nem depois; veio justo agora."
+   },
+   {
+    "zh": "瞧把孩子饿得,一口气吃了三碗饭。",
+    "pt": "Olha como a criança estava faminta: comeu três tigelas de arroz de uma vez."
+   },
+   {
+    "zh": "放着好东西不吃,真奇怪。",
+    "pt": "Tem coisa boa e não come; é muito estranho."
+   },
+   {
+    "zh": "丢了就丢了,别难过。",
+    "pt": "Perdeu, perdeu; não fique triste."
+   },
+   {
+    "zh": "这也不行,那也不行。",
+    "pt": "Isso não serve, aquilo não serve."
+   },
+   {
+    "zh": "钱归钱,朋友归朋友。",
+    "pt": "Dinheiro é dinheiro, amizade é amizade."
+   },
+   {
+    "zh": "瞧他气的,脸都红了。",
+    "pt": "Olha como ele ficou bravo, até ficou com o rosto vermelho."
+   },
+   {
+    "zh": "这种日子我烦透了。",
+    "pt": "Estou completamente farto desses dias."
+   },
+   {
+    "zh": "一阵大风把门吹开了。",
+    "pt": "Uma rajada de vento abriu a porta."
+   },
+   {
+    "zh": "他一时想去,一时又不想去。",
+    "pt": "Ele ora quer ir, ora não quer ir."
+   },
+   {
+    "zh": "要么今天去,要么明天去。",
+    "pt": "Ou vamos hoje, ou vamos amanhã."
+   },
+   {
+    "zh": "天气虽冷,可大家都很热情。",
+    "pt": "Embora o tempo esteja frio, todos estão animados."
+   },
+   {
+    "zh": "凡是他说的,我都相信。",
+    "pt": "Tudo o que ele diz, eu acredito."
+   },
+   {
+    "zh": "就算再难,我也要做完。",
+    "pt": "Por mais difícil que seja, vou terminar."
+   },
+   {
+    "zh": "请把地址写清楚,以便寄东西。",
+    "pt": "Escreva o endereço com clareza para podermos enviar."
+   }
+  ]
  }
 }
