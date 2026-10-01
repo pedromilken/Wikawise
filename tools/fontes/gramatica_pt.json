@@ -5775,12 +5775,12 @@
     "s": "外面___有人在哭,你出去看看。(advérbio: 'parece que')",
     "o": [
      "似乎",
-     "始终",
+     "过于",
      "连忙",
      "亲自"
     ],
     "a": "似乎",
-    "ex": "似乎 introduz uma impressão não confirmada, e é isso que justifica o pedido 'vá lá fora ver'. 始终 afirmaria com certeza e por todo o tempo, 连忙 descreveria a pressa de alguém e 亲自 exigiria um agente que age em pessoa — nenhum dos três expressa dúvida."
+    "ex": "似乎 introduz uma impressão não confirmada, e é isso que justifica o pedido 'vá lá fora ver'. 过于 só intensifica adjetivos (não 有人在哭), 连忙 descreveria a pressa de alguém e 亲自 exigiria um agente que age em pessoa — nenhum dos três expressa dúvida."
    },
    {
     "s": "十年过去了,这里___还是老样子,一点儿也没变。(advérbio: 'como se, parecia que')",
@@ -6487,7 +6487,7 @@
     "ex": "O complemento de grau se liga ao adjetivo com 得: 累得不得了. 的 marca atributo, 地 marca adverbial e 了 marca mudança de estado — nenhum introduz complemento."
    },
    {
-    "s": "这几天他忙___,连电话也没时间打。(ocupado ao extremo)",
+    "s": "这几天他忙得___,连电话也没时间打。(ocupado ao extremo)",
     "o": [
      "不得了",
      "很",
@@ -6531,15 +6531,15 @@
     "ex": "Só 得 abre um complemento de estado: 累得一坐下就睡着了. 的 liga atributo a substantivo, 地 marca advérbio e 着 marca aspecto contínuo — nenhum introduz complemento."
    },
    {
-    "s": "老师讲___,连坐在最后一排的学生也听到了。(complemento de estado após verbo)",
+    "s": "老师讲得___,连坐在最后一排的学生也听到了。(complemento de estado após verbo)",
     "o": [
-     "得很清楚",
-     "清楚得很",
-     "的很清楚",
-     "得清楚很"
+     "很清楚",
+     "清楚很",
+     "很清楚得",
+     "清楚得很"
     ],
-    "a": "得很清楚",
-    "ex": "A ordem é verbo+得+complemento: 讲得很清楚. 清楚得很 inverte o complemento para antes do 得 obrigatório, 的很清楚 usa o marcador errado e 得清楚很 quebra a ordem do próprio complemento."
+    "a": "很清楚",
+    "ex": "A ordem é verbo+得+complemento: 讲得很清楚. 清楚很 inverte o complemento, 很清楚得 empilha um 得 a mais no fim e 清楚得很 repetiria o 得 que já está no enunciado — nenhum forma o complemento depois de 得."
    },
    {
     "s": "墙上___一张画,是弟弟自己画的。(有字句3: 动词+有, aderência)",
@@ -6591,10 +6591,10 @@
      "一看见妈妈",
      "看见妈妈一",
      "把妈妈看见",
-     "妈妈一看见"
+     "妈妈看见一"
     ],
     "a": "一看见妈妈",
-    "ex": "A causa vem primeiro, com 一+verbo: 一看见妈妈就笑了起来. 看见妈妈一 coloca o 一 fora do lugar, 把妈妈看见 é agramatical (verbo de percepção não aceita 把) e 妈妈一看见 troca o sujeito da frase."
+    "ex": "A causa vem primeiro, com 一+verbo: 一看见妈妈就笑了起来. 看见妈妈一 coloca o 一 fora do lugar, 把妈妈看见 é agramatical (verbo de percepção não aceita 把) e 妈妈看见一 não forma ordem válida."
    },
    {
     "s": "他___,连新衣服也不买。(连动句3: relação adversativa)",
@@ -8179,23 +8179,23 @@
     "s": "___好好的工作不干,自己开店去了。(tendo um bom emprego)",
     "o": [
      "放着",
-     "拿着",
-     "带着",
-     "用着"
+     "对着",
+     "朝着",
+     "沿着"
     ],
     "a": "放着",
-    "ex": "放着 X 不 Y = 'tendo X ali disponível e não usando'. 拿着, 带着 e 用着 descrevem ações reais com o objeto e não combinam com 好好的工作不干."
+    "ex": "放着 X 不 Y = 'tendo X ali disponível e não usando'. 对着, 朝着 e 沿着 marcam direção ou alvo e não introduzem a ideia de disponibilidade ignorada."
    },
    {
     "s": "___新的不用,他一定要用那台旧的。(tendo o novo)",
     "o": [
      "放着",
-     "看着",
-     "想着",
-     "听着"
+     "对着",
+     "朝着",
+     "沿着"
     ],
     "a": "放着",
-    "ex": "放着新的不用 critica quem deixa de lado o que tem à mão. 看着, 想着 e 听着 são verbos de percepção que não introduzem essa ideia de disponibilidade ignorada."
+    "ex": "放着新的不用 critica quem deixa de lado o que tem à mão. 对着, 朝着 e 沿着 marcam direção e não introduzem disponibilidade ignorada."
    },
    {
     "s": "钱花了___,以后还能再挣。(o que gastou, gastou)",
