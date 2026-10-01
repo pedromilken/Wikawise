@@ -8652,5 +8652,4026 @@
     "pt": "Escreva o endereço com clareza para podermos enviar."
    }
   ]
+ },
+ "7": {
+  "pontos": [
+   {
+    "t": "类前缀 后— / 亲— (prefixos)",
+    "e": "后— forma substantivos com a ideia de 'depois, posterior': 后果 (consequência), 后代 (descendência), 后辈 (geração mais nova), 后期 (fase final). 亲— forma palavras com a ideia de 'pela própria pessoa': 亲自 (pessoalmente), 亲眼, 亲口, 亲手.",
+    "zh": "他亲手做的这碗面,味道真不错。",
+    "pt": "Esse macarrão que ele fez com as próprias mãos está uma delícia."
+   },
+   {
+    "t": "类后缀 —观、—鬼、—界、—然、—坛、—为、—制",
+    "e": "Esses sufixos criam palavras novas: —观 dá 'concepção' (人生观, 乐观), —界 e —坛 dão 'campo, meio' (金融界, 文坛), —制 dá 'sistema' (体制, 学制), —鬼 é pejorativo para mania ou vício (酒鬼, 小气鬼), —然 forma adjetivos e advérbios (坦然, 全然), —为 entra em 行为 e no quadro V+为 (称为, 视为, 选……为).",
+    "zh": "他对这些议论全然不在意。",
+    "pt": "Ele não dá a menor atenção a esses comentários."
+   },
+   {
+    "t": "巴不得 / 恨不得 (morrer de vontade)",
+    "e": "Os dois dizem 'querer muito', mas se separam pela realizabilidade. 恨不得 é desejo intenso por algo impossível ou exagerado (恨不得插翅飞回去, 恨不得有个地缝钻进去); 巴不得 é desejo ansioso por algo realizável, muitas vezes já oferecido ou à mão (我巴不得他早点儿来; 你要去,我巴不得). A pista está no conteúdo da oração seguinte: hipérbole pede 恨不得, oferta ou possibilidade real pede 巴不得.",
+    "zh": "我巴不得明天就放假,好回老家看看。",
+    "pt": "Eu queria mais é que as férias começassem amanhã, pra poder visitar minha terra."
+   },
+   {
+    "t": "犯不着 / 犯得着 (valer ou não valer a pena)",
+    "e": "犯不着 = 'não vale a pena'; costuma fechar a frase depois de explicado o motivo. 犯得着 aparece quase sempre em pergunta retórica com 吗, no sentido de 'será que valia a pena?'.",
+    "zh": "为两句话就跟他闹翻,实在犯不着。",
+    "pt": "Romper com ele por causa de duas palavras realmente não vale a pena."
+   },
+   {
+    "t": "并非 / 所谓 / 可谓 (verbos do registro escrito)",
+    "e": "并非 nega uma suposição: 'não é bem assim' (并非不想去). 所谓 apresenta o chamado, o que se costuma nomear (所谓的经验). 可谓 equivale a 'pode-se dizer que' e vem antes de um comentário.",
+    "zh": "他并非不喜欢这份工作,只是身体吃不消。",
+    "pt": "Não é que ele não goste desse trabalho; é que o corpo não aguenta."
+   },
+   {
+    "t": "有所 / 予以 (verbos de apoio formais)",
+    "e": "有所 + verbo dissílabo abstrato indica um pouco de mudança ou resultado (有所了解, 有所改善). 予以 + verbo formal entrega uma ação a alguém, quase sempre em textos oficiais (予以支持, 予以解决).",
+    "zh": "这几年,老家的生活有所改善。",
+    "pt": "Nestes últimos anos, a vida na minha terra melhorou um pouco."
+   },
+   {
+    "t": "免不了 / 除外",
+    "e": "免不了 diz que algo é inevitável e vem antes do verbo (免不了出错). 除外 fica no fim da frase e marca a única exceção do grupo que acabou de ser mencionado.",
+    "zh": "第一次做这样的事,免不了出错。",
+    "pt": "Na primeira vez que se faz uma coisa dessas, errar é inevitável."
+   },
+   {
+    "t": "指示代词 彼、这么着、兹",
+    "e": "彼 é o demonstrativo escrito para 'aquele, o outro lado' (彼时, 彼此, 知己知彼). 这么着 é oral e resume o que se vai fazer (这么着吧). 兹 abre avisos e comunicados: 'por meio desta'.",
+    "zh": "兹定于本周五下午召开全体会议。",
+    "pt": "Por meio desta, fica marcada a reunião geral para a tarde desta sexta-feira."
+   },
+   {
+    "t": "疑问代词 何、怎么着",
+    "e": "何 é o interrogativo formal e vem antes do substantivo ou do verbo (何人, 何时, 何必). 怎么着 é oral: pergunta 'e aí, o que foi?' ou, dentro de 不管怎么着, vale por 'seja lá como for'.",
+    "zh": "何人能保证这件事不出问题呢?",
+    "pt": "Quem pode garantir que nada vai dar errado nisso?"
+   },
+   {
+    "t": "数量代词 若干 (alguns, um certo número)",
+    "e": "若干 indica uma quantidade não especificada em registro formal e vem direto antes do substantivo, sem medidor: 若干问题, 若干年后. É a versão escrita de 一些.",
+    "zh": "关于这个问题,我有若干想法要谈谈。",
+    "pt": "Sobre essa questão, tenho algumas ideias pra discutir."
+   },
+   {
+    "t": "名量词 重、截、缕、码、枚、摊、丸、则、幢、宗",
+    "e": "Cada um escolhe o substantivo: 重 camadas e sentidos abstratos (另一重意义), 截 pedaços cortados (半截铅笔), 缕 fios de fumaça, cheiro ou esperança, 摊 poças e coisas espalhadas no chão, 枚 medalhas, selos e moedas, 则 notícias e provérbios, 幢 edifícios, 宗 casos e transações, 丸 pílulas, 码 em 两码事 ('outro assunto').",
+    "zh": "窗外飘进来一缕淡淡的香味。",
+    "pt": "Um leve aroma entrou pela janela."
+   },
+   {
+    "t": "动量词 通 (uma sessão de…)",
+    "e": "通 conta uma ação contínua e intensa, geralmente depois de verbos como 哭, 笑, 闹, 说, 打, 敲: 哭了一通. É mais coloquial que 顿, que prefere 打, 骂 e 吃.",
+    "zh": "她委屈得哭了一通,眼睛都肿了。",
+    "pt": "Ela chorou um bocado de tanta mágoa; até os olhos incharam."
+   },
+   {
+    "t": "复合量词 人次 (pessoa-vez)",
+    "e": "人次 soma pessoas e vezes: quem participou duas vezes conta duas. Aparece em números oficiais de público (接待观众十万人次); se a contagem for só de pessoas, usa-se 人.",
+    "zh": "去年这个博物馆接待观众五十万人次。",
+    "pt": "No ano passado esse museu recebeu 500 mil visitas."
+   },
+   {
+    "t": "程度副词 大为、分外、何等、极度、极力、略微、颇、万分、愈加、越发",
+    "e": "Os advérbios de grau do nível 7 são escritos e cada um tem seu apoio: 极力 só acompanha verbo de esforço voluntário, 极度 estados extremos, 分外 qualidades ressaltadas, 越发/愈加 mudanças progressivas no tempo e 何等 exclamações com 的……啊.",
+    "zh": "雨后的空气分外清新,让人心情很好。",
+    "pt": "Depois da chuva o ar fica extraordinariamente fresco; dá gosto."
+   },
+   {
+    "t": "范围副词 大体、皆、尽、均、通通、统统、唯独、无非、一概",
+    "e": "均 é o 'todos, cada um' distributivo do registro escrito (三个班均有五十人). 无非 reduz tudo a uma só coisa ('não é nada além de'). 通通 e 统统 varrem o conjunto inteiro, e 一概 e 唯独 aparecem em contextos restritivos.",
+    "zh": "他说了半天,无非是想让我们多干活。",
+    "pt": "Ele falou um tempão só pra gente trabalhar mais."
+   },
+   {
+    "t": "时间副词 届时、随即、尚、向来、一经、暂且、尽早",
+    "e": "届时 retoma uma data já marcada ('chegada a hora') e 随即 encadeia uma ação que veio logo depois de outra concluída. 尚 é o 'ainda' escrito, 一经 abre uma condição de efeito imediato e 向来 marca um hábito antigo.",
+    "zh": "他向来不迟到,今天却晚了半小时。",
+    "pt": "Ele nunca se atrasa, mas hoje chegou meia hora tarde."
+   },
+   {
+    "t": "频率副词 连连、屡次、时而、相继、一连、一个劲儿、再度",
+    "e": "一连 exige número ou período logo depois (一连三天). 相继 pede vários sujeitos que se sucedem. 时而 funciona em par (时而……时而……) e 一个劲儿 marca uma ação insistente com 地.",
+    "zh": "他一连三天没回家,家里人急坏了。",
+    "pt": "Ele ficou três dias seguidos sem voltar pra casa; a família ficou desesperada."
+   },
+   {
+    "t": "方式副词 不由得、趁机、如期、日趋、截然、公然、断然、竭力、就近",
+    "e": "Esses advérbios dizem como a ação acontece: 不由得 tira o controle de quem age, 趁机 aproveita a ocasião, 如期 cumpre o previsto, 日趋 marca mudança gradual, 截然 separa por completo e 公然 desafia as regras à vista de todos.",
+    "zh": "尽管下大雪,比赛还是如期举行了。",
+    "pt": "Apesar da nevasca, a partida aconteceu conforme o previsto."
+   },
+   {
+    "t": "方式副词 (cont.): 擅自 / 私自 / 瞎 (sem autorização ou sem critério)",
+    "e": "Os três qualificam uma ação feita fora das regras. 擅自 e 私自 são próximos — 'por conta própria, sem pedir licença' — mas 私自 tem sabor mais secreto, enquanto 擅自 soa a violação de norma e é típico de regulamento. 瞎 é coloquial e pejorativo: 'de qualquer jeito, sem critério'.",
+    "zh": "未经批准，任何人不得擅自离开岗位。",
+    "pt": "Sem autorização, ninguém pode se ausentar do posto por conta própria."
+   },
+   {
+    "t": "方式副词 (cont.): 照常 / 照例 / 照样 (como de costume)",
+    "e": "Os três indicam que algo se mantém conforme o habitual. 照常 é o mais neutro e o mais usado na fala, e implica uma circunstância que poderia ter mudado as coisas; 照例 apela a um precedente ou regra; 照样 insiste em que nada mudou, muitas vezes contra a expectativa.",
+    "zh": "下这么大的雨，他照样六点钟出门跑步。",
+    "pt": "Mesmo com essa chuva toda, ele saiu para correr às seis do mesmo jeito."
+   },
+   {
+    "t": "方式副词 (cont.): 一并 / 逐一 / 一举 / 一手 (abrangência e distribuição)",
+    "e": "一并 junta tudo num só ato ('de uma vez, junto'); 逐一 distribui um por um; 一举 realiza num único movimento e quase sempre traz resultado notável; 一手 indica que uma só pessoa fez ou controlou tudo, com tom de reprovação.",
+    "zh": "这些旧书和旧报纸一并卖掉吧，留着也没地方放。",
+    "pt": "Vamos vender esses livros e jornais velhos tudo de uma vez; guardados, não há onde pôr."
+   },
+   {
+    "t": "方式副词 (cont.): 毅然 / 执意 / 有意 / 专程 / 愣 (propósito deliberado)",
+    "e": "毅然 marca decisão firme tomada apesar das dificuldades e tem tom louvável; 执意 é insistir contra o conselho alheio, com tom de teimosia; 有意 é ter intenção, às vezes escondida; 专程 é fazer algo só para aquele fim, com deslocamento; 愣 reforça teimosia ou atordoamento e é coloquial.",
+    "zh": "大家都劝他别去，他执意要走，谁也拦不住。",
+    "pt": "Todo mundo aconselhou que não fosse, mas ele insistiu em partir e ninguém conseguiu segurá-lo."
+   },
+   {
+    "t": "方式副词 (cont.): 骤然 / 特此 (mudança súbita e fórmula escrita)",
+    "e": "骤然 marca mudança brusca e é do registro escrito, quase sempre com clima, preço ou estado. 特此 é fórmula exclusiva de documento oficial — 'por este ato, fica aqui registrado' — e vem depois do verbo, fechando o aviso, nunca no começo da frase.",
+    "zh": "会议改到星期五上午九点，特此通知。",
+    "pt": "A reunião foi transferida para sexta-feira às nove da manhã; por este ato, fica comunicado."
+   },
+   {
+    "t": "否定副词: 绝不 / 不见得 / 无须 / 无从 / 勿",
+    "e": "绝不 é negação enfática de futuro ou de hábito; 不见得 nega a certeza, não o fato ('não é bem assim'); 无须 dispensa ('não é preciso'); 无从 nega a possibilidade por falta de meio ('não há como'); 勿 é proibição do registro escrito e fica antes de verbo monossilábico.",
+    "zh": "他嘴上答应得痛快，可我看他不见得真会去。",
+    "pt": "Ele concordou logo de boca, mas me parece que não é bem certo que vá de verdade."
+   },
+   {
+    "t": "语气副词 de certeza e inevitabilidade: 必定 / 必将 / 势必 / 终究 / 不免 / 难免",
+    "e": "Todos afirmam que algo vai acontecer sem escapatória. 必定 e 必将 são certeza objetiva; 势必 é necessidade decorrente das circunstâncias; 终究 é 'no fim das contas', depois de um processo; 不免 e 难免 admitem reação natural e difícil de evitar, e 难免 aceita substantivo depois.",
+    "zh": "第一次离家这么远，不免想家，过一阵就好了。",
+    "pt": "Na primeira vez tão longe de casa, é inevitável sentir saudade; passa depois de um tempo."
+   },
+   {
+    "t": "语气副词 retóricos com 何: 何必 / 何不 / 何尝 / 何苦",
+    "e": "Os quatro são perguntas retóricas que afirmam o contrário do que perguntam. 何必 desaconselha ('para quê'); 何不 sugere ('por que não'); 何尝 nega com ênfase ('em momento algum') e exige verbo sem 会 depois; 何苦 pergunta por que se atormentar. Nenhum espera resposta.",
+    "zh": "你既然不想去，何必勉强自己？",
+    "pt": "Já que você não quer ir, para que se forçar?"
+   },
+   {
+    "t": "语气副词 de avaliação: 反倒 / 未免 / 分明",
+    "e": "反倒 marca resultado contrário ao esperado, mais forte que 反而 por trazer surpresa do falante; 未免 avalia algo como excessivo e vem antes de 太 ou 有点儿 + adjetivo; 分明 afirma com evidência clara que algo é óbvio, muitas vezes contra o que o outro disse.",
+    "zh": "你这么说未免太不客气了，他毕竟是你叔叔。",
+    "pt": "Falando assim você é indelicado até demais; afinal, ele é seu tio."
+   },
+   {
+    "t": "语气副词 de descoberta e suspeita: 怪不得 / 难怪 / 莫非",
+    "e": "怪不得 e 难怪 são equivalentes e marcam que a causa de um efeito já conhecido foi finalmente encontrada ('não é à toa que'). 莫非 levanta suspeita ou hipótese improvável diante de um indício, e costuma aparecer em pergunta ou seguido de 是.",
+    "zh": "他眼睛红红的，怪不得一早上都没精神。",
+    "pt": "Ele está com os olhos vermelhos; não é à toa que ficou sem ânimo a manhã toda."
+   },
+   {
+    "t": "语气副词 de insistência e proibição: 务必 / 切 / 万万",
+    "e": "Os três reforçam ordem ou aviso. 务必 é exigência firme e neutra antes de verbo positivo; 切 é do registro escrito de avisos e vem com 勿 ou 不可; 万万 é o mais enfático e só aparece com negativo, formando 万万不可 ou 万万不能.",
+    "zh": "这事关系重大，万万不可让别人知道。",
+    "pt": "Este assunto é de grande importância; de jeito nenhum pode ser revelado a ninguém."
+   },
+   {
+    "t": "语气副词 de decisão simplificada: 索性 / 不妨",
+    "e": "索性 decide fazer algo de uma vez, cortando as alternativas ('já que é assim, melhor…'); 不妨 sugere com brandura que vale a pena experimentar. 索性 é decisão tomada diante de um fato que fechou as outras saídas; 不妨 é sugestão aberta e sem urgência.",
+    "zh": "反正车也赶不上了，索性在这儿住一晚吧。",
+    "pt": "Já que não dá mais para pegar o ônibus, é melhor passar a noite aqui."
+   },
+   {
+    "t": "语气副词 de coincidência e surpresa: 碰巧 / 偏偏 / 恰巧 / 竟",
+    "e": "碰巧 e 恰巧 são coincidências neutras ou favoráveis; 偏偏 é coincidência contrária, que atrapalha justamente quando não devia; 竟 marca surpresa do falante diante de algo que quebra uma expectativa estabelecida antes. A diferença entre 偏偏 e 碰巧 é sempre a valência.",
+    "zh": "我正要给他打电话，他偏偏这时候来了。",
+    "pt": "Eu estava justamente para ligar para ele, e ele resolve aparecer bem nessa hora."
+   },
+   {
+    "t": "好在 (alívio: o mal podia ter sido pior)",
+    "e": "好在 introduz o fato que ameniza uma situação ruim já mencionada: 'felizmente', 'ao menos'. Diferente de 幸亏 e 幸好, tratados na parte 5, que nomeiam o fato que evitou o mal, 好在 aponta o que ainda resta de bom dentro de um quadro negativo.",
+    "zh": "这次考试没考好，好在还有一次补考的机会。",
+    "pt": "Não fui bem nesta prova; ao menos ainda há uma chance de recuperação."
+   },
+   {
+    "t": "判断副词 乃 (é — cópula do registro escrito)",
+    "e": "乃 funciona como verbo de ligação no registro escrito e em fórmulas fixas, no lugar de 是. Aparece em juízos formais, máximas e textos oficiais, e não na conversa comum. A negação é 并非, não 不是.",
+    "zh": "此举乃不得已而为之，请你谅解。",
+    "pt": "Esta medida foi tomada por não haver alternativa; peço sua compreensão."
+   },
+   {
+    "t": "介词 打 (desde, de — ponto de partida)",
+    "e": "打 é a preposição coloquial de ponto de partida, equivalente a 从, e serve tanto para tempo (打明天起) quanto para espaço (打东往西). É própria da fala do norte; no registro escrito entra 从 ou 自.",
+    "zh": "打明天起，我们就改用新的办法。",
+    "pt": "A partir de amanhã, passamos a usar o novo método."
+   },
+   {
+    "t": "介词 当着 (na presença de, diante de)",
+    "e": "当着 introduz as testemunhas diante das quais a ação ocorre, e quase sempre forma a estrutura 当着……的面. Implica que a presença de outros constrange ou dá peso ao ato — é isso que a distingue de 在.",
+    "zh": "他当着大家的面承认了错误。",
+    "pt": "Ele admitiu o erro na frente de todos."
+   },
+   {
+    "t": "介词 de base e fundamento: 本着 / 基于 / 鉴于 / 经 / 依",
+    "e": "Cinco preposições que introduzem o apoio de uma ação, cada uma com um tipo diferente. 本着 segue um princípio ou atitude (本着自愿); 基于 apoia-se em dados ou fatos; 鉴于 considera uma circunstância constatada e motiva decisão; 经 indica a instância ou processo pelo qual algo passou; 依 segue uma base normativa.",
+    "zh": "本着自愿的原则，谁也不勉强。",
+    "pt": "Seguindo o princípio da voluntariedade, ninguém é forçado."
+   },
+   {
+    "t": "连词 de acréscimo: 况且 / 加之 / 乃至 / 以及 / 且",
+    "e": "况且 e 加之 acrescentam um argumento ou fator de reforço ao já dito, e 加之 é mais escrito; 乃至 marca o ponto extremo de uma série; 以及 liga itens de uma enumeração, não orações; 且 é o acréscimo clássico, hoje restrito a texto formal.",
+    "zh": "路太远，况且天又黑了，今天走不了。",
+    "pt": "É longe demais; além disso, já escureceu — hoje não dá para ir."
+   },
+   {
+    "t": "连词 de prevenção: 免得 / 以防",
+    "e": "Os dois introduzem a consequência indesejada que a ação anterior evita. 免得 é coloquial e vem antes do fato que se quer evitar; 以防 é mais escrito e prepara uma precaução contra um evento apenas possível. São próximos, e o que os separa é o registro e o grau de probabilidade.",
+    "zh": "把电话记下来，免得以后找不着。",
+    "pt": "Anote o telefone, para depois não ficar sem como achar."
+   },
+   {
+    "t": "连词 de hipótese formal: 若 / 倘若",
+    "e": "Conjuntivos de hipótese do registro escrito, equivalentes a 如果. 若 é curto e muito usado em avisos e regulamentos; 倘若 é mais literário e sugere hipótese menos provável. A oração seguinte traz 就, 便 ou uma consequência.",
+    "zh": "若有不清楚的地方，请随时提问。",
+    "pt": "Se houver algo que não esteja claro, pergunte a qualquer momento."
+   },
+   {
+    "t": "语气助词: 罢了 / 也罢 / 矣",
+    "e": "罢了 fecha a frase limitando o conteúdo a 'nada além disso', quase sempre depois de 不过 ou 只是. 也罢 concede aceitando alternativas e vem em par (X也罢，Y也罢). 矣 é partícula clássica de fim de frase que marca fato consumado, hoje viva só em fórmulas e no registro solene.",
+    "zh": "他不过是说说罢了，你别当真。",
+    "pt": "Ele só estava falando da boca para fora; não leve a sério."
+   },
+   {
+    "t": "四字格 de oscilação e indiferença: 爱A不A / 忽A忽B / 时A时B",
+    "e": "爱A不A exprime indiferença diante da escolha do outro ('queira ou não'). 忽A忽B descreve oscilação brusca e repetida entre dois extremos. 时A时B descreve alternância ao longo do tempo, mais lenta que 忽. Em todos, A e B são antônimos ou opostos.",
+    "zh": "这几天的天气忽冷忽热，很多人都感冒了。",
+    "pt": "Nesses dias o tempo ora esfria ora esquenta, e muita gente pegou gripe."
+   },
+   {
+    "t": "四字格 de estado indefinido: 半A半B / 不A不B / 非A非B",
+    "e": "半A半B descreve estado parcialmente realizado em duas metades (半开半掩). 不A不B descreve um meio-termo indefinido, muitas vezes com reprovação (不三不四, 不新不旧). 非A非B nega dois vínculos ao mesmo tempo (非亲非故).",
+    "zh": "他说话不三不四的，谁也不知道他到底想干什么。",
+    "pt": "Ele fala de um jeito sem pé nem cabeça; ninguém sabe o que ele quer."
+   },
+   {
+    "t": "四字格 de inclusão e desordem: 连A带B / 七A八B / 东A西B",
+    "e": "连A带B inclui dois itens no mesmo total (连菜带酒). 七A八B descreve multiplicidade confusa ou desordem (七零八落, 七嘴八舌). 东A西B descreve dispersão em várias direções (东奔西走, 东张西望).",
+    "zh": "桌子上七零八落地堆着书和纸。",
+    "pt": "Em cima da mesa havia livros e papéis espalhados em desordem."
+   },
+   {
+    "t": "四字格 de possibilidade e de resultado sem ação: 可A可B / 不A而B",
+    "e": "可A可B descreve algo que admite dois modos ou tamanhos (可大可小). 不A而B indica que o resultado aconteceu sem a ação que normalmente o produziria (不约而同, 不言而喻). Em ambas, A e B são preenchidos por morfemas ligados.",
+    "zh": "这个道理不言而喻，不用我多说。",
+    "pt": "Esse princípio se explica por si; não preciso dizer mais nada."
+   },
+   {
+    "t": "四字格 无A不B (dupla negação = totalidade)",
+    "e": "无A不B afirma que não existe nenhum A que não seja B, ou seja, que B vale para todos os casos. É padrão fixo do registro escrito e jornalístico: 无人不知, 无处不在, 无孔不入, 无奇不有. A força vem da dupla negação, não de um advérbio de grau.",
+    "zh": "他这个人无孔不入，什么消息都要打听，什么事都想插一脚。",
+    "pt": "Esse sujeito se mete em qualquer brecha: quer saber de toda notícia e quer se enfiar em todo assunto."
+   },
+   {
+    "t": "四字格 无A可B (não há o que fazer com aquilo)",
+    "e": "无A可B nega que exista algo disponível para a ação B, e por isso exprime impossibilidade: 无可奉告 (nada a declarar), 无可辩驳 (irrefutável), 无可奈何 (nada a fazer), 无药可救 (sem conserto). O A é geralmente um morfema ligado que só vive dentro da expressão.",
+    "zh": "证据摆在面前，他无可辩驳，只好承认了。",
+    "pt": "Com as provas ali na frente, ele não teve como contestar e acabou admitindo."
+   },
+   {
+    "t": "四字格 自A自B (por conta própria, sobre si mesmo)",
+    "e": "自A自B indica que o sujeito faz a ação sozinho, para si mesmo ou à revelia dos outros: 自言自语 (falar sozinho), 自生自灭 (viver e morrer sem amparo), 自吹自擂 (gabarse), 自暴自弃 (entregar-se à própria ruína). A e B são verbos do mesmo campo semântico.",
+    "zh": "没人管的那片野花自生自灭，倒开得比花园里的还旺。",
+    "pt": "Aquelas flores silvestres do canto, sem ninguém cuidando, vivem por conta própria — e florescem mais que as do jardim."
+   },
+   {
+    "t": "不瞒你说 / 老实说 / 说真的 (abrindo uma confissão franca)",
+    "e": "Os três avisam que o que vem a seguir é a opinião sincera do falante, muitas vezes contrária ao que o outro espera. 不瞒你说 e 老实说 são intercambiáveis e um pouco mais formais; 说真的 é o mais coloquial. Ficam no início da oração, seguidos de vírgula, e não acrescentam informação: só marcam o tom.",
+    "zh": "不瞒你说，这道菜我尝了一口就不想再吃了。",
+    "pt": "Para ser franco, provei um bocadinho desse prato e já não quis comer mais."
+   },
+   {
+    "t": "不是…… (objeção indignada, não a negação)",
+    "e": "No início da frase e seguido de vírgula, 不是 deixa de negar e vira marcador de objeção: o falante interrompe para contestar o que acabou de ouvir. Equivale a 'ora, mas…', 'como assim?'. É coloquial e quase sempre puxa uma pergunta retórica com 怎么 ou 凭什么.",
+    "zh": "不是，你这样做对得起谁？",
+    "pt": "Ora, mas a quem você acha que está sendo justo agindo assim?"
+   },
+   {
+    "t": "不是我说你 (crítica anunciada e suavizada)",
+    "e": "Fórmula fixa com que o falante anuncia um reproche ao interlocutor fingindo que vai evitar criticar. Vem sempre no início, seguida de vírgula e de uma crítica direta a 你. Difere do 不是 simples: aqui o alvo é a pessoa, não a afirmação que ela fez.",
+    "zh": "不是我说你，这么大的事你也不提前跟我商量一下。",
+    "pt": "Não é por falar, mas uma coisa dessas você nem combinou comigo antes."
+   },
+   {
+    "t": "换句话说 / 简（而）言之 / 反过来（说） (reformulando o dito)",
+    "e": "Os três apresentam uma segunda versão do mesmo conteúdo, sem acrescentar fato novo. 换句话说 reexplica com outras palavras; 简（而）言之 comprime em uma frase o que era longo; 反过来（说） mostra o mesmo problema pelo lado oposto. Todos abrem a oração seguidos de vírgula.",
+    "zh": "这个方案太理想化了，换句话说，根本落不了地。",
+    "pt": "Este plano é idealizado demais; dito de outro modo, não tem como sair do papel."
+   },
+   {
+    "t": "总的来说 / 综上所述 / 归根到底 (fechando com resumo ou com a raiz)",
+    "e": "Os três fecham um raciocínio, mas não são iguais. 综上所述 e 概括来说 são do registro escrito e pedem argumentos enumerados antes; 总的来说 e 总而言之 são neutros e servem na fala; 归根到底 vai além do resumo — aponta a causa última, 'no fundo', e por isso costuma vir com 还是 ou 都是.",
+    "zh": "综上所述，这项改革方向是对的，但步子迈得太快了。",
+    "pt": "Em suma, a direção desta reforma está certa, mas o passo foi dado rápido demais."
+   },
+   {
+    "t": "话是这么说 / 话（又）说回来 / 退一步说 (conceder para retificar)",
+    "e": "Os três admitem algo antes de voltar atrás. 话是这么说 reconhece o que o outro acabou de dizer e prepara ressalva com 可是 ou 但; 话（又）说回来 retoma o ponto principal depois de um desvio; 退一步说 aceita provisoriamente uma hipótese só para mostrar que ela não muda a conclusão, e por isso vem com 就算 ou 即使.",
+    "zh": "话是这么说，可他毕竟年纪大了，我们不能太计较。",
+    "pt": "Lá isso é verdade, mas ele já é mais velho; não podemos levar tão a sério."
+   },
+   {
+    "t": "可不（是嘛） (concordando com ênfase)",
+    "e": "Resposta curta e coloquial de concordância total com o que o outro acabou de dizer: 'pois é!', 'é bem isso!'. Aparece sozinha ou seguida de um comentário que confirma. O 不 aqui não nega nada — faz parte da fórmula, e é isso que a separa da negação de 可.",
+    "zh": "—今天真冷。—可不，我出门忘了戴手套，手都冻僵了。",
+    "pt": "—Hoje está frio mesmo. —Pois é, saí sem luvas e minhas mãos congelaram."
+   },
+   {
+    "t": "（你）还别说 (conceder com surpresa)",
+    "e": "O falante admite, contra a própria expectativa, que algo se confirmou: 'olha, não é que…'. Abre a oração e é seguido do fato surpreendente, quase sempre com 还真, 倒 ou 真. O 不 não nega nada nem dá ordem — faz parte da fórmula, como em 可不.",
+    "zh": "他平时不吭声，还别说，关键时刻主意最多。",
+    "pt": "Ele normalmente fica calado; mas olha só, na hora decisiva é quem mais tem ideia."
+   },
+   {
+    "t": "真是的 / 你看你 (reprovação e repreensão)",
+    "e": "Os dois expressam reprovação, mas o alvo difere. 真是的 é desabafo sobre a situação e serve com terceira pessoa ou consigo mesmo, geralmente fechando a fala. 你看你 aponta direto para o interlocutor, exige que a frase seguinte descreva algo que ele fez, e geralmente abre a fala.",
+    "zh": "你看你，衣服弄得这么脏，刚换上的！",
+    "pt": "Olha só você, sujou a roupa toda — e tinha acabado de trocar!"
+   },
+   {
+    "t": "说到哪儿去了 (recusar o rumo da conversa)",
+    "e": "Fórmula coloquial com que o falante rejeita um elogio, uma suposição ou o rumo que a conversa tomou: 'imagina!', 'onde já se viu!'. Funciona como réplica inteira ou abrindo a resposta, e quase sempre vem seguida de uma frase que corrige o exagero do outro.",
+    "zh": "—您可是我们的大恩人！—说到哪儿去了，这都是我应该做的。",
+    "pt": "—O senhor é o nosso grande benfeitor! —Imagina, isso é só a minha obrigação."
+   },
+   {
+    "t": "无论如何 (custe o que custar / de jeito nenhum)",
+    "e": "Advérbio com dois usos que a posição do verbo distingue. Antes de verbo de ação, exprime determinação: 'faça o que fizer' (无论如何都要去). Antes de 也 com verbo negativo, exprime impossibilidade de mudar: 'de jeito nenhum' (无论如何也说不通). Fica sempre antes do verbo, nunca no fim da frase.",
+    "zh": "这条路再难走，我们也得走下去，无论如何都不能半途而废。",
+    "pt": "Por mais difícil que seja este caminho, temos de segui-lo; de jeito nenhum podemos desistir no meio."
+   },
+   {
+    "t": "要（让）我说 / 依我看 (dando a própria opinião)",
+    "e": "Fórmula coloquial que anuncia a opinião do falante depois de ouvir os outros, muitas vezes para encerrar uma discussão: 'se quer saber o que eu acho'. 要让我说 é a variante mais falada; 依我看 é mais neutra. Abrem a oração seguidos de vírgula e não resumem o que foi dito — acrescentam um juízo próprio.",
+    "zh": "要我说，他这个决定其实没什么错。",
+    "pt": "Se quer saber o que eu acho, a decisão dele não estava errada."
+   },
+   {
+    "t": "这不 (apontar a evidência que está ali)",
+    "e": "Contração coloquial de 'não é isso aqui?', usada para chamar atenção a uma prova presente que confirma o que acabou de ser dito. Abre a oração seguinte e costuma vir com 就, 正在 ou um fato visível. Não é negação: o 不 faz parte da fórmula.",
+    "zh": "天气预报说有大雨，这不，刚出门就下起来了。",
+    "pt": "A previsão deu chuva forte; olha só, mal saí de casa e já começou."
+   },
+   {
+    "t": "这样一来 (assim sendo, com isso)",
+    "e": "Conector que retoma o fato acabado de dizer e apresenta a consequência: 'assim sendo', 'desse modo'. Exige que a causa já tenha sido enunciada antes, por isso não pode abrir um texto. Fica no início da oração seguinte, seguido de vírgula, e é neutro de registro.",
+    "zh": "他把钥匙锁在车里了，这样一来，只能等修车师傅来。",
+    "pt": "Ele trancou a chave dentro do carro; assim sendo, só dá para esperar o mecânico."
+   },
+   {
+    "t": "X到这个地步 / X到这个份上 (já que chegou a esse ponto)",
+    "e": "Moldura em que um verbo (闹, 说, 搞, 做) é seguido de 到这个地步 ou 到这个份上 para marcar que a situação atingiu um extremo que justifica o que vem depois. 地步 é neutro; 份上 é mais coloquial e prefere 说/闹/吵. A construção inteira funciona como advérbial de causa, e por isso a oração seguinte costuma ser uma conclusão ou um pedido.",
+    "zh": "事情闹到这个地步，谁也别怪谁了，先想办法解决吧。",
+    "pt": "Já que a coisa chegou a esse ponto, ninguém tem de culpar ninguém; vamos primeiro pensar numa solução."
+   },
+   {
+    "t": "X得要命 / X要死 (pra morrer, de matar)",
+    "e": "Depois de adjetivo ou verbo de sentimento, 得要命 e 要死 funcionam como complemento de grau extremo: 热得要命, 累得要死, 急得要命. São coloquiais e sempre exagerados, e o 得 antes deles é obrigatório.",
+    "zh": "这几天忙得要命,连饭都顾不上吃。",
+    "pt": "Estou ocupado pra morrer esses dias, nem consigo parar pra comer."
+   },
+   {
+    "t": "X都不/没X (nem chegou a fazer)",
+    "e": "Repete-se o verbo com 都不 ou 没 no meio para dizer que a ação nem aconteceu: 理都不理, 看都不看, 想都没想. É a versão sem 连 de 连X都不X, e só serve para recusas e descasos.",
+    "zh": "我叫了他三声,他理都不理我。",
+    "pt": "Chamei três vezes e ele nem me deu bola."
+   },
+   {
+    "t": "X就X个Y (se é pra fazer, faz até o fim)",
+    "e": "Repete-se o verbo com 就 e fecha com 个 + resultado: 玩就玩个痛快, 吃就吃个够. O 就 amarra a decisão ('já que é assim…') e o 个 não mede nada: só abre o complemento.",
+    "zh": "要玩就玩个痛快,别老盯着表。",
+    "pt": "Se é pra brincar, brinque até o fim; pare de ficar olhando o relógio."
+   },
+   {
+    "t": "动词+个X / 动词+得个X (个 abre o resultado)",
+    "e": "Depois do verbo, 个 (ou 得个) introduz o resultado da ação com tom enfático e coloquial: 问个明白, 说个没完, 吃得个精光. Não é medidor de nada, é só o abre-alas do complemento.",
+    "zh": "这顿早饭他吃得个精光,一点儿也没剩。",
+    "pt": "Ele limpou o café da manhã por completo, não sobrou nada."
+   },
+   {
+    "t": "X了Y,Y了X (a ação foi e voltou)",
+    "e": "Repete-se o mesmo verbo com os participantes trocados para mostrar que a ação correu nos dois sentidos: 你帮了我,我帮了你. Serve para fechar contas ('está quitado') ou para tirar de alguém o direito de reclamar.",
+    "zh": "你帮了我,我帮了你,谁也不用谢谁。",
+    "pt": "Você me ajudou, eu ajudei você; ninguém precisa agradecer."
+   },
+   {
+    "t": "X也好,Y也罢 / 无非……罢了、而已 (tanto faz; nada além de)",
+    "e": "Duas molduras que esvaziam o que foi dito: X也好,Y也罢 alista duas possibilidades e diz que tanto faz; 无非/不过/只是 + …… + 罢了/而已 reduz tudo a 'apenas isso'. As duas peças são obrigatórias — sem 也罢 ou sem 罢了 a frase fica pendurada.",
+    "zh": "他无非是想多要一点儿钱罢了,你别当真。",
+    "pt": "Ele só quer um pouco mais de dinheiro, não leve a sério."
+   },
+   {
+    "t": "别提(有)多+形容词+了 (nem se fala como era X)",
+    "e": "别提多 + adjetivo + 了 exagera um estado sem precisar medir: 'nem se fala como estava quente'. O 多 e o 了 final são fixos; o 有 no meio é opcional.",
+    "zh": "听说孩子考上了,他心里别提多高兴了。",
+    "pt": "Quando soube que o filho passou, nem se fala a alegria dele."
+   },
+   {
+    "t": "不亚于 / 仅次于 / 莫过于 (comparar com 于)",
+    "e": "Três molduras do registro escrito em que 于 introduz o termo de comparação, cada uma apontando para um lado: 不亚于 iguala ('não fica atrás de'), 仅次于 fica um degrau abaixo ('perde só para') e 莫过于 coloca no topo ('nada supera').",
+    "zh": "论经验,他不亚于组里任何一个老员工。",
+    "pt": "Em experiência, ele não fica atrás de nenhum veterano do grupo."
+   },
+   {
+    "t": "不知……才好 / 不知如何是好 (sem saber o que fazer)",
+    "e": "不知 + verbo ou frase + 才好 (ou a forma fixa 不知如何是好) mostra alguém sem rumo: 急得不知怎么办才好. O 才好/是好 fecha a moldura e não pode virar 才对 ou 就是.",
+    "zh": "孩子突然发烧,她急得不知怎么办才好。",
+    "pt": "A criança teve febre de repente e ela ficou sem saber o que fazer."
+   },
+   {
+    "t": "动不动就…… (por qualquer coisa)",
+    "e": "动不动就 + verbo reclama de algo que acontece ao menor pretexto e com frequência exagerada: 他动不动就发脾气. Carrega sempre reprovação — não serve para fato neutro nem para coisa boa.",
+    "zh": "他动不动就发脾气,大家都不敢跟他多说。",
+    "pt": "Ele se irrita por qualquer coisa; ninguém tem coragem de falar muito com ele."
+   },
+   {
+    "t": "该X(就)X,该Y(就)Y (o que tem que ser, que seja)",
+    "e": "Repete-se 该 + verbo, com 就 opcional, para dizer que cada coisa deve seguir seu curso sem drama: 该吃就吃,该睡就睡. O mesmo verbo aparece dos dois lados de cada metade.",
+    "zh": "该休息就休息,别硬撑着。",
+    "pt": "Se precisa descansar, descanse; não fique forçando."
+   },
+   {
+    "t": "看在X的面子上 (por consideração a X)",
+    "e": "看在 + pessoa + 的面子上 explica que você abre mão não pela coisa em si, mas para não desfeitar alguém. 在 e 上 são as duas peças fixas: 看 sozinho não abre essa moldura.",
+    "zh": "看在老王的面子上,这件事我就不追究了。",
+    "pt": "Por consideração ao Lao Wang, não vou mais mexer nesse assunto."
+   },
+   {
+    "t": "没什么V头儿 / 有什么V头儿 / 没什么好V的 (não vale a pena)",
+    "e": "O sufixo 头儿 colado ao verbo vira 'o que a ação tem de aproveitável': 没什么看头儿, 有什么想头儿. 没什么好+V+的 diz o mesmo sem o 头儿, com o 的 final obrigatório.",
+    "zh": "这部片子没什么看头儿,别浪费时间了。",
+    "pt": "Esse filme não tem nada que valha a pena ver; não perca tempo."
+   },
+   {
+    "t": "你说你一个X,…… (olha só você, sendo um X)",
+    "e": "你说 + 你一个 + identidade abre uma reprovação: lembra à pessoa quem ela é para criticar o que acabou de fazer. Depois vem sempre o comportamento que destoou (你说你一个大学生,连这点儿小事都办不好?).",
+    "zh": "你说你一个大学生,连这点儿小事都办不好。",
+    "pt": "Olha só, você um universitário e não dá conta de uma coisinha dessas."
+   },
+   {
+    "t": "什么A的B的 (essas coisas todas aí)",
+    "e": "什么 + A的 + B的 enumera com desdém ou impaciência e dispensa o resto da lista: 什么这个那个的,别跟我来这一套. O 什么 aqui não pergunta nada e os dois membros terminam em 的.",
+    "zh": "什么吃的喝的,摆了一大桌子。",
+    "pt": "Comida, bebida, seja o que for, encheram a mesa toda."
+   },
+   {
+    "t": "视……而定 / 因……而…… (o que vem antes de 而 manda no resto)",
+    "e": "No registro escrito, 而 amarra dois termos e cria molduras em que o lado esquerdo condiciona o direito: 视X而定 ('depende de X', nada se afirma antes) e 因X而Y ('por causa de X, Y acontece'). Nas duas, o que antecede o 而 é a condição ou a causa.",
+    "zh": "去不去视天气而定,现在还说不准。",
+    "pt": "Se vamos ou não depende do tempo; agora ainda não dá pra dizer."
+   },
+   {
+    "t": "何至于…… / 有何…… / 谈何…… (o 何 retórico)",
+    "e": "何 é o 'que/como' do registro escrito e sustenta três perguntas de fachada, que não esperam resposta: 何至于 + fato ('não chegava a tanto'), 有何 + nome ou adjetivo ('que … há?', como 有何不可) e 谈何 + adjetivo ('falar é fácil', quase sempre 谈何容易).",
+    "zh": "不过迟到了几分钟,何至于发这么大的火?",
+    "pt": "Atrasou só uns minutos; não era preciso explodir assim, era?"
+   },
+   {
+    "t": "想X之所想,急X之所急 (pensar o que o outro pensa)",
+    "e": "Fórmula do registro oficial: 想/急 + pessoa + 之所想/之所急 = pensar o que ela pensa, afligir-se com o que a aflige. O 之 é o possessivo escrito e o 所 volta a pegar o mesmo verbo da frente.",
+    "zh": "当干部要想群众之所想,急群众之所急。",
+    "pt": "Quem ocupa cargo público tem que pensar o que a população pensa e se afligir com o que a aflige."
+   },
+   {
+    "t": "向……致以…… (dirigir cumprimentos)",
+    "e": "向 + destinatário + 致以 + saudação é a fórmula protocolar para enviar cumprimentos, agradecimentos ou condolências: 向各位代表致以诚挚的问候. O 向 marca quem recebe e o 致以 introduz o que se envia.",
+    "zh": "我谨向各位老师致以衷心的感谢。",
+    "pt": "Dirijo aos professores o meu sincero agradecimento."
+   },
+   {
+    "t": "要X有/没X,要Y有/没Y (tudo o que se quer, tem ou não tem)",
+    "e": "Repete-se 要 + coisa + 有/没 + a mesma coisa para dizer que não falta (ou que falta) nada do que se possa querer: 要钱有钱,要人有人. As quatro peças vêm juntas e a coisa se repete depois do 有 ou do 没.",
+    "zh": "他家要钱有钱,要房有房,谁不羡慕?",
+    "pt": "Na casa dele tem dinheiro se quiser dinheiro, tem casa se quiser casa; quem não inveja?"
+   },
+   {
+    "t": "（在）……之余 (no tempo que sobra de X)",
+    "e": "之余 vem depois de um substantivo ou verbo que designa uma atividade absorvente e abre espaço para uma segunda atividade, feita no tempo ou na energia que sobrou. Equivale a 'além de', 'fora de', 'nas horas vagas de'. Exige que a primeira atividade seja a principal e a segunda, acessória.",
+    "zh": "教书之余，他还写了三本小说。",
+    "pt": "Além de dar aulas, ele ainda escreveu três romances."
+   },
+   {
+    "t": "值此……之际 (nesta ocasião de X — registro formal)",
+    "e": "Moldura do registro cerimonial e escrito: 值此 abre, 之际 fecha, e entre eles vai o evento que serve de ocasião. O que vem depois é normalmente uma saudação, um agradecimento ou um anúncio. Não se usa em conversa comum.",
+    "zh": "值此新春佳节来临之际，公司向全体员工拜年。",
+    "pt": "Nesta ocasião da chegada do Ano-Novo, a empresa apresenta seus votos a todos os funcionários."
+   },
+   {
+    "t": "比较句5: A + 形容词 + 于/过 + B",
+    "e": "A comparação formal põe 于 (ou, no sul e com certos verbos, 过) depois do adjetivo, no lugar do 比 coloquial: 重于生命, 优于普通钢材, 多于三百万. Só um grupo fechado de adjetivos monossilábicos aceita isso — 大/小/多/少/高/低/重/轻/强/优/差 —, e o registro é escrito.",
+    "zh": "在他看来，名誉重于生命。",
+    "pt": "Para ele, a honra pesa mais que a vida."
+   },
+   {
+    "t": "一来……，二来……（三来……） / 一则……，二则……",
+    "e": "Duas molduras que enumeram razões paralelas, sem hierarquia entre elas. 一来/二来 é neutro e serve na fala; 一则/二则 é do registro escrito. A peça inicial é obrigatória: usar só 二来 sem 一来 antes deixa a frase sem apoio.",
+    "zh": "他不肯去，一来是路太远，二来是身体也不好。",
+    "pt": "Ele não quis ir: primeiro, o caminho é longe demais; segundo, a saúde também não está boa."
+   },
+   {
+    "t": "所谓……，就是…… (o que se chama X é…)",
+    "e": "Moldura expositiva que anuncia um termo e em seguida o define. 所谓 pode ser neutro ('o chamado') ou irônico ('o tal do'), e o tom depende do que segue. 就是 introduz a explicação e não pode ser trocado por 可是 nem 而是.",
+    "zh": "所谓公平，就是让每个人都有同样的机会。",
+    "pt": "O que se chama de justiça é dar a cada um as mesmas oportunidades."
+   },
+   {
+    "t": "或……，或…… (uns… outros…)",
+    "e": "Enumera alternativas que coexistem, sem exigir escolha entre elas: 'uns fazem isto, outros fazem aquilo'. Diferente de 还是 e 或者, que pedem decisão, 或…或… descreve uma variedade de situações simultâneas. Os dois 或 são obrigatórios e vão antes do verbo ou do predicado.",
+    "zh": "溪边的孩子，或捉鱼，或打水仗，玩得不亦乐乎。",
+    "pt": "As crianças à beira do riacho, umas pegando peixe, outras brincando na água, divertiam-se à beça."
+   },
+   {
+    "t": "宁可/宁愿……，也不…… (preferir, mesmo com sacrifício)",
+    "e": "Exprime escolha em que o falante aceita um prejuízo para evitar outro pior: 'antes X do que Y'. 宁可 e 宁愿 são intercambiáveis. A segunda peça é sempre negativa (也不/也不肯/也没) e é ela que ancora a moldura — sem ela, 宁可 fica solto.",
+    "zh": "他宁可自己吃亏，也不让别人为难。",
+    "pt": "Ele prefere sair no prejuízo a deixar os outros em situação difícil."
+   },
+   {
+    "t": "与其……，不如/宁可…… (antes isto do que aquilo)",
+    "e": "Compara duas opções e rejeita a primeira em favor da segunda: 与其 marca o que se descarta, 不如 ou 宁可 marca o que se escolhe. A ordem é fixa e não se inverte. Diferente de 宁可…也不…, aqui o que vem depois é positivo, não negativo.",
+    "zh": "与其在这儿干等，不如先去问问。",
+    "pt": "Em vez de ficar esperando à toa aqui, é melhor ir perguntar primeiro."
+   },
+   {
+    "t": "X（倒）是X（了），…… (reconhecer para depois ressalvar)",
+    "e": "Moldura concessiva que repete o mesmo adjetivo ou verbo com 是 no meio: 'bonito, é bonito; mas…'. A repetição é obrigatória e o que segue é sempre uma ressalva com 就是/可惜/可/不过. Não se pode trocar o segundo X por outro palavra.",
+    "zh": "这件衣服漂亮是漂亮，可惜太贵了。",
+    "pt": "Essa roupa, bonita ela é; pena que seja cara demais."
+   },
+   {
+    "t": "别看……，…… (não se deixe enganar pela aparência)",
+    "e": "Concessivo coloquial que avisa: a aparência leva a uma expectativa, e a realidade é o contrário. 别看 abre, e a segunda oração traz a surpresa, geralmente com 可/倒/真. Só admite fato real e verificável, nunca hipótese — é isso que o separa de 要是.",
+    "zh": "别看他年纪小，主意可大了。",
+    "pt": "Não se engane com a idade dele: opinião própria ele tem de sobra."
+   },
+   {
+    "t": "虽说……，但/可…… (embora… — coloquial)",
+    "e": "Variante falada de 虽然, com o mesmo comportamento: admite um fato real e introduz a ressalva com 但/但是/可/可是. 虽说 é mais comum na conversa; 虽然 serve nos dois registros. A segunda peça não pode ser omitida sem que a frase perca o eixo.",
+    "zh": "虽说他平时话不多，但关键时刻从不含糊。",
+    "pt": "Embora ele normalmente fale pouco, na hora decisiva nunca deixa a peteca cair."
+   },
+   {
+    "t": "无论……与否，都…… (independentemente de X ou não)",
+    "e": "Moldura do registro escrito e normativo: 与否 resume as duas possibilidades ('se sim ou se não') e dispensa enumerá-las. Exige 都, 也 ou 均 na oração seguinte. É a contraparte formal de 不管…都…, e por isso não se usa em conversa informal.",
+    "zh": "无论你同意与否，都得给个明确的答复。",
+    "pt": "Concorde ou não, você tem de dar uma resposta clara."
+   },
+   {
+    "t": "凡……（者），均（可）…… (todo aquele que…)",
+    "e": "Moldura normativa de textos, regulamentos e avisos: 凡 abre a classe inteira ('todos os que'), 者 é opcional e marca o substantivado, 均 ou 皆 introduz a regra que vale para todos. Não admite exceção, o que a separa de 除了.",
+    "zh": "凡参加考试的，均可领取准考证。",
+    "pt": "Todos os que fizerem a prova poderão retirar o cartão de inscrição."
+   },
+   {
+    "t": "假若/假使……，…… (se — registro escrito)",
+    "e": "Conjuntivos de hipótese do registro escrito, equivalentes a 如果 e 假如, mas mais formais e mais raros na fala. Introduzem condição irreal ou improvável, e a oração seguinte costuma trazer 就, 便 ou uma pergunta sobre o que se faria.",
+    "zh": "假若明天下雨，运动会就往后推一周。",
+    "pt": "Se chover amanhã, a competição será adiada em uma semana."
+   },
+   {
+    "t": "幸亏/幸好……，不然/否则…… (ainda bem que… senão…)",
+    "e": "A primeira oração enuncia o fato que evitou um mal; a segunda apresenta o que teria acontecido sem ele. 幸亏 e 幸好 são intercambiáveis, assim como 不然 e 否则 — mas 否则 é mais escrito. O par é obrigatório na lógica: sem a segunda peça, 幸亏 vira simples comentário de alívio.",
+    "zh": "幸亏你提醒了我，不然这事儿准得砸。",
+    "pt": "Ainda bem que você me avisou; senão, isso aqui ia dar errado com certeza."
+   },
+   {
+    "t": "纵然/纵使……，也…… (mesmo que — registro escrito)",
+    "e": "Concessivo de hipótese extrema do registro escrito, equivalente a 即使……也……, mas mais formal. Admite uma situação irreal ou improvável e afirma que ela não mudaria nada, por isso a segunda peça é sempre 也. Não serve para fato real e visível — aí entra 别看.",
+    "zh": "纵然前面再难走，他也没有回头。",
+    "pt": "Mesmo que o caminho à frente fosse ainda mais difícil, ele não voltou atrás."
+   },
+   {
+    "t": "（因）……，故…… (por causa de… portanto — escrito)",
+    "e": "Par causal do registro escrito e burocrático: 因 introduz a causa, 故 apresenta a consequência. O 因 pode ser omitido sem quebrar a frase, mas o 故 não. Não se usa em conversa comum, onde entram 因为……所以…….",
+    "zh": "因天气原因，故演出推迟到下周。",
+    "pt": "Por motivos de clima, o espetáculo fica adiado para a semana que vem."
+   },
+   {
+    "t": "……，以至（于）…… (a ponto de)",
+    "e": "Introduz o resultado extremo a que chegou o estado ou a ação da oração anterior: 'tão… que…'. 以至于 e 以至 são equivalentes. O resultado pode ser bom ou ruim, o que distingue 以至 de 以致, que costuma trazer resultado indesejado.",
+    "zh": "他讲得太快了，以至于后半段我一句也没听懂。",
+    "pt": "Ele falou tão rápido que a segunda metade eu não entendi uma frase sequer."
+   },
+   {
+    "t": "别说……，（就是/连）……也/都…… (sem falar em… até…)",
+    "e": "Gradação em que a primeira oração descarta como óbvio o caso mais forte, e a segunda mostra que até o caso extremo vale. A segunda peça é 就是 ou 连, sempre com 也 ou 都. A ordem é fixa: 别说 vem antes do caso mais óbvio.",
+    "zh": "别说大学生，就是小学生也能看出这个错误。",
+    "pt": "Sem falar em universitário: até uma criança do primário consegue ver este erro."
+   },
+   {
+    "t": "……不说，还…… (não bastasse… ainda…)",
+    "e": "Acumula dois comportamentos ou defeitos: o primeiro é apresentado com 不说, que o suspende sem negar, e o segundo vem com 还 ou 反倒, sempre pior. A estrutura é coloquial e carregada de reprovação.",
+    "zh": "他不帮忙不说，还在旁边说风凉话。",
+    "pt": "Não bastasse não ajudar, ele ainda fica por perto soltando ironias."
+   },
+   {
+    "t": "连……都/也……，更不用说……了 (até… quanto mais…)",
+    "e": "连 marca o caso extremo como argumento, e 都 ou 也 o ancoram na mesma oração. 更不用说……了 fecha a gradação descartando o caso ainda mais improvável. As duas metades podem aparecer separadas, mas 更不用说 exige que algo já tenha sido estabelecido antes.",
+    "zh": "连专家都看不懂，更不用说我们了。",
+    "pt": "Até os especialistas não entendem; quanto mais nós."
+   },
+   {
+    "t": "……尚且……，（更）何况…… (se até… quanto mais…)",
+    "e": "尚且 apresenta o caso forte como concedido, e 何况 descarta o caso mais fraco por comparação. É a versão escrita e mais rígida de 连……都……: 尚且 ocupa o lugar do advérbio, depois do sujeito, e não pode ser trocado por 连 sem mudar a estrutura.",
+    "zh": "大人尚且搬不动，何况一个孩子。",
+    "pt": "Se até um adulto não consegue carregar, quanto mais uma criança."
+   },
+   {
+    "t": "为（了）……起见，…… / ……，以…… (finalidade no registro escrito)",
+    "e": "Duas molduras de finalidade. 为（了）……起见 abre a frase e apresenta o motivo preventivo da medida que segue; 起见 é obrigatório nessa fórmula. Já 以 vem na segunda oração e introduz o objetivo: 'a fim de'. Ambas são do registro escrito e de avisos oficiais.",
+    "zh": "为了安全起见，请大家系好安全带。",
+    "pt": "Por medida de segurança, todos devem afivelar o cinto."
+   },
+   {
+    "t": "紧缩复句: 非得……才…… (só se… / só então…)",
+    "e": "非得 aponta a única condição capaz de vencer a resistência de alguém, e 才 traz o resultado: são duas orações comprimidas numa só, sempre com tom de teimosia. Se o segundo membro terminar em 不可 ou 不行, o sentido muda para 'faz questão de' (他非得去不可).",
+    "zh": "这场谈判非得他亲自出面才谈得下去。",
+    "pt": "Essa negociação só anda se ele vier pessoalmente à mesa."
+   },
+   {
+    "t": "紧缩复句: 任……也…… (por mais que…)",
+    "e": "任 (ou a forma cheia 任凭) abre uma concessão extrema e o segundo membro responde com 也: 任你怎么劝,他也不回头. Depois de 任 vem sempre um item de escolha livre (怎么, 谁, 多, 什么), nunca um fato concreto — é isso que separa esse par de 虽然.",
+    "zh": "任妈妈怎么催,他也不着急。",
+    "pt": "Por mais que a mãe o apresse, ele não se afoba."
+   },
+   {
+    "t": "紧缩复句: 一……就…… (assim que…)",
+    "e": "一 + verbo + 就 + verbo comprime 'no instante em que X, acontece Y': o sujeito aparece uma só vez e o 就 é obrigatório, porque é ele que cola o gatilho ao resultado. Sem o 就, sobra apenas uma sequência solta de duas ações.",
+    "zh": "他一听到这个消息,就高兴得跳了起来。",
+    "pt": "Assim que ouviu a notícia, ele pulou de alegria."
+   },
+   {
+    "t": "紧缩复句: 非……不…… (sem X, não Y)",
+    "e": "非 + ação ou condição + 不 + resultado diz que nada acontece fora daquela hipótese: 她非他不嫁 ('ela não casa com mais ninguém'). É a mesma insistência de 非得, mas a segunda peça é 不 — na prática quase sempre 不可, 不行 ou um verbo negado como 不罢休.",
+    "zh": "她非他不嫁,家里怎么劝都没用。",
+    "pt": "Ela não casa com mais ninguém; a família insiste em vão."
+   },
+   {
+    "t": "紧缩复句: 不……也…… (mesmo sem…)",
+    "e": "Duas orações viram uma só sem nenhuma conjunção: a primeira nega uma ação e a segunda afirma que o resultado acontece do mesmo jeito (你不说,我也知道). É o valor concessivo de 即使……也…… comprimido — e é justamente por isso que o 也 não pode cair.",
+    "zh": "你不说,我也知道是谁干的。",
+    "pt": "Mesmo que você não diga, eu sei quem foi."
+   },
+   {
+    "t": "紧缩复句: 越……越…… (quanto mais… mais…)",
+    "e": "越 + A + 越 + B liga duas mudanças que crescem juntas, sem conjunção nenhuma: 越说越激动. O 越 se repete obrigatoriamente nos dois lados — é isso que separa essa moldura de 越来越, que leva um só 越 e vem direto antes do adjetivo.",
+    "zh": "雨越下越大,路上的车也越来越少。",
+    "pt": "A chuva aperta cada vez mais, e há cada vez menos carros na rua."
+   },
+   {
+    "t": "多重并列复句 (paralelismo em camadas)",
+    "e": "Um 多重复句 tem mais de uma camada de relação entre as orações; no tipo 并列, a camada de cima é 一方面……另一方面…… e, dentro de cada lado, ainda corre um 既……也…… de segunda camada. Na análise, corte primeiro pelo conectivo de nível mais alto e só depois subdivida cada metade.",
+    "zh": "这次改革一方面要照顾老员工的利益,另一方面要给年轻人机会;既要讲效率,也要讲公平。",
+    "pt": "Esta reforma, por um lado, precisa atender aos interesses dos funcionários mais antigos e, por outro, dar oportunidade aos mais jovens; tem de valorizar a eficiência e também a justiça."
+   },
+   {
+    "t": "多重转折复句 (adversativa em camadas)",
+    "e": "A primeira camada é 虽然……可是…… e, dentro do segundo membro, 反而 abre uma segunda camada que inverte de novo a expectativa. O sentido só fecha se as camadas forem lidas em ordem: concessão, contraste, inversão.",
+    "zh": "他虽然年轻,经验也不多,可是遇到难题从不退缩,反而越干越有劲。",
+    "pt": "Embora seja jovem e não tenha muita experiência, ele nunca recua diante de um problema difícil; ao contrário, quanto mais trabalha, mais animado fica."
+   },
+   {
+    "t": "多重假设复句 (hipótese encadeada)",
+    "e": "As hipóteses se encaixam em cadeia: o resultado da primeira (就得往后推) vira a condição da segunda (要是往后推). Leia do conectivo mais externo para dentro e confira se cada 如果/要是 tem o seu 就.",
+    "zh": "如果他明天不来,这件事就得往后推;要是往后推,整个计划都会受影响。",
+    "pt": "Se ele não vier amanhã, isso terá de ser adiado; e, se for adiado, todo o plano será afetado."
+   },
+   {
+    "t": "多重因果复句 (causa em cadeia)",
+    "e": "Uma causa puxa outra: 之所以……是因为…… dá o motivo imediato, e 而……又是…… recua um degrau, até a causa da causa. A oração final com 怪不得 fecha o raciocínio com a conclusão.",
+    "zh": "他之所以没来,是因为路上堵车;而堵车又是修路造成的,怪不得他迟到了。",
+    "pt": "Ele não veio porque o trânsito estava parado; e o trânsito estava parado por causa das obras na rua — não é à toa que ele se atrasou."
+   },
+   {
+    "t": "多重递进复句 (progressão em camadas)",
+    "e": "A progressão sobe dois degraus no mesmo período: 不但……而且…… é a primeira camada e 甚至……也…… empurra o argumento para o caso extremo. Cada degrau tem de ser mais forte que o anterior, senão não é 递进, é só repetição.",
+    "zh": "这件事不但影响了他自己,而且影响了全家,甚至连邻居也跟着倒霉。",
+    "pt": "Isso não só o afetou, como afetou a família inteira, e até os vizinhos acabaram se dando mal."
+   },
+   {
+    "t": "语段(句群): 时间顺序 (ordem cronológica)",
+    "e": "Num 语段 — grupo de frases sobre o mesmo assunto — a 时间顺序 alinha as orações na sequência do relógio, e marcadores como 先, 然后, 最后 só reforçam uma ordem que já se entende sem eles. O teste é trocar duas frases de lugar: se o trecho deixar de fazer sentido, a ordem era o princípio de organização.",
+    "zh": "他六点起床,先出去跑了一圈,然后回家洗脸吃饭,七点半准时出门上班。",
+    "pt": "Ele acorda às seis, primeiro sai para correr uma volta, depois volta para casa, lava o rosto e come; às sete e meia sai pontualmente para o trabalho."
+   },
+   {
+    "t": "语段(句群): 空间顺序 (ordem espacial)",
+    "e": "A descrição percorre o espaço num trajeto fixo — de fora para dentro, da esquerda para a direita, do perto para o longe — e cada frase é uma parada desse trajeto. Por isso os pontos de referência (进门, 两边, 前面, 后面) importam mais do que os conectivos.",
+    "zh": "学校大门朝南,进门是一条宽宽的路,路的两边种着树,一直往前走就是教学楼,教学楼后面是操场。",
+    "pt": "O portão da escola dá para o sul; ao entrar há um caminho largo, com árvores dos dois lados; seguindo sempre em frente chega-se ao prédio das salas de aula, e atrás dele fica a quadra."
+   },
+   {
+    "t": "语段(句群): 逻辑顺序 (ordem lógica)",
+    "e": "Aqui as frases se organizam pelo raciocínio, não pelo tempo nem pelo espaço: primeiro o ponto principal, depois os motivos em 首先/其次 e por fim a conclusão com 可见. É a ordem 总—分—总, típica de textos explicativos e argumentativos.",
+    "zh": "这段历史很值得研究。首先,材料很多;其次,看法也很不一样。可见,想弄清楚它并不容易。",
+    "pt": "Esse período histórico merece ser estudado. Primeiro, há muito material; segundo, as interpretações variam bastante. Vê-se, portanto, que não é fácil entendê-lo."
+   },
+   {
+    "t": "语段(句群): 话题延伸 (extensão do tópico)",
+    "e": "O mesmo tópico continua rendendo informação nova: cada frase acrescenta um dado sobre o assunto aberto, e 另外, 还, 而且 sinalizam que ele não mudou. O teste é verificar se todas as frases respondem à mesma pergunta — aqui, 'como ele estuda?'.",
+    "zh": "他学习很用功。每天图书馆一开门他就进去,晚上总是最后一个走;另外,他还常常帮同学解答问题。",
+    "pt": "Ele estuda com dedicação. Todo dia, assim que a biblioteca abre, ele entra, e à noite é sempre o último a sair; além disso, costuma ajudar os colegas a resolver dúvidas."
+   },
+   {
+    "t": "语段(句群): 话题转换 (troca de tópico)",
+    "e": "O falante fecha um assunto e abre outro, e marca a virada com 至于, 另外 ou 说到 — ou simplesmente com uma frase que não retoma nada do que foi dito. Sem esse sinal, o ouvinte tenta ligar o tópico novo ao anterior e o texto parece sem coerência.",
+    "zh": "这件事就这么定了,大家别再争了。至于费用怎么分,我们下次开会再谈。",
+    "pt": "Isso já está decidido, parem de discutir. Quanto à divisão das despesas, conversamos na próxima reunião."
+   },
+   {
+    "t": "语段(句群): 承前省略 (elipse que olha para trás)",
+    "e": "O sujeito já apareceu na oração anterior e por isso é omitido nas seguintes: só a primeira traz 老王, e as três seguintes ficam sem ele. Repetir o nome a cada verbo soaria pesado — no chinês a elipse é o recurso normal, não uma exceção.",
+    "zh": "老王走进办公室,放下包,打开电脑,一句话也没说就开始干活。",
+    "pt": "O Lao Wang entrou no escritório, largou a bolsa, ligou o computador e começou a trabalhar sem dizer uma palavra."
+   },
+   {
+    "t": "语段(句群): 蒙后省略 (elipse que se resolve à frente)",
+    "e": "É o espelho da 承前省略: a primeira oração vem sem sujeito e quem o fornece é a oração seguinte (下了车,他……). O leitor precisa manter o trecho em suspenso até o sujeito aparecer, por isso a ordem das orações não pode ser invertida.",
+    "zh": "下了车,他一眼就看见站在门口的妻子。因为提前打过电话,妻子也一点儿不觉得意外。",
+    "pt": "Ao descer do carro, ele viu de imediato a esposa parada na porta. Como tinha ligado antes, ela também não achou nada estranho."
+   }
+  ],
+  "itens": [
+   {
+    "s": "这是___对我说的,不会记错。(da própria boca)",
+    "o": [
+     "亲口",
+     "亲眼",
+     "亲手",
+     "亲身"
+    ],
+    "a": "亲口",
+    "ex": "亲口 = 'com a própria boca', o único que combina com 说. 亲眼 pede 看见, 亲手 pede 做 e 亲身 acompanha 经历/体验; nenhum dos três aceita 对我说."
+   },
+   {
+    "s": "这么重要的合同,经理___签字才有效。(ele mesmo)",
+    "o": [
+     "亲自",
+     "亲眼",
+     "亲口",
+     "亲身"
+    ],
+    "a": "亲自",
+    "ex": "亲自 = fazer algo pessoalmente, e aqui quem assina é o próprio gerente. 亲眼 só combina com ver, 亲口 com dizer e 亲身 com experiência vivida: nenhum deles rege 签字."
+   },
+   {
+    "s": "这么做会带来什么___,你想过没有?(consequência)",
+    "o": [
+     "后果",
+     "后代",
+     "后辈",
+     "后期"
+    ],
+    "a": "后果",
+    "ex": "后果 = consequência, o único que casa com 带来. 后代 são os descendentes, 后辈 os mais novos numa profissão e 后期 a fase final de um processo: nada disso se 'traz'."
+   },
+   {
+    "s": "年轻人应该有正确的人生___。(concepção de vida)",
+    "o": [
+     "观",
+     "坛",
+     "制",
+     "鬼"
+    ],
+    "a": "观",
+    "ex": "—观 forma substantivos de concepção: 人生观, 世界观, 价值观. 人生坛, 人生制 e 人生鬼 não são palavras do chinês."
+   },
+   {
+    "s": "他在金融___工作了十年,认识很多人。(meio, área)",
+    "o": [
+     "界",
+     "坛",
+     "观",
+     "制"
+    ],
+    "a": "界",
+    "ex": "—界 se liga a palavras dissilábicas: 金融界, 教育界, 文艺界. —坛 só combina com morfemas monossilábicos (文坛, 体坛, 影坛), e 金融观 e 金融制 não existem."
+   },
+   {
+    "s": "他一天不抽烟就难受,真是个烟___。(viciado)",
+    "o": [
+     "鬼",
+     "观",
+     "制",
+     "界"
+    ],
+    "a": "鬼",
+    "ex": "—鬼 marca mania ou vício, com tom pejorativo ou brincalhão: 烟鬼, 酒鬼, 小气鬼. 烟观, 烟制 e 烟界 não são palavras."
+   },
+   {
+    "s": "他把这次失败视___一次学习的机会。(considerar como)",
+    "o": [
+     "为",
+     "观",
+     "然",
+     "界"
+    ],
+    "a": "为",
+    "ex": "No quadro V+为, o 为 introduz aquilo em que a coisa é tomada: 视为, 称为, 选……为. 观, 然 e 界 são sufixos nominais ou adjetivais e não podem ocupar esse lugar depois do verbo."
+   },
+   {
+    "s": "他___插上一对翅膀，马上就飞回家去。(desejo impossível, exagerado)",
+    "o": [
+     "恨不得",
+     "巴不得",
+     "免不了",
+     "可谓"
+    ],
+    "a": "恨不得",
+    "ex": "Só 恨不得 admite a hipérbole irrealizável ('插上一对翅膀…飞回家'), que é a marca do desejo intenso por algo impossível. 巴不得 deseja algo realizável e muitas vezes já oferecido, e não combina com ação impossível; 免不了 indica inevitabilidade, não desejo; 谓 avalia ('pode-se dizer que')."
+   },
+   {
+    "s": "——我送你到车站吧。——我___，正愁没人帮我拿行李呢。(aceitaria com prazer)",
+    "o": [
+     "巴不得",
+     "恨不得",
+     "犯不着",
+     "予以"
+    ],
+    "a": "巴不得",
+    "ex": "Como resposta a uma oferta concreta e realizável, só 巴不得 funciona: é o 'aceitaria com prazer' de quem deseja ansiosamente algo que o outro está oferecendo. 恨不得 exigiria hipérbole ou ação impossível, ausentes aqui; 犯不着 diria que não vale a pena, o oposto do que a frase expressa; 予以 é verbo formal de 'conceder' e não exprime desejo."
+   },
+   {
+    "s": "___为这点儿小事跑一趟,打个电话就行了。(não vale a pena)",
+    "o": [
+     "犯不着",
+     "免不了",
+     "巴不得",
+     "可谓"
+    ],
+    "a": "犯不着",
+    "ex": "犯不着 = 'não vale a pena', e a segunda metade mostra a alternativa fácil. 免不了 diria que a viagem é inevitável, 巴不得 exprimiria desejo e 可谓 equivaleria a 'pode-se dizer que'."
+   },
+   {
+    "s": "他只是跟你开玩笑,你___生这么大的气吗?(será que valia a pena)",
+    "o": [
+     "犯得着",
+     "犯不着",
+     "巴不得",
+     "免不了"
+    ],
+    "a": "犯得着",
+    "ex": "A pergunta retórica com 吗 pede a forma positiva 犯得着 ('será que valia a pena?'). 犯不着 já é negativo e não aceita 吗; 巴不得 e 免不了 não formam pergunta desse tipo."
+   },
+   {
+    "s": "这件事___他说的那样简单,还得再调查调查。(não é bem)",
+    "o": [
+     "并非",
+     "所谓",
+     "予以",
+     "有所"
+    ],
+    "a": "并非",
+    "ex": "并非 = 并不是: nega a ideia de que fosse tão simples. 所谓 introduziria 'o chamado', e 予以 e 有所 são verbos de apoio que exigem outro verbo depois, não uma oração."
+   },
+   {
+    "s": "这位老人八十岁了还能爬山,___身体强壮。(pode-se dizer que)",
+    "o": [
+     "可谓",
+     "有所",
+     "予以",
+     "除外"
+    ],
+    "a": "可谓",
+    "ex": "可谓 apresenta um comentário: 'pode-se dizer que'. 有所 e 予以 pedem um verbo de ação depois, e 除外 só funciona no fim da frase marcando exceção."
+   },
+   {
+    "s": "听了大家的意见,我们的计划___调整。(houve alguma)",
+    "o": [
+     "有所",
+     "予以",
+     "所谓",
+     "可谓"
+    ],
+    "a": "有所",
+    "ex": "有所 + verbo abstrato indica um pouco de resultado: 有所调整, 有所了解. 予以 entregaria a ação a alguém e pediria sujeito institucional; 所谓 e 可谓 não podem modificar diretamente 调整."
+   },
+   {
+    "s": "对群众的合理要求,有关部门应当___解决。(dar, em registro formal)",
+    "o": [
+     "予以",
+     "有所",
+     "所谓",
+     "可谓"
+    ],
+    "a": "予以",
+    "ex": "予以 + verbo formal é típico de texto oficial: 予以解决, 予以支持. 有所 não combina com 解决, e 所谓 e 可谓 não funcionam como verbo de apoio antes de outro verbo."
+   },
+   {
+    "s": "刚到一个新地方,___会想家。(é inevitável)",
+    "o": [
+     "免不了",
+     "犯不着",
+     "巴不得",
+     "予以"
+    ],
+    "a": "免不了",
+    "ex": "免不了 = 'não tem como evitar', e vem antes do verbo. 犯不着 negaria que valesse a pena, 巴不得 exprimiria desejo e 予以 é verbo de apoio formal que não se combina com 会."
+   },
+   {
+    "s": "这个班的学生都去了,只有他一个人___。(ficou de fora)",
+    "o": [
+     "除外",
+     "予以",
+     "可谓",
+     "有所"
+    ],
+    "a": "除外",
+    "ex": "除外 fecha a frase marcando a exceção do conjunto citado. 予以 e 有所 exigem verbo depois, e 可谓 introduziria um comentário: nenhum deles pode terminar a oração assim."
+   },
+   {
+    "s": "___时我还小,这些事情一点儿也不记得。(naquele tempo)",
+    "o": [
+     "彼",
+     "兹",
+     "何",
+     "这么着"
+    ],
+    "a": "彼",
+    "ex": "彼 = 'aquele', em registro escrito: 彼时, 彼此. 兹 abre comunicados oficiais, 何 é interrogativo e 这么着 é oral e resume uma proposta."
+   },
+   {
+    "s": "___吧,你先回去休息,明天我们再谈。(vamos fazer assim)",
+    "o": [
+     "这么着",
+     "彼",
+     "兹",
+     "若干"
+    ],
+    "a": "这么着",
+    "ex": "这么着吧 resume oralmente o que se decidiu, como 'vamos fazer assim'. 彼 e 兹 são escritos e não aparecem sozinhos nesse lugar, e 若干 é pronome de quantidade."
+   },
+   {
+    "s": "___启用新印章,原印章同时作废。(por meio desta)",
+    "o": [
+     "兹",
+     "彼",
+     "何",
+     "这么着"
+    ],
+    "a": "兹",
+    "ex": "兹 abre avisos formais: 'por meio desta'. 彼 indicaria 'aquele', 何 faria uma pergunta e 这么着 pertence à fala do dia a dia."
+   },
+   {
+    "s": "会议改到___地举行,请大家等通知。(em que lugar)",
+    "o": [
+     "何",
+     "彼",
+     "若干",
+     "这么着"
+    ],
+    "a": "何",
+    "ex": "何 + substantivo forma o interrogativo escrito: 何地, 何时, 何人. 彼 é demonstrativo ('aquele'), 若干 indica quantidade indefinida e 这么着 é oral e resume uma proposta."
+   },
+   {
+    "s": "不管___,你都得把这件事做完。(seja como for)",
+    "o": [
+     "怎么着",
+     "何",
+     "若干",
+     "彼"
+    ],
+    "a": "怎么着",
+    "ex": "不管怎么着 é o quadro oral para 'aconteça o que acontecer'. 何 exigiria um substantivo depois (不管何时), 若干 é pronome de quantidade e 彼 é demonstrativo escrito."
+   },
+   {
+    "s": "他抬头看了我一眼,___?你还真打算跟他去打架?(e aí, o que foi)",
+    "o": [
+     "怎么着",
+     "何",
+     "若干",
+     "兹"
+    ],
+    "a": "怎么着",
+    "ex": "怎么着 sozinho, em pergunta direta, é o 'e aí? / qual é?' da fala. 何 não se usa isolado desse jeito, 若干 indica quantidade e 兹 só aparece em aviso formal."
+   },
+   {
+    "s": "会议记录里提到了___数据,请大家会后核对。(alguns)",
+    "o": [
+     "若干",
+     "何",
+     "彼",
+     "这么着"
+    ],
+    "a": "若干",
+    "ex": "若干 é o pronome formal de quantidade indefinida e vem direto antes do substantivo, sem medidor. 何 faria da frase uma pergunta, 彼 é demonstrativo e 这么着 é oral."
+   },
+   {
+    "s": "___年后,这一带变成了一片新城区。(alguns anos depois)",
+    "o": [
+     "若干",
+     "何",
+     "这么着",
+     "兹"
+    ],
+    "a": "若干",
+    "ex": "若干年后 = 'alguns anos depois', quantidade não especificada em registro escrito. 何年后 soaria como pergunta, 这么着 é oral e 兹 abre comunicados."
+   },
+   {
+    "s": "这件事还有另一___意义,你可能没注意到。(camada)",
+    "o": [
+     "重",
+     "缕",
+     "摊",
+     "则"
+    ],
+    "a": "重",
+    "ex": "重 conta camadas, inclusive abstratas: 另一重意义, 双重标准. 一缕 é fio de fumaça ou de cheiro, 一摊 é poça no chão e 一则 conta notícias e provérbios."
+   },
+   {
+    "s": "桌上还有半___铅笔,你先用着吧。(pedaço)",
+    "o": [
+     "截",
+     "缕",
+     "枚",
+     "摊"
+    ],
+    "a": "截",
+    "ex": "截 é o pedaço cortado de coisa comprida: 半截铅笔, 一截木头. 缕 mede fios e aromas, 枚 medalhas e selos, 摊 poças espalhadas: nenhum aceita 半……铅笔."
+   },
+   {
+    "s": "远处的山顶上升起了一___炊烟。(fio, filete)",
+    "o": [
+     "缕",
+     "摊",
+     "枚",
+     "宗"
+    ],
+    "a": "缕",
+    "ex": "缕 mede coisas finas e contínuas: 一缕炊烟, 一缕香味, 一缕希望. 摊 é para líquidos espalhados no chão, 枚 para medalhas e selos, 宗 para casos e transações."
+   },
+   {
+    "s": "地上有一___水,走路小心别滑倒。(poça)",
+    "o": [
+     "摊",
+     "枚",
+     "缕",
+     "则"
+    ],
+    "a": "摊",
+    "ex": "摊 mede o que se espalha no chão: 一摊水, 一摊泥, 一摊血. 枚, 缕 e 则 medem objetos pequenos, fios e notícias: não cabem com água no chão."
+   },
+   {
+    "s": "他在报纸上看到了一___消息。(item de notícia)",
+    "o": [
+     "则",
+     "枚",
+     "摊",
+     "缕"
+    ],
+    "a": "则",
+    "ex": "则 conta itens de texto: 一则消息, 一则寓言, 两则新闻. 枚 é para medalhas, selos e moedas; 摊, para poças; 缕, para fios e aromas."
+   },
+   {
+    "s": "听到这个笑话,大家笑了一___,连眼泪都出来了。(uma boa risada)",
+    "o": [
+     "通",
+     "遍",
+     "顿",
+     "番"
+    ],
+    "a": "通",
+    "ex": "通 conta uma ação intensa e contínua: 笑了一通. 遍 exigiria repetir a risada do começo ao fim, 顿 acompanha 打, 骂 e 吃, e 番 pede ação feita com empenho (解释一番)."
+   },
+   {
+    "s": "孩子们在院子里闹了一___,把玩具扔得到处都是。(uma sessão de bagunça)",
+    "o": [
+     "通",
+     "遍",
+     "顿",
+     "番"
+    ],
+    "a": "通",
+    "ex": "通 conta uma ação contínua e intensa: 闹了一通. 遍 exige que a ação se repita do começo ao fim, 顿 acompanha 打, 骂 e 吃, e 番 pede uma ação com empenho (解释一番): nenhum serve para 闹."
+   },
+   {
+    "s": "同一个人来了三次,就按三个___计算。(pessoa-vez)",
+    "o": [
+     "人次",
+     "人",
+     "次",
+     "位"
+    ],
+    "a": "人次",
+    "ex": "人次 soma pessoas e vezes: três visitas da mesma pessoa são 三个人次. 人 e 位 contariam uma só pessoa, e 次 não aceita 个 antes."
+   },
+   {
+    "s": "这项培训共举办十期,参加者达八百___。(pessoa-vez)",
+    "o": [
+     "人次",
+     "趟",
+     "遍",
+     "顿"
+    ],
+    "a": "人次",
+    "ex": "Com 参加者达 + número, o medidor é 人次, que soma presenças. 趟 conta idas e vindas, 遍 repetições completas e 顿 sessões de comer ou de apanhar."
+   },
+   {
+    "s": "自从来到中国,他的汉语___流利了。(cada vez mais)",
+    "o": [
+     "越发",
+     "极度",
+     "极力",
+     "何等"
+    ],
+    "a": "越发",
+    "ex": "越发 marca progresso no tempo e combina com a mudança de estado em 流利了. 极度 descreveria um estado extremo, 极力 só rege verbo de esforço voluntário e 何等 pediria exclamação com 的……啊."
+   },
+   {
+    "s": "中秋的月亮___明亮,像一个大银盘。(extraordinariamente)",
+    "o": [
+     "分外",
+     "极力",
+     "大为",
+     "万分"
+    ],
+    "a": "分外",
+    "ex": "分外 realça uma qualidade: 分外明亮, 分外清新. 极力 exige verbo voluntário, 大为 pede verbo de mudança (大为改观) e 万分 acompanha estados de emoção (万分感激)."
+   },
+   {
+    "s": "他___掩饰自己的紧张,可声音还是发抖了。(com todo o empenho)",
+    "o": [
+     "极力",
+     "极度",
+     "何等",
+     "分外"
+    ],
+    "a": "极力",
+    "ex": "极力 = 'com todo o empenho', e só modifica verbos voluntários como 掩饰, 劝阻, 推荐. 极度 descreve estados extremos, 何等 faria uma exclamação e 分外 realça qualidades, não esforços."
+   },
+   {
+    "s": "这三个班___有五十名学生,人数一样。(cada uma)",
+    "o": [
+     "均",
+     "无非",
+     "唯独",
+     "一概"
+    ],
+    "a": "均",
+    "ex": "均 é o 'todos, cada um' distributivo do registro escrito. 无非 precisaria de 是, 唯独 marcaria uma exceção isolada e 一概 aparece em contextos restritivos ou negativos."
+   },
+   {
+    "s": "你别误会,他___是想提醒你注意安全。(não é nada além de)",
+    "o": [
+     "无非",
+     "均",
+     "一概",
+     "唯独"
+    ],
+    "a": "无非",
+    "ex": "无非 reduz tudo a uma coisa só e vem antes de 是. 均 distribuiria por cada um, 一概 exige contexto restritivo e 唯独 destacaria um elemento entre vários, não 'só isso'."
+   },
+   {
+    "s": "把这些旧报纸___卖掉吧,留着也没用。(tudo, sem sobrar)",
+    "o": [
+     "通通",
+     "均",
+     "无非",
+     "皆"
+    ],
+    "a": "通通",
+    "ex": "通通 varre o conjunto inteiro antes do verbo. 均 e 皆 são distributivos formais que não entram nesse pedido, e 无非 precisaria de 是 para significar 'nada além de'."
+   },
+   {
+    "s": "会议定在下周五,___请准时参加。(chegada a hora)",
+    "o": [
+     "届时",
+     "随即",
+     "就此",
+     "历来"
+    ],
+    "a": "届时",
+    "ex": "届时 retoma a data já marcada: 'chegada a hora'. 随即 encadeia ação imediata a um fato concluído, 就此 encerraria o assunto e 历来 indica hábito de sempre."
+   },
+   {
+    "s": "他看完信,___站了起来,一句话也没说。(logo em seguida)",
+    "o": [
+     "随即",
+     "届时",
+     "向来",
+     "暂且"
+    ],
+    "a": "随即",
+    "ex": "随即 liga duas ações em sequência: acabou de ler e logo se levantou. 届时 exigiria uma data marcada, 向来 indicaria hábito antigo e 暂且 significaria 'por ora'."
+   },
+   {
+    "s": "本规定___公布,立即开始生效。(uma vez que)",
+    "o": [
+     "一经",
+     "尚",
+     "早日",
+     "就此"
+    ],
+    "a": "一经",
+    "ex": "一经 + verbo abre uma condição de efeito imediato, típica de regulamentos. 尚 é 'ainda' e não abre condição, 早日 exprime desejo e 就此 encerraria o assunto."
+   },
+   {
+    "s": "他___违反学校的规定,最后受到了处分。(repetidas vezes)",
+    "o": [
+     "屡次",
+     "相继",
+     "一连",
+     "时而"
+    ],
+    "a": "屡次",
+    "ex": "屡次 = 'em várias ocasiões', do registro escrito. 相继 exige vários sujeitos que se sucedem, 一连 pede um número ou período depois e 时而 alterna momentos, sem a repetição que levou à punição."
+   },
+   {
+    "s": "___五年,这一带的房价涨了不少。(seguidos)",
+    "o": [
+     "一连",
+     "连连",
+     "再度",
+     "一个劲儿"
+    ],
+    "a": "一连",
+    "ex": "一连 vem obrigatoriamente com quantidade ou período: 一连五年, 一连三天. 连连 acompanha gestos repetidos (连连点头), 再度 significa 'outra vez' e 一个劲儿 exigiria 地 e uma ação insistente."
+   },
+   {
+    "s": "老校长退休后,几位年轻老师___走上了管理岗位。(um após o outro)",
+    "o": [
+     "相继",
+     "一连",
+     "一个劲儿",
+     "屡次"
+    ],
+    "a": "相继",
+    "ex": "相继 pede sujeitos no plural que se sucedem. 一连 exigiria número, 一个劲儿 marca insistência contínua de um só agente e 屡次 repetiria a mesma ação, não a sucessão de pessoas."
+   },
+   {
+    "s": "海面上___平静,时而掀起大浪。(ora… ora…)",
+    "o": [
+     "时而",
+     "连连",
+     "相继",
+     "屡次"
+    ],
+    "a": "时而",
+    "ex": "O par é 时而……时而……: a segunda metade já está na frase e só 时而 fecha a alternância. 连连, 相继 e 屡次 indicam repetição ou sucessão, não dois estados que se alternam."
+   },
+   {
+    "s": "听了他的故事,我___流下了眼泪,自己也没想到。(não consegui evitar)",
+    "o": [
+     "不由得",
+     "刻意",
+     "公然",
+     "就近"
+    ],
+    "a": "不由得",
+    "ex": "不由得 marca uma reação involuntária, confirmada pelo 自己也没想到. 刻意 diria que foi de propósito, 公然 implicaria desafio às normas e 就近 indicaria o lugar mais próximo."
+   },
+   {
+    "s": "大家都出去了,他___打开了那个抽屉。(aproveitando a ocasião)",
+    "o": [
+     "趁机",
+     "如期",
+     "就近",
+     "日趋"
+    ],
+    "a": "趁机",
+    "ex": "趁机 aproveita a ocasião criada pela primeira oração. 如期 exigiria um plano ou prazo, 就近 indicaria proximidade e 日趋 só modifica mudanças graduais."
+   },
+   {
+    "s": "工程___完工,比合同上写的时间还早了两天。(como previsto)",
+    "o": [
+     "如期",
+     "趁机",
+     "任意",
+     "就近"
+    ],
+    "a": "如期",
+    "ex": "如期 = 'conforme o previsto', confirmado pela comparação com o contrato. 趁机 pediria uma oportunidade, 任意 indicaria escolha livre e 就近 proximidade."
+   },
+   {
+    "s": "这一带的环境___好转,居民都很高兴。(dia a dia)",
+    "o": [
+     "日趋",
+     "大肆",
+     "公然",
+     "任意"
+    ],
+    "a": "日趋",
+    "ex": "日趋 marca mudança gradual e modifica verbos e adjetivos como 好转, 严重, 完善. 大肆 e 公然 acompanham ações deliberadas e negativas, e 任意 indicaria escolha livre."
+   },
+   {
+    "s": "老师___把学生带走了，家长知道以后非常生气。(sem autorização)",
+    "o": [
+     "擅自",
+     "逐一",
+     "骤然",
+     "务必"
+    ],
+    "a": "擅自",
+    "ex": "擅自 marca violação de norma por iniciativa própria, e a reprovação em '家长知道以后非常生气' confirma essa leitura. 逐一 distribuiria a ação aluno por aluno, mudando o sentido; 骤然 marcaria mudança brusca de estado, não ação voluntária; 务必 reforçaria uma ordem, e aqui ninguém ordenou nada."
+   },
+   {
+    "s": "他___把办公室的钥匙配了一把，谁也不知道。(às escondidas)",
+    "o": [
+     "私自",
+     "骤然",
+     "一并",
+     "务必"
+    ],
+    "a": "私自",
+    "ex": "私自 marca ação feita por conta própria e em segredo, e '谁也不知道' confirma isso. 骤然 indicaria mudança brusca de estado; 一并 juntaria vários atos num só; 务必 reforçaria uma ordem, e aqui ninguém ordenou nada."
+   },
+   {
+    "s": "别再乱出主意了，你这不是___帮忙，是添乱。(sem critério)",
+    "o": [
+     "瞎",
+     "擅自",
+     "逐一",
+     "毅然"
+    ],
+    "a": "瞎",
+    "ex": "Só 瞎 é o advérbio coloquial e pejorativo de 'fazer de qualquer jeito', e o par '不是…帮忙，是添乱' exige exatamente esse tom. 擅自 indicaria falta de autorização, não falta de critério; 逐一 distribuiria a ação uma por uma; 毅然 marcaria decisão firme e louvável."
+   },
+   {
+    "s": "不管外面怎么说，他___每天早上五点起床。(como de costume)",
+    "o": [
+     "照常",
+     "擅自",
+     "骤然",
+     "万万"
+    ],
+    "a": "照常",
+    "ex": "Só 照常 indica que a rotina se mantém apesar da circunstância que poderia mudá-la ('不管外面怎么说'). 擅自 indicaria ação sem autorização; 骤然 marcaria mudança brusca, e aqui nada mudou; 万万 só se usa com negativo e exprime proibição enfática."
+   },
+   {
+    "s": "他已经解释过了，你___不信，那也没办法。(mesmo assim)",
+    "o": [
+     "照样",
+     "照例",
+     "逐一",
+     "特此"
+    ],
+    "a": "照样",
+    "ex": "Só 照样 exprime que a atitude persiste contra a expectativa criada pelo fato anterior ('已经解释过了'). 照例 apelaria a uma regra ou precedente, que não há aqui; 逐一 distribuiria a ação em itens; 特此 é fórmula de documento oficial e não cabe em conversa."
+   },
+   {
+    "s": "他___最后一个发言，这次也不例外。(como sempre faz)",
+    "o": [
+     "照例",
+     "照常",
+     "照样",
+     "擅自"
+    ],
+    "a": "照例",
+    "ex": "Só 照例 apela a um precedente habitual, e '这次也不例外' confirma essa leitura. 照常 manteria a rotina apesar de um obstáculo, e aqui não há obstáculo; 照样 insistiria em que nada mudou contra a expectativa de alguém; 擅自 indicaria ação sem autorização."
+   },
+   {
+    "s": "请把这两份材料___寄出去，别分两次。(tudo de uma vez)",
+    "o": [
+     "一并",
+     "逐一",
+     "一手",
+     "骤然"
+    ],
+    "a": "一并",
+    "ex": "Só 一并 junta tudo num só ato, e '别分两次' confirma essa leitura. 逐一 faria o oposto, um por vez; 一手 indicaria controle exclusivo por uma pessoa, com reprovação; 骤然 marcaria mudança brusca."
+   },
+   {
+    "s": "老师把每个学生的作业___批改了一遍，连标点也没放过。(um por um)",
+    "o": [
+     "逐一",
+     "一并",
+     "一举",
+     "私自"
+    ],
+    "a": "逐一",
+    "ex": "Só 逐一 distribui a ação item por item, e '连标点也没放过' reforça o exame minucioso. 一并 juntaria tudo num só ato, o oposto do descrito; 一举 realizaria num único movimento com resultado notável; 私自 indicaria ação escondida."
+   },
+   {
+    "s": "这个方案___成功，为公司省下了两百万。(num só lance)",
+    "o": [
+     "一举",
+     "一并",
+     "一手",
+     "照常"
+    ],
+    "a": "一举",
+    "ex": "Só 一举 indica realização num único movimento com resultado notável, que é o que '省下了两百万' representa. 一并 juntaria várias coisas num só ato sem implicar feito; 一手 indicaria controle exclusivo por uma pessoa, com reprovação; 照常 manteria a rotina."
+   },
+   {
+    "s": "这件事是他___包办的，出了错当然由他负责。(só ele controlou tudo)",
+    "o": [
+     "一手",
+     "一并",
+     "逐一",
+     "专程"
+    ],
+    "a": "一手",
+    "ex": "Só 一手 indica que uma só pessoa fez ou controlou tudo, e '当然由他负责' confirma o tom de reprovação. 一并 juntaria itens num só ato; 逐一 distribuiria um por um; 专程 indicaria deslocamento feito só para aquele fim."
+   },
+   {
+    "s": "条件那么差，他___放弃了城里的工作，到山区教书。(com firmeza)",
+    "o": [
+     "毅然",
+     "瞎",
+     "骤然",
+     "一并"
+    ],
+    "a": "毅然",
+    "ex": "Só 毅然 marca decisão firme e louvável tomada apesar das dificuldades ('条件那么差'). 瞎 é pejorativo e indicaria falta de critério; 骤然 marcaria mudança brusca sem decisão envolvida; 一并 juntaria itens num só ato."
+   },
+   {
+    "s": "我们劝他把车修好再走，他___不听，结果半路抛锚了。(insistindo contra o conselho)",
+    "o": [
+     "执意",
+     "毅然",
+     "一并",
+     "特此"
+    ],
+    "a": "执意",
+    "ex": "Só 执意 significa insistir contra a recomendação de outro, e '我们劝他' junto com o desfecho ruim '半路抛锚了' forma exatamente esse quadro. 毅然 traria tom louvável, incompatível com o resultado; 一并 juntaria atos num só; 特此 é fórmula de documento oficial."
+   },
+   {
+    "s": "为了这件事，他___从上海飞到北京，就为当面说清楚。(só para isso)",
+    "o": [
+     "专程",
+     "私自",
+     "照样",
+     "万万"
+    ],
+    "a": "专程",
+    "ex": "Só 专程 indica deslocamento feito exclusivamente para aquele fim, e '就为当面说清楚' confirma. 私自 indicaria ação escondida; 照样 manteria a rotina contra a expectativa; 万万 exige negativo e exprime proibição enfática."
+   },
+   {
+    "s": "本规定自公布之日起施行，___公告。(por este ato)",
+    "o": [
+     "特此",
+     "骤然",
+     "私自",
+     "一并"
+    ],
+    "a": "特此",
+    "ex": "Só 特此 é a fórmula de documento oficial que fecha um aviso, ocupando a posição depois do verbo. 骤然 marcaria mudança brusca; 私自 indicaria ação escondida; 一并 juntaria itens num só ato. Nenhuma das três encerra um comunicado."
+   },
+   {
+    "s": "气温___下降，一夜之间从二十度掉到了五度。(bruscamente)",
+    "o": [
+     "骤然",
+     "照常",
+     "逐一",
+     "万万"
+    ],
+    "a": "骤然",
+    "ex": "Só 骤然 marca mudança brusca de estado, e '一夜之间' e a queda de quinze graus confirmam. 照常 indicaria manutenção da rotina; 逐一 distribuiria item por item; 万万 exige negativo."
+   },
+   {
+    "s": "他嘴上说得很好听，我看___会照办。(não é bem certo que)",
+    "o": [
+     "不见得",
+     "绝不",
+     "无须",
+     "勿"
+    ],
+    "a": "不见得",
+    "ex": "Só 不见得 nega a certeza sem negar o fato, que é o que a opinião hesitante '我看…' exige. 绝不 negaria enfaticamente e não deixaria espaço para o '我看'; 无须 dispensaria a ação por não ser necessária, mudando o sentido; 勿 é proibição escrita e exige verbo logo depois."
+   },
+   {
+    "s": "证据已经销毁，这件事___查起。(não há como)",
+    "o": [
+     "无从",
+     "无须",
+     "绝不",
+     "不必"
+    ],
+    "a": "无从",
+    "ex": "Só 无从 nega a possibilidade por falta de meio ou de ponto de partida, e '证据已经销毁' fornece exatamente essa falta. 无须 e 不必 dispensariam a ação por não ser necessária, o que não é o caso; 绝不 negaria enfaticamente a vontade, não a possibilidade."
+   },
+   {
+    "s": "馆内___吸烟，违者罚款。(proibição em aviso)",
+    "o": [
+     "勿",
+     "无须",
+     "不见得",
+     "未必"
+    ],
+    "a": "勿",
+    "ex": "Só 勿 é a proibição do registro escrito de avisos e fica antes de verbo monossilábico, como em 勿吸烟. 无须 diria que não é preciso, não que é proibido; 不见得 e 未必 negam certeza e não exprimem proibição."
+   },
+   {
+    "s": "问题积累到这个地步，改革___要触及深层的利益。(por necessidade das circunstâncias)",
+    "o": [
+     "势必",
+     "未必",
+     "无须",
+     "不见得"
+    ],
+    "a": "势必",
+    "ex": "Só 势必 exprime necessidade decorrente das circunstâncias descritas antes ('问题积累到这个地步'). 未必 e 不见得 negariam a certeza, invertendo o raciocínio; 无须 dispensaria a ação."
+   },
+   {
+    "s": "刚接手这么重的担子，___会紧张，慢慢就习惯了。(é inevitável)",
+    "o": [
+     "不免",
+     "绝不",
+     "勿",
+     "未必"
+    ],
+    "a": "不免",
+    "ex": "Só 不免 admite uma reação natural e difícil de evitar, e '慢慢就习惯了' pressupõe exatamente isso. 绝不 negaria enfaticamente; 勿 é proibição do registro escrito e exige verbo logo depois; 未必 negaria a certeza."
+   },
+   {
+    "s": "这个问题我也不清楚，___去问问老师？(por que não)",
+    "o": [
+     "何不",
+     "何苦",
+     "莫非",
+     "务必"
+    ],
+    "a": "何不",
+    "ex": "Só 何不 faz a sugestão retórica 'por que não', e a frase pede exatamente uma sugestão de ação. 何苦 perguntaria por que se atormentar à toa; 莫非 levantaria suspeita diante de um indício; 务必 reforçaria uma ordem e não forma pergunta."
+   },
+   {
+    "s": "他___说过一句抱怨的话，总是自己扛着。(em momento algum)",
+    "o": [
+     "何尝",
+     "何不",
+     "何苦",
+     "何必"
+    ],
+    "a": "何尝",
+    "ex": "Só 何尝 nega com ênfase numa pergunta retórica e admite o verbo com 过 diretamente, afirmando que ele nunca reclamou. 何不 sugeriria uma ação a fazer; 何苦 perguntaria por que se atormentar e não aceita 说过; 何必 desaconselharia uma ação e tampouco combina com o 过 de experiência."
+   },
+   {
+    "s": "孩子还小，慢慢教就是了，___这么着急？(para que se atormentar)",
+    "o": [
+     "何苦",
+     "何不",
+     "何尝",
+     "务必"
+    ],
+    "a": "何苦",
+    "ex": "Só 何苦 pergunta por que se atormentar à toa, e '慢慢教就是了' é o conselho que a acompanha. 何不 sugeriria uma ação positiva; 何尝 negaria com ênfase e exigiria verbo com 过; 务必 reforçaria uma ordem e não forma pergunta."
+   },
+   {
+    "s": "他才十九岁就担这么大的责任，___太辛苦了。(excessivamente)",
+    "o": [
+     "未免",
+     "反倒",
+     "分明",
+     "势必"
+    ],
+    "a": "未免",
+    "ex": "Só 未免 avalia algo como excessivo e combina com 太 + adjetivo, que é a estrutura da frase. 反倒 marcaria resultado contrário ao esperado; 分明 afirmaria algo como óbvio contra o que o outro disse; 势必 indicaria necessidade decorrente das circunstâncias."
+   },
+   {
+    "s": "帮他说了半天好话，他___一句也不听。(ao contrário do esperado)",
+    "o": [
+     "反倒",
+     "未免",
+     "好在",
+     "特此"
+    ],
+    "a": "反倒",
+    "ex": "Só 反倒 marca resultado contrário ao que o esforço anterior deveria produzir, com surpresa do falante. 未免 avaliaria excesso e exigiria 太 ou 有点儿 + adjetivo; 好在 apontaria o lado bom de um quadro ruim; 特此 é fórmula de documento oficial."
+   },
+   {
+    "s": "他___没来过这儿，怎么知道路这么难走？(claramente)",
+    "o": [
+     "分明",
+     "不免",
+     "好歹",
+     "万一"
+    ],
+    "a": "分明",
+    "ex": "Só 分明 afirma com evidência clara que algo é óbvio, e a pergunta retórica seguinte ('怎么知道') depende dessa evidência. 不免 admitiria reação inevitável; 好歹 significaria 'de qualquer modo'; 万一 introduziria hipótese improvável."
+   },
+   {
+    "s": "地上全是水，___他刚才摔了一跤。(não é à toa que)",
+    "o": [
+     "怪不得",
+     "务必",
+     "偏偏",
+     "反倒"
+    ],
+    "a": "怪不得",
+    "ex": "Só 怪不得 marca que a causa foi encontrada para um efeito já visível, e a frase traz o efeito ('地上全是水') e a causa descoberta ('摔了一跤'). 务必 reforçaria ordem; 偏偏 indicaria coincidência contrária; 反倒 marcaria resultado oposto ao esperado."
+   },
+   {
+    "s": "灯还亮着，___他并没有出门。(será que não)",
+    "o": [
+     "莫非",
+     "务必",
+     "照常",
+     "一并"
+    ],
+    "a": "莫非",
+    "ex": "Só 莫非 levanta suspeita diante de um indício ('灯还亮着'), e a oração seguinte é a hipótese suspeitada. 务必 reforçaria ordem; 照常 indicaria manutenção da rotina; 一并 juntaria itens num só ato."
+   },
+   {
+    "s": "山路上有野兽，你___不可一个人走夜路。(de jeito nenhum)",
+    "o": [
+     "万万",
+     "偏偏",
+     "反倒",
+     "何不"
+    ],
+    "a": "万万",
+    "ex": "Só 万万 é o advérbio enfático que exige negativo depois, e 不可 está na frase. 偏偏 indicaria coincidência contrária; 反倒 marcaria resultado oposto ao esperado; 何不 faria sugestão retórica e não se combina com 不可."
+   },
+   {
+    "s": "各位___按顺序入场，不要拥挤。(é imprescindível)",
+    "o": [
+     "务必",
+     "万万",
+     "偏偏",
+     "反倒"
+    ],
+    "a": "务必",
+    "ex": "Só 务必 exprime exigência firme e neutra antes de verbo positivo, como num aviso a um público. 万万 exige negativo; 偏偏 indicaria coincidência contrária; 反倒 marcaria resultado oposto ao esperado."
+   },
+   {
+    "s": "雨下这么大，___不去了，在家看本书吧。(já que é assim)",
+    "o": [
+     "索性",
+     "务必",
+     "莫非",
+     "擅自"
+    ],
+    "a": "索性",
+    "ex": "Só 索性 exprime a decisão de cortar as alternativas e fazer de uma vez, e '雨下这么大' é o fato que fecha as outras saídas. 务必 reforçaria ordem; 莫非 levantaria suspeita; 擅自 indicaria ação sem autorização."
+   },
+   {
+    "s": "时间还早，你___去隔壁书店转转。(vale a pena tentar)",
+    "o": [
+     "不妨",
+     "万万",
+     "擅自",
+     "骤然"
+    ],
+    "a": "不妨",
+    "ex": "Só 不妨 faz sugestão branda de que vale a pena experimentar, e '时间还早' fornece a condição que a torna razoável. 万万 exige negativo; 擅自 indicaria ação sem autorização; 骤然 marcaria mudança brusca."
+   },
+   {
+    "s": "平时从不下雨，今天我们要晒被子，___下起来了。(justamente hoje)",
+    "o": [
+     "偏偏",
+     "务必",
+     "分外",
+     "擅自"
+    ],
+    "a": "偏偏",
+    "ex": "Só 偏偏 marca coincidência contrária que atrapalha justamente quando não devia, e '要晒被子' cria exatamente essa contrariedade. 务必 reforçaria ordem; 分外 intensificaria um adjetivo; 擅自 indicaria ação sem autorização."
+   },
+   {
+    "s": "我们在火车上___坐在一起，聊了一路。(por coincidência)",
+    "o": [
+     "碰巧",
+     "偏偏",
+     "务必",
+     "擅自"
+    ],
+    "a": "碰巧",
+    "ex": "Só 碰巧 indica coincidência neutra ou favorável, e '聊了一路' mostra que o acaso foi bem-vindo. 偏偏 traria contrariedade e incômodo, incompatíveis com esse tom; 务必 reforçaria ordem; 擅自 indicaria ação sem autorização."
+   },
+   {
+    "s": "他平时从不迟到，今天___晚了半个小时。(por incrível que pareça)",
+    "o": [
+     "竟",
+     "照常",
+     "一并",
+     "擅自"
+    ],
+    "a": "竟",
+    "ex": "Só 竟 marca a surpresa do falante diante da quebra de expectativa estabelecida por '平时从不迟到'. 照常 indicaria manutenção da rotina, que é o oposto do ocorrido; 一并 juntaria itens num só ato; 擅自 indicaria ação sem autorização."
+   },
+   {
+    "s": "行李丢了一件，___护照和钱都在身上。(ao menos)",
+    "o": [
+     "好在",
+     "务必",
+     "偏偏",
+     "擅自"
+    ],
+    "a": "好在",
+    "ex": "Só 好在 aponta o que ainda resta de bom dentro de um quadro negativo, e a frase tem exatamente essa estrutura ('丢了一件' → '护照和钱都在'). 务必 reforçaria ordem; 偏偏 indicaria coincidência contrária; 擅自 indicaria ação sem autorização."
+   },
+   {
+    "s": "此人___我多年好友，我自然信得过。(é — registro escrito)",
+    "o": [
+     "乃",
+     "竟",
+     "偏偏",
+     "反倒"
+    ],
+    "a": "乃",
+    "ex": "Só 乃 funciona como cópula do registro escrito, ligando 此人 a 我多年好友. 竟 marcaria surpresa do falante; 偏偏 indicaria coincidência contrária; 反倒 marcaria resultado oposto ao esperado — nenhum dos três serve como verbo de ligação."
+   },
+   {
+    "s": "失败___成功之母，这话一点儿不错。(é — máxima)",
+    "o": [
+     "乃",
+     "就",
+     "却",
+     "还"
+    ],
+    "a": "乃",
+    "ex": "A máxima exige a cópula escrita 乃, que é a forma consagrada em 失败乃成功之母. 就 indicaria consequência imediata e deixaria a frase sem verbo de ligação; 却 marcaria contraste; 还 indicaria persistência. Nenhum liga sujeito a predicado nominal aqui."
+   },
+   {
+    "s": "___下飞机他就给我打了电话。(desde que)",
+    "o": [
+     "打",
+     "当着",
+     "本着",
+     "且"
+    ],
+    "a": "打",
+    "ex": "Só 打 é a preposição coloquial de ponto de partida no tempo, equivalente a 从. 当着 situaria a ação na presença de alguém; 本着 indicaria o princípio que orienta a ação; 且 é conjuntivo de acréscimo entre orações."
+   },
+   {
+    "s": "这条路___东往西一直走就到了。(de — direção)",
+    "o": [
+     "打",
+     "依",
+     "以免",
+     "乃至"
+    ],
+    "a": "打",
+    "ex": "Só 打 introduz o ponto de partida no espaço no registro coloquial, e o par 打东往西 é fixo. 依 indicaria conformidade com uma base; 以免 introduziria prevenção; 乃至 marcaria o extremo de uma série."
+   },
+   {
+    "s": "你别___孩子的面吵架。(na presença de)",
+    "o": [
+     "当着",
+     "打",
+     "本着",
+     "且"
+    ],
+    "a": "当着",
+    "ex": "Só 当着 introduz as testemunhas diante das quais a ação ocorre e forma a estrutura fixa 当着……的面. 打 indicaria ponto de partida no tempo ou espaço; 本着 indicaria o princípio que orienta a ação; 且 é conjuntivo de acréscimo."
+   },
+   {
+    "s": "___这么多人，他不好意思发火。(diante de)",
+    "o": [
+     "当着",
+     "依",
+     "以免",
+     "乃"
+    ],
+    "a": "当着",
+    "ex": "Só 当着 introduz o público diante do qual a ação ocorre, e é essa presença que explica '不好意思发火'. 依 indicaria conformidade com uma base; 以免 introduziria prevenção; 乃 é cópula escrita e não introduz circunstância."
+   },
+   {
+    "s": "___上述情况，公司决定推迟发布。(tendo em vista)",
+    "o": [
+     "鉴于",
+     "本着",
+     "当着",
+     "且"
+    ],
+    "a": "鉴于",
+    "ex": "Só 鉴于 introduz a circunstância constatada que motiva uma decisão, e '上述情况' é exatamente isso. 本着 exigiria um princípio ou atitude ('本着自愿的原则'), não uma situação; 当着 introduziria presença de testemunhas; 且 é conjuntivo de acréscimo."
+   },
+   {
+    "s": "___双方的协议，这批货下周发出。(conforme)",
+    "o": [
+     "依",
+     "鉴于",
+     "打",
+     "乃至"
+    ],
+    "a": "依",
+    "ex": "Só 依 introduz a base normativa conforme a qual se age, e '双方的协议' é essa base. 鉴于 introduziria circunstância que motiva decisão, não conformidade; 打 indicaria ponto de partida no tempo ou espaço; 乃至 marcaria o extremo de uma série."
+   },
+   {
+    "s": "这个结论___大量实验数据，不是凭空想出来的。(com base em)",
+    "o": [
+     "基于",
+     "本着",
+     "当着",
+     "且"
+    ],
+    "a": "基于",
+    "ex": "Só 基于 introduz o fundamento factual de uma conclusão, e '大量实验数据' é esse fundamento — o contraste com '不是凭空想出来的' confirma. 本着 exigiria um princípio ou atitude voluntária; 当着 introduziria presença de testemunhas; 且 é conjuntivo de acréscimo."
+   },
+   {
+    "s": "___有关部门批准，工程才能开工。(após passar por)",
+    "o": [
+     "经",
+     "依",
+     "打",
+     "乃"
+    ],
+    "a": "经",
+    "ex": "Só 经 introduz a instância ou o processo pelo qual algo passou, e '有关部门批准' é essa instância. 依 indicaria conformidade com uma base normativa, não a passagem por uma aprovação; 打 indicaria ponto de partida; 乃 é cópula escrita."
+   },
+   {
+    "s": "他不熟悉情况，___身体也不好，就别派他去了。(além disso)",
+    "o": [
+     "况且",
+     "以免",
+     "当着",
+     "乃"
+    ],
+    "a": "况且",
+    "ex": "Só 况且 acrescenta um argumento de reforço ao já apresentado, e '就别派他去了' é a conclusão que os dois motivos sustentam. 以免 introduziria prevenção contra um fato indesejado; 当着 introduziria presença de testemunhas; 乃 é cópula escrita."
+   },
+   {
+    "s": "会议讨论了预算、人事___后勤三个方面的问题。(e, ligando itens)",
+    "o": [
+     "以及",
+     "况且",
+     "以免",
+     "打"
+    ],
+    "a": "以及",
+    "ex": "Só 以及 liga itens de uma enumeração no registro escrito, e '三个方面' confirma que se trata de uma lista. 况且 acrescentaria argumento entre orações, não item de lista; 以免 introduziria prevenção; 打 indicaria ponto de partida."
+   },
+   {
+    "s": "这里的方言很多，___一个县里也有好几种。(chegando ao extremo de)",
+    "o": [
+     "乃至",
+     "以免",
+     "当着",
+     "乃"
+    ],
+    "a": "乃至",
+    "ex": "Só 乃至 marca o ponto extremo de uma série, e '一个县里也有好几种' é esse extremo dentro da série de fatos sobre dialetos. 以免 introduziria prevenção; 当着 introduziria presença de testemunhas; 乃 é cópula escrita e não conecta orações."
+   },
+   {
+    "s": "房子旧，___位置又偏，所以一直没人买。(somando-se a isso)",
+    "o": [
+     "加之",
+     "以免",
+     "打",
+     "当着"
+    ],
+    "a": "加之",
+    "ex": "Só 加之 soma um segundo fator ao já enunciado ('房子旧') no registro escrito, e '所以一直没人买' é a conclusão dos dois. 以免 introduziria prevenção; 打 indicaria ponto de partida; 当着 introduziria presença de testemunhas."
+   },
+   {
+    "s": "早点儿出发，___路上堵车。(para evitar que)",
+    "o": [
+     "免得",
+     "况且",
+     "乃至",
+     "当着"
+    ],
+    "a": "免得",
+    "ex": "Só 免得 introduz a consequência indesejada que a ação anterior evita, e '路上堵车' é exatamente o que se quer evitar. 况且 acrescentaria argumento de reforço; 乃至 marcaria o extremo de uma série; 当着 introduziria presença de testemunhas."
+   },
+   {
+    "s": "出门前把窗户关好，___下雨进水。(por prevenção)",
+    "o": [
+     "以防",
+     "况且",
+     "以及",
+     "乃"
+    ],
+    "a": "以防",
+    "ex": "Só 以防 introduz a precaução contra um evento apenas possível, e '下雨进水' é esse evento. 况且 acrescentaria argumento; 以及 ligaria itens de enumeração; 乃 é cópula escrita."
+   },
+   {
+    "s": "___明天气温继续下降，就得提前供暖。(se — escrito)",
+    "o": [
+     "若",
+     "况且",
+     "以免",
+     "乃至"
+    ],
+    "a": "若",
+    "ex": "Só 若 introduz hipótese no registro escrito e se combina com a consequência '就得提前供暖'. 况且 acrescentaria argumento de reforço; 以免 introduziria prevenção; 乃至 marcaria o extremo de uma série."
+   },
+   {
+    "s": "___你不肯说，我们也自有办法。(supondo que)",
+    "o": [
+     "倘若",
+     "况且",
+     "以及",
+     "打"
+    ],
+    "a": "倘若",
+    "ex": "Só 倘若 introduz hipótese no registro literário, e a oração seguinte traz a consequência ('我们也自有办法'). 况且 acrescentaria argumento; 以及 ligaria itens de enumeração; 打 indicaria ponto de partida."
+   },
+   {
+    "s": "我只是开个玩笑___，你何必生气。(só isso)",
+    "o": [
+     "罢了",
+     "也罢",
+     "矣",
+     "乃"
+    ],
+    "a": "罢了",
+    "ex": "Só 罢了 fecha a frase limitando o conteúdo a 'nada além disso', e '只是开个玩笑' pede exatamente esse limitador. 也罢 concederia aceitando duas alternativas e exige par; 矣 é partícula clássica de fato consumado e não limita o conteúdo; 乃 é cópula escrita."
+   },
+   {
+    "s": "此事已定，不必再议___。(partícula clássica de fim)",
+    "o": [
+     "矣",
+     "罢了",
+     "也罢",
+     "乃"
+    ],
+    "a": "矣",
+    "ex": "Só 矣 é a partícula clássica de fim de frase que marca fato consumado, e '已定' e '不必再议' formam exatamente esse registro solene. 罢了 limitaria o conteúdo a 'nada além disso'; 也罢 concederia aceitando alternativas e exige par; 乃 é cópula e não fecha frase."
+   },
+   {
+    "s": "你去___，不去也罢，反正决定权在你。(tanto faz)",
+    "o": [
+     "也罢",
+     "矣",
+     "乃",
+     "倒是"
+    ],
+    "a": "也罢",
+    "ex": "A moldura é X也罢，Y也罢, que concede aceitando as duas alternativas; a segunda peça já está na frase e só 也罢 completa a primeira. 矣 marcaria fato consumado; 乃 é cópula escrita; 倒是 introduziria contraste, não concessão paralela."
+   },
+   {
+    "s": "你___，反正我是不管了。(queira ou não)",
+    "o": [
+     "爱信不信",
+     "忽冷忽热",
+     "时好时坏",
+     "半信半疑"
+    ],
+    "a": "爱信不信",
+    "ex": "爱A不A exprime indiferença diante da escolha do outro, e '反正我是不管了' confirma essa leitura. 忽冷忽热 e 时好时坏 descrevem oscilação de estado, não indiferença; 半信半疑 descreve dúvida de quem avalia, e não caberia dirigido ao interlocutor nesse frame."
+   },
+   {
+    "s": "她的心情___，一会儿高兴一会儿生气。(ora… ora…)",
+    "o": [
+     "时好时坏",
+     "爱理不理",
+     "半新半旧",
+     "不知不觉"
+    ],
+    "a": "时好时坏",
+    "ex": "时A时B descreve alternância entre dois estados ao longo do tempo, e '一会儿高兴一会儿生气' confirma. 爱理不理 descreve indiferença no trato com alguém; 半新半旧 descreve estado intermediário fixo de objeto; 不知不觉 indica mudança não percebida."
+   },
+   {
+    "s": "这件衣服___，穿出去不合适，扔了又可惜.(nem uma coisa nem outra)",
+    "o": [
+     "不新不旧",
+     "半信半疑",
+     "爱理不理",
+     "时好时坏"
+    ],
+    "a": "不新不旧",
+    "ex": "不A不B descreve um meio-termo indefinido entre dois extremos, que é o que '穿出去不合适,扔了又可惜' retrata. 半信半疑 descreve dúvida de pessoa; 爱理不理 descreve indiferença no trato; 时好时坏 descreve oscilação no tempo."
+   },
+   {
+    "s": "门___开着，风一吹就吱吱响。(entreaberta)",
+    "o": [
+     "半开半掩",
+     "不三不四",
+     "非亲非故",
+     "忽明忽暗"
+    ],
+    "a": "半开半掩",
+    "ex": "半A半B descreve estado parcialmente realizado em duas metades, e a porta entreaberta que range ao vento é o caso típico. 不三不四 qualifica conduta ou forma indébita; 非亲非故 nega vínculo de parentesco ou amizade; 忽明忽暗 descreve oscilação brusca de luz."
+   },
+   {
+    "s": "这顿饭___菜带酒，一共花了三百块。(incluindo)",
+    "o": [
+     "连",
+     "打",
+     "且",
+     "乃"
+    ],
+    "a": "连",
+    "ex": "A moldura 连A带B inclui os dois itens no mesmo total, e a peça 带 já está na frase — só 连 a completa. 打 indicaria ponto de partida; 且 é conjuntivo de acréscimo entre orações, não entre substantivos nesse frame; 乃 é cópula escrita."
+   },
+   {
+    "s": "抽屉里___地塞着笔、钥匙和零钱。(tudo misturado)",
+    "o": [
+     "乱七八糟",
+     "不三不四",
+     "半开半掩",
+     "时好时坏"
+    ],
+    "a": "乱七八糟",
+    "ex": "Só 乱七八糟 (七A八B) descreve desordem e mistura de coisas, que é o que '塞着笔、钥匙和零钱' retrata. 不三不四 qualifica conduta ou forma indébita, não arrumação; 半开半掩 descreve estado entreaberto; 时好时坏 descreve oscilação de estado."
+   },
+   {
+    "s": "他整天___地跑，也不知道在忙什么。(de um lado para o outro)",
+    "o": [
+     "东奔西走",
+     "七嘴八舌",
+     "半信半疑",
+     "爱理不理"
+    ],
+    "a": "东奔西走",
+    "ex": "东A西B descreve deslocamento em várias direções, e '整天…地跑' confirma. 七嘴八舌 descreve muita gente falando ao mesmo tempo; 半信半疑 descreve dúvida; 爱理不理 descreve indiferença no trato."
+   },
+   {
+    "s": "这种桌子___，用起来很方便。(pode ser de um jeito ou de outro)",
+    "o": [
+     "可大可小",
+     "不三不四",
+     "七嘴八舌",
+     "东奔西走"
+    ],
+    "a": "可大可小",
+    "ex": "可A可B descreve algo que admite dois modos ou tamanhos, e '用起来很方便' confirma a vantagem prática. 不三不四 qualifica conduta indébita; 七嘴八舌 descreve muita gente falando ao mesmo tempo; 东奔西走 descreve deslocamento em várias direções."
+   },
+   {
+    "s": "他们俩___，都想到了同一个办法。(sem combinar, e mesmo assim)",
+    "o": [
+     "不约而同",
+     "乱七八糟",
+     "可大可小",
+     "东奔西走"
+    ],
+    "a": "不约而同",
+    "ex": "不A而B indica que o resultado aconteceu sem a ação que normalmente o produziria; 不约而同 é 'sem combinar, coincidiram', que é o que '都想到了同一个办法' descreve. 乱七八糟 descreve desordem; 可大可小 descreve dois modos de uso; 东奔西走 descreve deslocamento."
+   },
+   {
+    "s": "这个人___，什么消息都要打听，什么事都想插一脚。(mete-se em tudo)",
+    "o": [
+     "无孔不入",
+     "无可奉告",
+     "无独有偶",
+     "无与伦比"
+    ],
+    "a": "无孔不入",
+    "ex": "无孔不入 descreve quem se infiltra em qualquer brecha, que é o que '什么消息都要打听,什么事都想插一脚' retrata. 无可奉告 é resposta de porta-voz ('sem comentários'), não traço de caráter; 无独有偶 anuncia um caso paralelo ('e não é o único'); 无与伦比 é elogio de superioridade. Nenhum dos três descreve intromissão."
+   },
+   {
+    "s": "这件丑闻已经___了，你再瞒也没有什么用。(todo mundo sabe)",
+    "o": [
+     "无人不知",
+     "无孔不入",
+     "无可奈何",
+     "无奇不有"
+    ],
+    "a": "无人不知",
+    "ex": "无人不知 é a dupla negação de 无A不B: 'não há quem não saiba' = todos sabem, que é justamente o que torna inútil continuar escondendo ('再瞒也没有用'). 无孔不入 descreve infiltração, não conhecimento; 无可奈何 descreveria a reação dele, não o estado do fato; 无奇不有 comenta variedade de coisas estranhas."
+   },
+   {
+    "s": "关于公司裁员的事，发言人___，记者只好散了。(sem comentários)",
+    "o": [
+     "无可奉告",
+     "无人不知",
+     "无孔不入",
+     "无独有偶"
+    ],
+    "a": "无可奉告",
+    "ex": "无可奉告 é a fórmula fixa de porta-voz para 'nada a declarar', e é ela que faz '记者只好散了' seguir. 无人不知 ('todos sabem') contradiria o silêncio; 无孔不入 descreve quem se infiltra; 无独有偶 anuncia um caso paralelo. Nenhuma serve como resposta evasiva oficial."
+   },
+   {
+    "s": "这份报告的数据___，谁也没法反驳。(irrefutável)",
+    "o": [
+     "无可辩驳",
+     "无可奉告",
+     "无奇不有",
+     "无动于衷"
+    ],
+    "a": "无可辩驳",
+    "ex": "无可辩驳 qualifica aquilo que não admite refutação, e '谁也没法反驳' confirma isso. 无可奉告 é recusa de comentar, não propriedade de dados; 无奇不有 comenta estranheza de fatos variados; 无动于衷 descreve indiferença emocional de pessoa."
+   },
+   {
+    "s": "他不理人，一个人坐在角落里___，好像在背什么。(falando sozinho)",
+    "o": [
+     "自言自语",
+     "自生自灭",
+     "自吹自擂",
+     "自暴自弃"
+    ],
+    "a": "自言自语",
+    "ex": "自言自语 = falar sozinho, o que combina com '一个人坐在角落里' e '好像在背什么'. 自生自灭 descreve ser deixado sem amparo; 自吹自擂 é gabar-se e exigiria ouvinte; 自暴自弃 é entregar-se à própria ruína, sem relação com falar."
+   },
+   {
+    "s": "这些流浪猫没人喂，全靠好心人偶尔送点儿吃的，差不多是___。(deixadas à própria sorte)",
+    "o": [
+     "自生自灭",
+     "自言自语",
+     "自相矛盾",
+     "自告奋勇"
+    ],
+    "a": "自生自灭",
+    "ex": "自生自灭 = nascer e morrer por conta própria, sem assistência, que é o que '没人喂' e '全靠偶尔送点儿' descrevem. 自言自语 é falar sozinho; 自相矛盾 é contradizer-se; 自告奋勇 é oferecer-se voluntariamente para uma tarefa. Nenhuma descreve abandono."
+   },
+   {
+    "s": "___，你这个方案我看了三遍，还是没看出好在哪里。(sendo franco)",
+    "o": [
+     "不瞒你说",
+     "综上所述",
+     "这样一来",
+     "还别说"
+    ],
+    "a": "不瞒你说",
+    "ex": "不瞒你说 abre uma avaliação sincera e potencialmente desagradável, que é o que vem depois ('还是没看出好在哪里'). 综上所述 fecha argumentação enumerada, e não houve enumeração; 这样一来 anuncia consequência de algo já dito; 还别说 exprime surpresa concessiva ('olha, não é que…'), incompatível com crítica."
+   },
+   {
+    "s": "___，这活儿我干不了，你还是找别人吧。(para ser honesto)",
+    "o": [
+     "老实说",
+     "说到底",
+     "你看你",
+     "这不"
+    ],
+    "a": "老实说",
+    "ex": "老实说 anuncia a confissão franca de uma recusa, encaixando em '这活儿我干不了'. 说到底 remete à causa última de um problema e pediria análise anterior; 你看你 é reprovação dirigida ao interlocutor, e aqui o falante fala de si; 这不 aponta evidência presente ('olha só'), não introduz opinião."
+   },
+   {
+    "s": "___，我从来没觉得他这个人靠得住。(falando sério)",
+    "o": [
+     "说真的",
+     "综上所述",
+     "无论如何",
+     "这样一来"
+    ],
+    "a": "说真的",
+    "ex": "说真的 é o marcador coloquial que antecede opinião sincera e contundente, como '从来没觉得他靠得住'. 综上所述 resumiria argumentos expostos antes; 无论如何 significa 'custe o que custar' e exigiria verbo de ação em seguida; 这样一来 anuncia consequência."
+   },
+   {
+    "s": "___，钱是你借的，怎么倒成了我要还你？(ora, mas…)",
+    "o": [
+     "不是",
+     "可不是",
+     "无非",
+     "何必"
+    ],
+    "a": "不是",
+    "ex": "Aqui 不是 é marcador de objeção, não negação: abre a contestação indignada que a pergunta retórica '怎么倒成了我要还你' completa. 可不是 exprime concordância ('pois é!'), o oposto de contestar; 无非 significa 'nada além de' e exigiria complemento nominal; 何必 ('para quê') não introduz objeção."
+   },
+   {
+    "s": "___，凭什么每次都让我收拾这个烂摊子？(mas como assim)",
+    "o": [
+     "不是",
+     "总而言之",
+     "还别说",
+     "这样一来"
+    ],
+    "a": "不是",
+    "ex": "Só 不是 funciona como interjeição de objeção antes de pergunta retórica com 凭什么. 总而言之 fecha um raciocínio; 还别说 concede com surpresa; 这样一来 anuncia consequência de fato anterior — nenhuma das três abre contestação indignada."
+   },
+   {
+    "s": "___，你也太不小心了，钱包丢了都不知道。(não é por falar, mas)",
+    "o": [
+     "不是我说你",
+     "退一步说",
+     "综上所述",
+     "无论如何"
+    ],
+    "a": "不是我说你",
+    "ex": "Só 不是我说你 serve para anunciar reproche direto dirigido a 你 ('你也太不小心了'). 退一步说 introduz hipótese concessiva e pediria 就算 ou 即使 a seguir; 综上所述 resume argumentação enumerada; 无论如何 é advérbio de 'custe o que custar', não marcador de crítica."
+   },
+   {
+    "s": "___，你都工作五年了，还天天让妈妈给你做饭。(não é por falar, mas)",
+    "o": [
+     "不是我说你",
+     "还别说",
+     "这不",
+     "简言之"
+    ],
+    "a": "不是我说你",
+    "ex": "A frase é crítica direta ao interlocutor, função exclusiva de 不是我说你. 还别说 exprime surpresa concessiva e não critica; 这不 aponta evidência presente na conversa; 简言之 resume o que foi dito antes, e nada foi dito antes."
+   },
+   {
+    "s": "这份材料洋洋万言，___，无非是想多要几个编制。(em poucas palavras)",
+    "o": [
+     "简言之",
+     "还别说",
+     "你看你",
+     "这样一来"
+    ],
+    "a": "简言之",
+    "ex": "简言之 comprime um texto longo ('洋洋万言') em uma frase, que é exatamente o movimento de '无非是想多要几个编制'. 还别说 exprime surpresa concessiva; 你看你 é reprovação dirigida ao interlocutor; 这样一来 anuncia consequência de fato anterior. Nenhuma das três resume."
+   },
+   {
+    "s": "他不是能力不行，___，他是不够用心。(dito de outro modo)",
+    "o": [
+     "换句话说",
+     "这样一来",
+     "可不",
+     "真是的"
+    ],
+    "a": "换句话说",
+    "ex": "换句话说 reexplica com outras palavras a mesma ideia, e '不是能力不行 → 是不够用心' é exatamente essa reformulação. 这样一来 anuncia consequência, e a segunda oração não é consequência da primeira; 可不 é réplica de concordância ('pois é!') e não conecta orações; 真是的 é reprovação resignada que encerra o assunto."
+   },
+   {
+    "s": "你这样说也不对，___，如果人人都这么想，谁还愿意干这活儿？(vendo pelo outro lado)",
+    "o": [
+     "反过来说",
+     "简言之",
+     "综上所述",
+     "无论如何"
+    ],
+    "a": "反过来说",
+    "ex": "反过来说 apresenta o mesmo problema pelo lado oposto — aqui trocando a perspectiva individual pela coletiva ('如果人人都这么想'). 简言之 comprimiria o já dito em vez de inverter o ângulo; 综上所述 fecharia argumentação enumerada; 无论如何 é 'custe o que custar'."
+   },
+   {
+    "s": "___，这次调查覆盖了十二个省，回收问卷三万多份，数据是可靠的。(em suma, no texto escrito)",
+    "o": [
+     "综上所述",
+     "还别说",
+     "你看你",
+     "这不"
+    ],
+    "a": "综上所述",
+    "ex": "综上所述 é o fecho formal de texto escrito e exige justamente o que a frase traz: itens enumerados antes ('十二个省','三万多份'). 还别说 exprime surpresa concessiva; 你看你 é reprovação coloquial ao interlocutor; 这不 aponta evidência presente na conversa. Nenhum fecha argumentação escrita."
+   },
+   {
+    "s": "问题看起来很多，___还是态度问题，不是方法问题。(no fundo)",
+    "o": [
+     "归根到底",
+     "这样一来",
+     "无论如何",
+     "还别说"
+    ],
+    "a": "归根到底",
+    "ex": "归根到底 aponta a causa última e é o único dos quatro que combina com a estrutura '还是…，不是…', que separa a raiz da aparência. 这样一来 anuncia consequência de fato anterior; 无论如何 significa 'custe o que custar' e exigiria verbo de ação; 还别说 exprime surpresa concessiva."
+   },
+   {
+    "s": "—这药效果不错。—___，可也不能当饭吃啊。(isso é verdade, mas)",
+    "o": [
+     "话是这么说",
+     "综上所述",
+     "换句话说",
+     "可不"
+    ],
+    "a": "话是这么说",
+    "ex": "话是这么说 reconhece a fala anterior do outro ('这药效果不错') e abre a ressalva marcada por 可. 综上所述 fecharia argumentação escrita, não uma réplica; 换句话说 reformularia o mesmo conteúdo sem contestar; 可不 significa 'pois é!' e expressaria concordância plena, o que contradiz o 可 seguinte."
+   },
+   {
+    "s": "___，就算他答应了，时间上也来不及了。(concedendo por hipótese)",
+    "o": [
+     "退一步说",
+     "话说回来",
+     "总的来说",
+     "真是的"
+    ],
+    "a": "退一步说",
+    "ex": "退一步说 é o único que aceita hipótese provisória marcada por 就算 para depois mostrar que ela não muda nada ('来不及了'). 话说回来 retoma o ponto principal após um desvio e não introduz hipótese; 总的来说 resume; 真是的 é reprovação resignada."
+   },
+   {
+    "s": "他这个人小气是小气，___，关键时刻倒从没含糊过。(mas voltando ao ponto)",
+    "o": [
+     "话说回来",
+     "综上所述",
+     "简言之",
+     "无论如何"
+    ],
+    "a": "话说回来",
+    "ex": "话说回来 retoma o julgamento principal depois de reconhecer um detalhe ('小气是小气'), que é exatamente o movimento da frase. 综上所述 é fecho de texto escrito e pediria argumentos enumerados; 简言之 comprimiria o dito; 无论如何 significa 'custe o que custar'."
+   },
+   {
+    "s": "—这家饭馆儿的菜越来越难吃了。—___，我上次来也是这样。(pois é)",
+    "o": [
+     "可不",
+     "不是",
+     "综上所述",
+     "退一步说"
+    ],
+    "a": "可不",
+    "ex": "可不 é a réplica de concordância enfática ('pois é'), e o comentário seguinte ('我上次来也是这样') confirma em vez de contestar. 不是 abriria objeção indignada; 综上所述 é fecho de texto escrito; 退一步说 introduziria hipótese concessiva. Nenhum serve como réplica de concordância."
+   },
+   {
+    "s": "—他这个人做事真不靠谱。—___，上回说好来的，结果连个电话都没有。(é bem isso)",
+    "o": [
+     "可不是嘛",
+     "换句话说",
+     "无论如何",
+     "这样一来"
+    ],
+    "a": "可不是嘛",
+    "ex": "可不是嘛 é a forma completa de 可不: concorda com a avaliação do outro, e o exemplo seguinte ('上回说好来的…') confirma. 换句话说 reformularia sem expressar concordância explícita; 无论如何 é 'custe o que custar'; 这样一来 anuncia consequência."
+   },
+   {
+    "s": "___，他这个土办法还真管用，机器马上就转起来了。(olha, não é que…)",
+    "o": [
+     "还别说",
+     "综上所述",
+     "无论如何",
+     "这样一来"
+    ],
+    "a": "还别说",
+    "ex": "还别说 introduz a admissão surpreendida de que algo contra a expectativa se confirmou, e o 还真 da frase é a marca típica desse par. 综上所述 fecha argumentação enumerada, que não houve; 无论如何 é advérbio de determinação e exigiria verbo de ação; 这样一来 anuncia consequência de fato anterior, não surpresa."
+   },
+   {
+    "s": "___，这孩子看着调皮，学起东西来比谁都快。(olha, não é que…)",
+    "o": [
+     "还别说",
+     "不是我说你",
+     "简言之",
+     "退一步说"
+    ],
+    "a": "还别说",
+    "ex": "A frase concede com surpresa que a aparência engana ('看着调皮' → '学起来比谁都快'), que é a função de 还别说. 不是我说你 anunciaria um reproche, e aqui há elogio; 简言之 comprimiria o já dito em menos palavras; 退一步说 introduziria hipótese com 就算 ou 即使, ausente aqui."
+   },
+   {
+    "s": "他总是迟到，___，一点儿都不改。(que coisa)",
+    "o": [
+     "真是的",
+     "你看你",
+     "综上所述",
+     "如此一来"
+    ],
+    "a": "真是的",
+    "ex": "O alvo da reprovação é 他, terceira pessoa, e só 真是的 funciona como desabafo sobre a situação. 你看你 exige interlocutor na frente e que a frase seguinte descreva algo que ele fez, impossível com sujeito 他; 综上所述 fecha argumentação enumerada; 如此一来 anuncia consequência."
+   },
+   {
+    "s": "___，都多大的人了，还挑食。(olha só você)",
+    "o": [
+     "你看你",
+     "综上所述",
+     "无论如何",
+     "这样一来"
+    ],
+    "a": "你看你",
+    "ex": "你看你 é a reprovação dirigida diretamente ao interlocutor, e '都多大的人了，还挑食' descreve o que ele fez. 综上所述 fecharia texto escrito com argumentos enumerados antes; 无论如何 significa 'custe o que custar' e exigiria verbo de ação; 这样一来 anuncia consequência de fato anterior."
+   },
+   {
+    "s": "—你真是天才，这问题只有你能解决。—___，我也就是多查了几本书。(imagina)",
+    "o": [
+     "说到哪儿去了",
+     "综上所述",
+     "无论如何",
+     "这样一来"
+    ],
+    "a": "说到哪儿去了",
+    "ex": "A réplica recusa um elogio exagerado, função exclusiva de 说到哪儿去了, e o seguimento ('我也就是多查了几本书') corrige o excesso. 综上所述 fecha argumentação escrita; 无论如何 é 'custe o que custar'; 这样一来 anuncia consequência. Nenhuma das três serve para recusar elogio."
+   },
+   {
+    "s": "—这次全靠你了，没你我们肯定完不成。—___，这是大家伙儿一起干的。(onde já se viu)",
+    "o": [
+     "说到哪儿去了",
+     "还别说",
+     "简言之",
+     "真是的"
+    ],
+    "a": "说到哪儿去了",
+    "ex": "Só 说到哪儿去了 recusa o exagero de crédito ('全靠你') devolvendo-o ao coletivo. 还别说 concederia com surpresa, o oposto de recusar; 简言之 comprimiria o já dito; 真是的 é reprovação resignada, e aqui não há nada a reprovar."
+   },
+   {
+    "s": "时间不多了，___，你今天都得把稿子交上来。(custe o que custar)",
+    "o": [
+     "无论如何",
+     "综上所述",
+     "还别说",
+     "这样一来"
+    ],
+    "a": "无论如何",
+    "ex": "无论如何 antes de '都得' exprime determinação: 'custe o que custar, de qualquer jeito'. 综上所述 fecha argumentação enumerada; 还别说 concede com surpresa; 这样一来 anuncia consequência. Nenhum dos três pode ocupar posição de advérbio antes de 都."
+   },
+   {
+    "s": "他这个人认死理，___也说不通。(de jeito nenhum)",
+    "o": [
+     "无论如何",
+     "归根到底",
+     "你看你",
+     "简言之"
+    ],
+    "a": "无论如何",
+    "ex": "A moldura 无论如何 + 也 + negativo ('说不通') exprime impossibilidade de mudar. 归根到底 aponta a causa última e não se combina com 也 seguido de negativo; 你看你 é reprovação dirigida ao interlocutor; 简言之 resume o dito antes."
+   },
+   {
+    "s": "你们别吵了，___，这事儿就照老规矩办。(se quer saber o que eu acho)",
+    "o": [
+     "要我说",
+     "综上所述",
+     "可不",
+     "你看你"
+    ],
+    "a": "要我说",
+    "ex": "要我说 anuncia a opinião do falante para encerrar uma discussão entre outros ('你们别吵了'). 综上所述 fecharia texto escrito com argumentos enumerados; 可不 é réplica de concordância e não introduz opinião própria; 你看你 é reprovação dirigida a um interlocutor."
+   },
+   {
+    "s": "___，与其这么拖着，不如趁早把话说清楚。(na minha opinião)",
+    "o": [
+     "依我看",
+     "还别说",
+     "说到哪儿去了",
+     "这样一来"
+    ],
+    "a": "依我看",
+    "ex": "依我看 introduz o juízo próprio do falante, e o par '与其…不如…' que segue é o conteúdo desse juízo. 还别说 concede com surpresa diante de um fato; 说到哪儿去了 recusa elogio ou exagero do outro; 这样一来 anuncia consequência de fato já dito."
+   },
+   {
+    "s": "我说他今天肯定迟到，___，都九点半了人还没影儿。(olha só)",
+    "o": [
+     "这不",
+     "综上所述",
+     "无论如何",
+     "退一步说"
+    ],
+    "a": "这不",
+    "ex": "这不 aponta a evidência presente que confirma a previsão acabada de fazer ('肯定迟到'), e '都九点半了人还没影儿' é essa evidência. 综上所述 fecha argumentação escrita; 无论如何 é advérbio de determinação; 退一步说 introduz hipótese concessiva com 就算 ou 即使."
+   },
+   {
+    "s": "你别不信，___，他刚从医院回来，还带着化验单呢。(veja bem)",
+    "o": [
+     "这不",
+     "简言之",
+     "你看你",
+     "话说回来"
+    ],
+    "a": "这不",
+    "ex": "Só 这不 serve para apresentar prova concreta e presente ('还带着化验单呢') logo depois de '你别不信'. 简言之 comprimiria o dito em menos palavras; 你看你 é reprovação ao interlocutor; 话说回来 retoma o ponto principal depois de um desvio."
+   },
+   {
+    "s": "工厂搬到了郊区，___，很多老工人干脆辞职不干了。(assim sendo)",
+    "o": [
+     "这样一来",
+     "综上所述",
+     "还别说",
+     "说到哪儿去了"
+    ],
+    "a": "这样一来",
+    "ex": "这样一来 retoma a causa já dita ('工厂搬到郊区') e apresenta a consequência ('老工人辞职'). 综上所述 fecharia argumentação enumerada, e aqui há um fato único; 还别说 concede com surpresa; 说到哪儿去了 recusa exagero do outro."
+   },
+   {
+    "s": "雨水把山路冲断了，___，救援的车一时半会儿进不去。(desse modo)",
+    "o": [
+     "这样一来",
+     "无论如何",
+     "你看你",
+     "简言之"
+    ],
+    "a": "这样一来",
+    "ex": "A oração seguinte é consequência direta da causa enunciada ('山路被冲断'), que é a função de 这样一来. 无论如何 é advérbio de determinação e não conecta orações; 你看你 é reprovação ao interlocutor; 简言之 comprimiria o dito em menos palavras."
+   },
+   {
+    "s": "南方的夏天热得___,晚上根本睡不着。(calor insuportável)",
+    "o": [
+     "要命",
+     "非常",
+     "极了",
+     "特别"
+    ],
+    "a": "要命",
+    "ex": "Depois de adjetivo+得 só entra complemento de grau: 热得要命. 非常, 极了 e 特别 ou vêm antes do adjetivo (非常热) ou fecham sem 得 (热极了) — nenhum pode ocupar o lugar depois de 得."
+   },
+   {
+    "s": "排了三个钟头的队,他累得___,一进门就倒在沙发上。(exausto, pra morrer)",
+    "o": [
+     "要死",
+     "十分",
+     "非常",
+     "格外"
+    ],
+    "a": "要死",
+    "ex": "累得要死 é o complemento de grau extremo da moldura. 十分, 非常 e 格外 são advérbios que precedem o adjetivo (十分累) e nunca podem vir sozinhos depois de 得."
+   },
+   {
+    "s": "我打了好几个电话,他___,真让人着急。(nem atendeu)",
+    "o": [
+     "接都不接",
+     "接不接",
+     "都接不接",
+     "不接都"
+    ],
+    "a": "接都不接",
+    "ex": "A moldura repete o verbo com 都不 no meio: 接都不接 ('nem atendeu'). 接不接 fica interrogativo, e 都接不接 e 不接都 embaralham a ordem fixa sem formar expressão nenhuma."
+   },
+   {
+    "s": "这么贵的东西,她想___就买下来了,真大方。(sem pensar nada)",
+    "o": [
+     "都没想",
+     "没都想",
+     "都想过",
+     "不都想"
+    ],
+    "a": "都没想",
+    "ex": "想都没想 = 'sem pensar nem um segundo'. A ordem é verbo+都+没+verbo; 没都想 e 不都想 a invertem, e 都想过 quebra a moldura e o sentido de decisão impulsiva."
+   },
+   {
+    "s": "既然来了,喝___喝个痛快,别老是惦记工作。(se é pra beber, beba até o fim)",
+    "o": [
+     "就",
+     "才",
+     "都",
+     "再"
+    ],
+    "a": "就",
+    "ex": "X就X个Y prende a decisão com 就: 喝就喝个痛快. 才 marcaria condição atrasada, 都 generalizaria e 再 acrescentaria uma repetição — nenhum fecha o par de verbos iguais."
+   },
+   {
+    "s": "既然决定比赛了,___就比个高低,别怕输。(o mesmo verbo dos dois lados)",
+    "o": [
+     "比",
+     "打",
+     "赛",
+     "玩"
+    ],
+    "a": "比",
+    "ex": "A moldura exige o mesmo verbo antes e depois do 就: 比就比个高低. 打, 赛 e 玩 dariam 打就比个高低, que não repete o verbo e deixa a estrutura aberta."
+   },
+   {
+    "s": "今天的菜管饱,大家尽管吃___。(comer até encher)",
+    "o": [
+     "个够",
+     "得够",
+     "够了个",
+     "够个"
+    ],
+    "a": "个够",
+    "ex": "吃个够 é a combinação fixa: 个 abre o resultado da ação. 得够 não existe (o natural seria 吃饱 ou 吃得饱), e 够了个 e 够个 invertem a ordem 个 + resultado."
+   },
+   {
+    "s": "他一说起足球就说___,谁也插不上话。(sem parar)",
+    "o": [
+     "个没完",
+     "个不完",
+     "得没完个",
+     "没完个"
+    ],
+    "a": "个没完",
+    "ex": "说个没完 é a combinação fixa: 个 + 没完 marca a ação que não termina. 个不完 não forma essa moldura (o idiomático com 不 seria 说个不停), e 得没完个 e 没完个 invertem a ordem dos componentes."
+   },
+   {
+    "s": "你请了我一顿,___,咱们就算扯平了。(retribuir na mesma medida)",
+    "o": [
+     "我也请了你一顿",
+     "我也请你了一顿",
+     "你请了我两顿",
+     "我被你请了一顿"
+    ],
+    "a": "我也请了你一顿",
+    "ex": "X了Y,Y了X espelha a ação com os participantes trocados e o 了 logo depois do verbo. 我也请你了一顿 desloca o 了; 你请了我两顿 repete o mesmo lado e desfaz o acerto de contas; 我被你请了一顿 usa 被 para algo que não é prejuízo."
+   },
+   {
+    "s": "他骗了我,我也骗___他,现在我们俩谁也不信谁。(a ação voltou)",
+    "o": [
+     "了",
+     "得",
+     "到",
+     "给"
+    ],
+    "a": "了",
+    "ex": "O espelho é verbo+了+objeto nos dois lados: 他骗了我,我也骗了他. 得 abriria um complemento que não veio, 到 marcaria chegada e 给 introduziria um beneficiário — nenhum fecha a repetição."
+   },
+   {
+    "s": "去也好,不去___,反正我已经决定了。(tanto faz)",
+    "o": [
+     "也罢",
+     "也吧",
+     "就算",
+     "再说"
+    ],
+    "a": "也罢",
+    "ex": "X也好,Y也罢 é o par fixo, e a segunda peça é 也罢. 也吧 não existe, 就算 pediria 也 depois e 再说 abriria outro assunto — nenhum fecha a lista de possibilidades."
+   },
+   {
+    "s": "他无非是想找个台阶下___,你就别再逼他了。(apenas isso)",
+    "o": [
+     "罢了",
+     "也罢",
+     "也好",
+     "得很"
+    ],
+    "a": "罢了",
+    "ex": "无非……罢了 é o par que reduz tudo a 'apenas isso'. 也罢 e 也好 pertencem a X也好,Y也罢 e precisam vir em par; 得很 é complemento de grau e não fecha frase."
+   },
+   {
+    "s": "这只是他随便说说___,你别往心里去。(nada além de)",
+    "o": [
+     "而已",
+     "也罢",
+     "也好",
+     "得很"
+    ],
+    "a": "而已",
+    "ex": "只是……而已 = 'nada além de'. 也罢 e 也好 formam o par X也好,Y也罢 e não aparecem sozinhos no fim da frase; 得很 é complemento de grau e deixaria a frase sem fecho."
+   },
+   {
+    "s": "第一次坐飞机,他心里别提___紧张了。(nem se fala como estava)",
+    "o": [
+     "多",
+     "很",
+     "太",
+     "非常"
+    ],
+    "a": "多",
+    "ex": "别提多+adjetivo+了 é a moldura fixa do exagero. 很, 太 e 非常 são advérbios que vêm antes do adjetivo sem 别提 (很紧张) e não podem ocupar o lugar do 多."
+   },
+   {
+    "s": "那天别提有___热了,马路上的沥青都软了。(nem se fala como estava)",
+    "o": [
+     "多",
+     "真",
+     "好",
+     "非常"
+    ],
+    "a": "多",
+    "ex": "Mesmo com o 有 opcional, a moldura continua pedindo 多: 别提有多热了. 真, 好 e 非常 modificam o adjetivo diretamente (真热) e não entram depois de 有 nessa expressão."
+   },
+   {
+    "s": "这座城市的人口___北京,是全国第二多的。(perde só para)",
+    "o": [
+     "仅次于",
+     "不亚于",
+     "莫过于",
+     "不低于"
+    ],
+    "a": "仅次于",
+    "ex": "仅次于 = 'perde apenas para', o que casa com 全国第二. 不亚于 e 不低于 diriam que empata ou supera Pequim, contradizendo o segundo lugar; 莫过于 aponta o topo e exige outra construção."
+   },
+   {
+    "s": "要想学好外语,___多听多说,没有别的捷径。(nada supera)",
+    "o": [
+     "莫过于",
+     "不亚于",
+     "仅次于",
+     "胜过"
+    ],
+    "a": "莫过于",
+    "ex": "莫过于 = 'nada supera'. As outras três comparam dois termos nomeados e precisam de um sujeito antes ('A不亚于B'); aqui não há sujeito, só a conclusão de que não existe atalho melhor."
+   },
+   {
+    "s": "这种新材料的硬度一点儿也___钢铁。(não fica atrás)",
+    "o": [
+     "不亚于",
+     "仅次于",
+     "莫过于",
+     "胜于"
+    ],
+    "a": "不亚于",
+    "ex": "一点儿也 só aceita forma negativa ou de limite: 一点儿也不亚于 = 'não fica nem um pouco atrás'. 仅次于, 莫过于 e 胜于 são afirmativos e não combinam com 一点儿也."
+   },
+   {
+    "s": "他站在那儿,一时不知如何___,只好给家里打了个电话。(sem saber o que fazer)",
+    "o": [
+     "是好",
+     "就是",
+     "倒是",
+     "才是"
+    ],
+    "a": "是好",
+    "ex": "不知如何是好 é a forma fixa. 就是 afirmaria uma escolha, 倒是 marcaria contraste e 才是 deixaria a frase sem fecho — nenhum fecha a moldura depois de 不知如何."
+   },
+   {
+    "s": "听到这个消息,他___说什么才好,只是不停地摇头。(não sabia)",
+    "o": [
+     "不知",
+     "不",
+     "没",
+     "非"
+    ],
+    "a": "不知",
+    "ex": "Só 不知 pode levar 说什么才好 como objeto ('não sabia o que dizer'). 不 e 没 apenas negariam o verbo sem abrir a dúvida, e 非 exigiria 不可 ou 才 depois."
+   },
+   {
+    "s": "这台电脑___死机,已经修过三回了。(toda hora, por nada)",
+    "o": [
+     "动不动就",
+     "终于",
+     "幸亏",
+     "随手"
+    ],
+    "a": "动不动就",
+    "ex": "动不动就 marca a repetição ao menor pretexto, que explica os três consertos. 终于 apontaria um desfecho único, 幸亏 traria um alívio que não existe aqui e 随手 descreveria um gesto deliberado."
+   },
+   {
+    "s": "这孩子___哭,家里人谁都拿他没办法。(por qualquer coisa)",
+    "o": [
+     "动不动就",
+     "好不容易",
+     "总而言之",
+     "从此"
+    ],
+    "a": "动不动就",
+    "ex": "Só 动不动就 explica o desamparo da família: a criança chora à toa, toda hora. 好不容易 diria que é raro, 总而言之 fecha um raciocínio e 从此 marca um ponto no tempo — nenhum combina com 哭 repetido."
+   },
+   {
+    "s": "别想太多了,该吃就___,该睡就睡,身体要紧。(o que tem que ser, que seja)",
+    "o": [
+     "吃",
+     "喝",
+     "睡",
+     "玩"
+    ],
+    "a": "吃",
+    "ex": "该X就X repete o mesmo verbo: 该吃就吃. 喝, 睡 e 玩 quebrariam a repetição, e 睡 ainda chocaria com o 该睡就睡 que vem logo depois."
+   },
+   {
+    "s": "孩子还小,该玩就___,该学就学,别管得太死。(o que tem que ser, que seja)",
+    "o": [
+     "玩",
+     "学",
+     "跑",
+     "跳"
+    ],
+    "a": "玩",
+    "ex": "Cada metade repete o próprio verbo: 该玩就玩. 学 repetiria o 该学就学 seguinte, e 跑 e 跳 não correspondem a nenhum dos dois 该 da frase."
+   },
+   {
+    "s": "___李师傅的面子上,这次就算了,下不为例。(por consideração a)",
+    "o": [
+     "看在",
+     "看到",
+     "看看",
+     "看见"
+    ],
+    "a": "看在",
+    "ex": "Só 看在 introduz a consideração por alguém: 看在李师傅的面子上. 看到, 看看 e 看见 são verbos de percepção e não podem reger 面子 nesse sentido."
+   },
+   {
+    "s": "看在张老师___,你就别跟他一般见识了。(por consideração ao professor)",
+    "o": [
+     "的面子上",
+     "的面子来",
+     "面子上来",
+     "的面子了"
+    ],
+    "a": "的面子上",
+    "ex": "A moldura fecha com 的面子上: 看在张老师的面子上. Sem o 上 a frase fica pendurada, e 来, 上来 e 了 não servem de fecho para essa expressão."
+   },
+   {
+    "s": "这家饭馆儿的菜没什么___,咱们换一家吧。(não vale a pena comer)",
+    "o": [
+     "吃头儿",
+     "吃",
+     "头儿",
+     "吃得"
+    ],
+    "a": "吃头儿",
+    "ex": "没什么+verbo+头儿 = 'não tem nada que valha a pena'. 吃 sozinho deixaria 没什么吃 incompleto, 头儿 precisa do verbo antes e 吃得 abriria um complemento que não veio."
+   },
+   {
+    "s": "事情都定下来了,没什么好___,你安心等着吧。(não adianta discutir)",
+    "o": [
+     "说的",
+     "说得",
+     "说着",
+     "说过"
+    ],
+    "a": "说的",
+    "ex": "没什么好+verbo+的 é a variante sem 头儿, e o 的 final é obrigatório: 没什么好说的. 说得, 说着 e 说过 deixam a frase sem fecho e não formam a expressão."
+   },
+   {
+    "s": "人都走了,你还在这儿有什么___?(o que ainda dá pra esperar)",
+    "o": [
+     "想头儿",
+     "想",
+     "想了",
+     "想着"
+    ],
+    "a": "想头儿",
+    "ex": "有什么+verbo+头儿 pergunta, em tom de reprovação, o que ainda resta de aproveitável: 有什么想头儿. 想, 想了 e 想着 ficariam sem objeto e não formam a moldura."
+   },
+   {
+    "s": "___你一个老医生,怎么会犯这种低级错误?(olha só você, sendo um…)",
+    "o": [
+     "你说",
+     "你听",
+     "你问",
+     "你叫"
+    ],
+    "a": "你说",
+    "ex": "A reprovação abre com 你说+你一个+identidade: 你说你一个老医生. 你听, 你问 e 你叫 pedem um complemento de fala ou de ordem e não introduzem a crítica."
+   },
+   {
+    "s": "你说你一个老师,___学生吵架,传出去多难听。(brigar com os alunos)",
+    "o": [
+     "跟",
+     "被",
+     "把",
+     "对"
+    ],
+    "a": "跟",
+    "ex": "吵架 pede 跟 ou 和 para introduzir o outro lado: 跟学生吵架. 被 faria do professor a vítima, 把 exigiria um resultado depois do objeto e 对 não rege 吵架."
+   },
+   {
+    "s": "他挑了半天,什么大的___,一个也没要。(essas coisas todas aí)",
+    "o": [
+     "小的",
+     "小",
+     "是小",
+     "小了"
+    ],
+    "a": "小的",
+    "ex": "什么A的B的 repete o 的 nos dois membros: 什么大的小的. 小 sem 的 quebra o paralelismo, 是小 transformaria a lista em julgamento e 小了 marcaria mudança de estado."
+   },
+   {
+    "s": "___圆的方的,他都看不顺眼,真难伺候。(essas coisas todas aí)",
+    "o": [
+     "什么",
+     "怎么",
+     "为什么",
+     "哪"
+    ],
+    "a": "什么",
+    "ex": "Aqui 什么 não pergunta: abre a lista desdenhosa 什么圆的方的. 怎么 e 为什么 fariam da frase uma pergunta real, e 哪 pediria um substantivo depois, não uma enumeração em 的."
+   },
+   {
+    "s": "能不能被录取,要视你的考试成绩___。(depende de)",
+    "o": [
+     "而定",
+     "来说",
+     "而看",
+     "为准"
+    ],
+    "a": "而定",
+    "ex": "视X而定 é o par fixo ('depende de X'). 来说 pertence a 就……来说, 而看 não forma moldura nenhuma e 为准 exige 以 antes (以……为准), nunca 视."
+   },
+   {
+    "s": "比赛___一场大雨而取消了,观众们只好回家。(por causa de)",
+    "o": [
+     "因",
+     "虽然",
+     "尽管",
+     "不管"
+    ],
+    "a": "因",
+    "ex": "因……而…… liga causa e consequência no registro escrito: 因一场大雨而取消. 虽然 e 尽管 pedem 但是 ou 还是 na segunda parte e 不管 pede 都 ou 也 — nenhum combina com o 而 que já está na frase."
+   },
+   {
+    "s": "费用视人数的多少___,现在还没法报价。(depende de)",
+    "o": [
+     "而定",
+     "为主",
+     "而止",
+     "而说"
+    ],
+    "a": "而定",
+    "ex": "Só 而定 fecha 视……: 'depende do número de pessoas'. 为主 pertence a 以……为主, 而止 a 适可而止 e 而说 a 就……来说 — nenhum casa com 视."
+   },
+   {
+    "s": "为这么一点儿小事,___闹到要绝交?(não chegava a tanto)",
+    "o": [
+     "何至于",
+     "谈何",
+     "有何",
+     "莫过于"
+    ],
+    "a": "何至于",
+    "ex": "何至于 pergunta se era preciso chegar a tanto. 谈何 e 有何 exigem um adjetivo ou nome logo depois (谈何容易, 有何不可), e 莫过于 aponta o máximo, não o exagero da reação."
+   },
+   {
+    "s": "我这样做___不可?你又没吃什么亏。(que mal há nisso)",
+    "o": [
+     "有何",
+     "何至于",
+     "谈何",
+     "无非"
+    ],
+    "a": "有何",
+    "ex": "有何+adjetivo é a pergunta retórica 'que … há?': 有何不可 = 'o que é que não pode?'. 何至于 pediria um fato inteiro depois, 谈何 só combina com palavras como 容易 e 无非 abriria uma redução, não uma pergunta."
+   },
+   {
+    "s": "这活儿说起来简单,做起来___容易。(fácil, nada!)",
+    "o": [
+     "谈何",
+     "何至于",
+     "莫过于",
+     "无非"
+    ],
+    "a": "谈何",
+    "ex": "谈何+adjetivo inverte o que se esperava: 谈何容易 = 'fácil, nada!'. 何至于 perguntaria se era preciso chegar a tanto, 莫过于 apontaria o máximo e 无非 reduziria a algo pequeno — nenhum nega a facilidade anunciada."
+   },
+   {
+    "s": "好医生要想病人___所想,才能对症下药。(pensar o que o paciente pensa)",
+    "o": [
+     "之",
+     "的",
+     "所",
+     "而"
+    ],
+    "a": "之",
+    "ex": "A moldura escrita é 想+X+之所想: o 之 é o possessivo do registro formal e o 所 volta a pegar o verbo. 的 deixaria 的所想, que não é a moldura e soa truncado; 所 e 而 não têm função possessiva."
+   },
+   {
+    "s": "好的服务要急顾客___,不能只顾自己赚钱。(afligir-se com o que aflige o cliente)",
+    "o": [
+     "之所急",
+     "之急所",
+     "所之急",
+     "之所在"
+    ],
+    "a": "之所急",
+    "ex": "急X之所急 repete o verbo depois de 之所: 急顾客之所急. 之急所 e 所之急 invertem as peças, e 之所在 ('onde está') pertence a outra expressão e não dá o sentido de se afligir com o outro."
+   },
+   {
+    "s": "主席团___与会代表致以诚挚的问候。(dirigir a)",
+    "o": [
+     "向",
+     "在",
+     "从",
+     "跟"
+    ],
+    "a": "向",
+    "ex": "向+destinatário+致以 é a fórmula protocolar: 向与会代表致以问候. 在 e 从 marcam lugar e origem, e 跟 pediria um verbo de fala recíproco, não o envio de uma saudação."
+   },
+   {
+    "s": "公司向每一位老员工___崇高的敬意。(dirigir homenagem)",
+    "o": [
+     "致以",
+     "给了",
+     "做出",
+     "送到"
+    ],
+    "a": "致以",
+    "ex": "敬意 só se envia com 致以 (ou 表达) no registro formal. 给了 e 送到 tratariam a homenagem como objeto entregue, e 做出 combina com 贡献 ou 决定, nunca com 敬意."
+   },
+   {
+    "s": "这家超市要米有米,要油___,什么都能买到。(tem de tudo)",
+    "o": [
+     "有油",
+     "没油",
+     "油有",
+     "有油了"
+    ],
+    "a": "有油",
+    "ex": "要X有X repete a coisa depois do 有: 要油有油. 没油 contradiria o 什么都能买到, e 油有 e 有油了 quebram a ordem e o paralelismo da moldura."
+   },
+   {
+    "s": "这家店要货没货,要人___,老板急得直转。(falta tudo)",
+    "o": [
+     "没人",
+     "有人",
+     "人没",
+     "没人的"
+    ],
+    "a": "没人",
+    "ex": "要X没X é o lado negativo da mesma moldura e combina com o 要货没货 que vem antes e com o desespero do dono. 有人 contradiria o resto, 人没 inverte a ordem e 没人的 transformaria o fecho em atributo."
+   },
+   {
+    "s": "教书___，他还坚持每星期去一次福利院。(além de dar aulas)",
+    "o": [
+     "之余",
+     "之际",
+     "之间",
+     "之上"
+    ],
+    "a": "之余",
+    "ex": "之余 marca o tempo que sobra de uma atividade principal para outra acessória, que é a relação entre 教书 e 去福利院. 之际 situaria a segunda ação dentro do momento da primeira, o que é incompatível com 还坚持; 之间 pediria dois termos entre os quais se está; 之上 exprimiria superioridade, não tempo."
+   },
+   {
+    "s": "紧张的训练___，队员们也看看电影放松一下。(no que sobra do treino)",
+    "o": [
+     "之余",
+     "之际",
+     "之间",
+     "之上"
+    ],
+    "a": "之余",
+    "ex": "A segunda atividade (看电影放松) é acessória e ocupa o tempo que sobra da principal (训练), função exclusiva de 之余. 之际 colocaria o lazer dentro do treino; 之间 exigiria dois polos; 之上 indicaria hierarquia."
+   },
+   {
+    "s": "___公司成立十周年之际，我们举办了一场小型展览。(nesta ocasião de)",
+    "o": [
+     "值此",
+     "幸亏",
+     "虽说",
+     "与其"
+    ],
+    "a": "值此",
+    "ex": "Só 值此 forma a moldura cerimonial 值此……之际, que anuncia a ocasião de um ato formal. 幸亏 expressa sorte diante de um mal evitado; 虽说 é concessivo e pediria 但/可 depois; 与其 abre uma comparação entre duas opções."
+   },
+   {
+    "s": "___新春佳节来临之际，公司向全体员工拜年。(por ocasião de)",
+    "o": [
+     "值此",
+     "鉴于",
+     "除非",
+     "凡是"
+    ],
+    "a": "值此",
+    "ex": "A peça 之际 já está na frase, e só 值此 a completa. 鉴于 introduz a causa de uma decisão e não se combina com 之际; 除非 estabelece condição única e exigiria 否则/才; 凡是 abre uma classe inteira de pessoas ou coisas."
+   },
+   {
+    "s": "在他看来，名誉重___生命。(pesa mais que)",
+    "o": [
+     "于",
+     "比",
+     "过",
+     "得"
+    ],
+    "a": "于",
+    "ex": "Na comparação formal, o adjetivo monossilábico 重 recebe 于 para introduzir o termo comparado: 重于生命. 比 exigiria a ordem 比+termo+adjetivo (比生命重); 过 só aparece depois de verbos como 胜/超, não depois de adjetivo; 得 introduziria complemento de grau (重得很), não termo de comparação."
+   },
+   {
+    "s": "这种新材料的耐热性优___普通钢材。(superior a)",
+    "o": [
+     "于",
+     "比",
+     "过",
+     "得"
+    ],
+    "a": "于",
+    "ex": "优于 é a forma fixa da comparação escrita com adjetivo + 于. 比 exigiria inverter a ordem (比普通钢材优); 过 não se combina com 优; 得 abriria complemento de grau, não termo comparado."
+   },
+   {
+    "s": "他不肯去，一来是路太远，___是身体也不好。(segundo motivo)",
+    "o": [
+     "二来",
+     "反而",
+     "于是",
+     "况且"
+    ],
+    "a": "二来",
+    "ex": "A enumeração de razões paralelas exige a peça que corresponde a 一来, e só 二来 a fornece. 反而 inverteria a expectativa em vez de somar um motivo; 于是 anunciaria consequência; 况且 acrescentaria um argumento de reforço, não o segundo item de uma série numerada."
+   },
+   {
+    "s": "这事我不能答应，一则是时间来不及，___我也没这个能力。(segundo motivo)",
+    "o": [
+     "二则",
+     "于是",
+     "反倒",
+     "何况"
+    ],
+    "a": "二则",
+    "ex": "一则……二则…… é a versão escrita da enumeração de razões e exige 二则 como par. 于是 anunciaria consequência; 反倒 inverteria a expectativa; 何况 introduziria um argumento ainda mais forte, não o segundo item da lista."
+   },
+   {
+    "s": "___'效率'，就是用尽量少的投入办成尽量多的事。(o que se chama)",
+    "o": [
+     "所谓",
+     "假如",
+     "尽管",
+     "凡是"
+    ],
+    "a": "所谓",
+    "ex": "所谓 anuncia um termo que a oração seguinte define, e a frase é exatamente uma definição ('就是……'). 假如 introduziria hipótese; 尽管 é concessivo e pediria 但/还是; 凡是 abriria uma classe inteira de casos, não um termo a definir."
+   },
+   {
+    "s": "溪边的孩子，或捉鱼，___打水仗，玩得不亦乐乎。(uns… outros…)",
+    "o": [
+     "或",
+     "又",
+     "就",
+     "再"
+    ],
+    "a": "或",
+    "ex": "或……或…… enumera atividades que coexistem entre os membros do grupo, sem pedir escolha. 又 indicaria repetição da mesma ação pelo mesmo sujeito; 就 anunciaria consequência imediata; 再 marcaria uma segunda vez no tempo, e nenhuma das três forma par com o primeiro 或."
+   },
+   {
+    "s": "___自己多干点儿，也不让别人为难。(prefere sacrificar-se)",
+    "o": [
+     "宁可",
+     "既然",
+     "除非",
+     "幸亏"
+    ],
+    "a": "宁可",
+    "ex": "Só 宁可 aceita a segunda peça negativa 也不, que já está na frase e é o que ancora a moldura de escolha com sacrifício. 既然 exige consequência com 就; 除非 estabelece condição única e pediria 否则/才; 幸亏 expressa sorte diante de um mal evitado."
+   },
+   {
+    "s": "他宁可走两个小时的路，___坐那趟挤得慌的公交。(mesmo com sacrifício)",
+    "o": [
+     "也不",
+     "就不",
+     "反而",
+     "于是"
+    ],
+    "a": "也不",
+    "ex": "A moldura é 宁可……也不……: a segunda peça negativa é obrigatória e só 也不 a fornece. 就不 não forma par com 宁可; 反而 inverteria a expectativa em vez de marcar a opção recusada; 于是 anunciaria consequência."
+   },
+   {
+    "s": "___在这儿干等，不如先去问问。(em vez de)",
+    "o": [
+     "与其",
+     "宁可",
+     "既然",
+     "尽管"
+    ],
+    "a": "与其",
+    "ex": "A peça 不如 já está na frase, e só 与其 forma o par que descarta a primeira opção em favor da segunda. 宁可 pede 也不, não 不如; 既然 exige consequência com 就; 尽管 é concessivo e pediria 但/还是."
+   },
+   {
+    "s": "与其说是聪明，___说是运气好。(mais do que)",
+    "o": [
+     "不如",
+     "反而",
+     "于是",
+     "况且"
+    ],
+    "a": "不如",
+    "ex": "与其说是……不如说是…… é a moldura fixa de reformulação avaliativa: descarta-se uma descrição em favor de outra. 反而 inverteria sem reformular; 于是 anunciaria consequência; 况且 acrescentaria argumento de reforço."
+   },
+   {
+    "s": "这件衣服漂亮___漂亮，可惜太贵了。(bonita, ela é)",
+    "o": [
+     "是",
+     "的",
+     "了",
+     "得"
+    ],
+    "a": "是",
+    "ex": "A moldura concessiva repete o mesmo adjetivo com 是 no meio: 漂亮是漂亮. 的 formaria um atributo sem predicado; 了 marcaria mudança, não concessão; 得 introduziria complemento de grau (漂亮得…), o que deixaria o segundo 漂亮 sem função."
+   },
+   {
+    "s": "路远___远，风景是真不错。(longe, é longe)",
+    "o": [
+     "是",
+     "得",
+     "的",
+     "了"
+    ],
+    "a": "是",
+    "ex": "Só 是 completa a repetição concessiva 远是远, que prepara a ressalva '风景是真不错'. 得 pediria complemento de grau; 的 formaria atributo; 了 marcaria mudança de estado."
+   },
+   {
+    "s": "___他年纪小，主意可大了。(não se engane pela aparência)",
+    "o": [
+     "别看",
+     "既然",
+     "幸亏",
+     "无论如何"
+    ],
+    "a": "别看",
+    "ex": "别看 anuncia que a aparência (年纪小) leva a uma expectativa que a realidade desmente (主意可大了), e o 可 da segunda oração é a marca típica desse par. 既然 exige fato conhecido seguido de consequência com 就; 幸亏 expressa sorte diante de mal evitado; 无论如何 é advérbio de determinação e não abre oração concessiva."
+   },
+   {
+    "s": "___这菜样子不好看，味道可真不赖。(não se engane)",
+    "o": [
+     "别看",
+     "既然",
+     "除非",
+     "凡是"
+    ],
+    "a": "别看",
+    "ex": "Só 别看 serve para avisar que a aparência (样子不好看) engana, e o 可真 da segunda oração confirma a moldura. 既然 pediria consequência com 就; 除非 estabeleceria condição única com 否则/才; 凡是 abriria uma classe inteira de casos."
+   },
+   {
+    "s": "___他平时话不多，但关键时刻从不含糊。(embora)",
+    "o": [
+     "虽说",
+     "既然",
+     "除非",
+     "无论"
+    ],
+    "a": "虽说",
+    "ex": "A segunda peça 但 já está na frase, e só 虽说 forma com ela o par concessivo para fato real. 既然 exige 就 de consequência; 除非 pede 否则/才; 无论 abre condição irrestrita e exigiria 都/也, além de um item de escolha livre."
+   },
+   {
+    "s": "___价钱贵了点儿，可东西确实耐用。(embora)",
+    "o": [
+     "虽说",
+     "幸亏",
+     "凡是",
+     "与其"
+    ],
+    "a": "虽说",
+    "ex": "Só 虽说 se combina com o 可 da segunda oração para conceder um fato real. 幸亏 expressaria sorte diante de mal evitado, o que contradiz '贵了点儿'; 凡是 abriria uma classe inteira; 与其 iniciaria comparação entre duas opções."
+   },
+   {
+    "s": "___你同意与否，都得给个明确的答复.(independentemente de)",
+    "o": [
+     "无论",
+     "虽说",
+     "幸亏",
+     "与其"
+    ],
+    "a": "无论",
+    "ex": "Só 无论 forma a moldura 无论……与否，都……: a peça 与否 resume as duas possibilidades e o 都 seguinte exige um condicionante irrestrito. 虽说 é concessivo para fato real e não admite 与否; 幸亏 expressa sorte; 与其 compara duas opções."
+   },
+   {
+    "s": "___他答应与否，我们都按原计划进行.(seja como for)",
+    "o": [
+     "无论",
+     "假若",
+     "凡是",
+     "既然"
+    ],
+    "a": "无论",
+    "ex": "与否 só se combina com um condicionante irrestrito, e 都 na oração seguinte confirma a moldura 无论……与否，都……. 假若 introduziria uma única hipótese, não as duas; 凡是 abriria uma classe de pessoas ou coisas; 既然 exigiria fato já conhecido seguido de 就."
+   },
+   {
+    "s": "___参加考试的，均可领取准考证.(todos os que)",
+    "o": [
+     "凡",
+     "只有",
+     "虽然",
+     "万一"
+    ],
+    "a": "凡",
+    "ex": "Só 凡 abre uma classe inteira sem exceção, que é o que o 均 seguinte pressupõe. 只有 restringiria a um caso único e contradiria 均; 虽然 é concessivo e pediria 但/可; 万一 introduziria hipótese improvável."
+   },
+   {
+    "s": "本店商品，___属质量问题，一律包退换.(todo caso que)",
+    "o": [
+     "凡",
+     "即使",
+     "既然",
+     "尽管"
+    ],
+    "a": "凡",
+    "ex": "A moldura normativa 凡……一律…… cobre a classe inteira sem exceção, e é o que um aviso de loja exige. 即使 concederia um caso extremo e pediria 也; 既然 exigiria fato conhecido seguido de 就; 尽管 é concessivo com 但/还是."
+   },
+   {
+    "s": "___明天下雨，运动会就往后推一周.(se — registro escrito)",
+    "o": [
+     "假若",
+     "幸亏",
+     "凡",
+     "别看"
+    ],
+    "a": "假若",
+    "ex": "A peça 就 já está na frase, e só um conjuntivo de hipótese a completa; 假若 é a forma escrita de 如果. 幸亏 pressupõe fato ocorrido e sorte, não hipótese futura; 凡 abre classe inteira; 别看 é concessivo para fato real e visível."
+   },
+   {
+    "s": "___你当时在场，你会怎么做？(supondo que)",
+    "o": [
+     "假使",
+     "无论",
+     "凡",
+     "既然"
+    ],
+    "a": "假使",
+    "ex": "A pergunta é sobre uma situação irreal do passado, que exige conjuntivo de hipótese; 假使 cumpre isso no registro escrito. 无论 abriria condição irrestrita e exigiria 都/也; 凡 abriria classe inteira; 既然 pressuporia fato real e conhecido, incompatível com '你当时在场' irreal."
+   },
+   {
+    "s": "___路上没什么车，否则我们肯定赶不上飞机了。(ainda bem que)",
+    "o": [
+     "幸亏",
+     "既然",
+     "凡是",
+     "别看"
+    ],
+    "a": "幸亏",
+    "ex": "A segunda peça 否则 já está na frase e exige que a primeira oração enuncie o fato que evitou um mal — função de 幸亏. 既然 pressupõe fato conhecido seguido de conclusão com 就; 凡是 abre classe inteira; 别看 é concessivo sobre aparência e não admite 否则."
+   },
+   {
+    "s": "幸好他带了雨伞，___没淋着。(senão)",
+    "o": [
+     "不然",
+     "于是",
+     "反倒",
+     "况且"
+    ],
+    "a": "不然",
+    "ex": "A moldura é 幸好……不然……: a segunda peça apresenta o que teria acontecido sem o fato salvador. 于是 anunciaria consequência real, não hipótese evitada; 反倒 inverteria a expectativa; 况且 acrescentaria argumento de reforço e não forma par com 幸好."
+   },
+   {
+    "s": "___你有再多的理由，也不能动手打人。(mesmo que)",
+    "o": [
+     "纵使",
+     "既然",
+     "凡是",
+     "幸亏"
+    ],
+    "a": "纵使",
+    "ex": "A segunda peça 也 não…… já está na frase e exige concessivo de hipótese extrema; 纵使 cumpre isso no registro escrito. 既然 pressupõe fato real seguido de 就; 凡是 abre classe inteira; 幸亏 expressa sorte diante de mal evitado."
+   },
+   {
+    "s": "___条件再差，他们也没有放弃这个实验。(ainda que)",
+    "o": [
+     "纵然",
+     "只要",
+     "凡是",
+     "与其"
+    ],
+    "a": "纵然",
+    "ex": "Só 纵然 admite a hipótese extrema '条件再差' seguida de 也没有. 只要 estabelece condição suficiente e pediria 就; 凡是 abre classe inteira sem gradação; 与其 inicia comparação entre duas opções."
+   },
+   {
+    "s": "因道路施工，___公交车改走南线。(por isso — registro formal)",
+    "o": [
+     "故",
+     "可是",
+     "反而",
+     "况且"
+    ],
+    "a": "故",
+    "ex": "因……故…… é o par causal do registro escrito, e 因 já está na frase. 可是 é adversativo e inverteria a relação; 反而 marcaria resultado contrário ao esperado; 况且 acrescentaria argumento de reforço. Nenhum fecha uma relação de causa e consequência."
+   },
+   {
+    "s": "___他长期熬夜，身体才出了毛病。(devido a)",
+    "o": [
+     "因",
+     "故",
+     "虽说",
+     "除非"
+    ],
+    "a": "因",
+    "ex": "A peça 才 da segunda oração pede uma causa, e só 因 a introduz no par 因……才/故……. 故 é a consequência e não pode abrir a frase; 虽说 é concessivo e pediria 但/可; 除非 estabelece condição única com 否则/才."
+   },
+   {
+    "s": "雨下了一整夜，___山上的小路全冲坏了。(a ponto de)",
+    "o": [
+     "以至于",
+     "虽说",
+     "除非",
+     "凡是"
+    ],
+    "a": "以至于",
+    "ex": "A segunda oração é o resultado extremo da primeira, função de 以至于. 虽说 é concessivo e pediria 但/可; 除非 estabelece condição única com 否则/才; 凡是 abre classe inteira."
+   },
+   {
+    "s": "他太紧张了，___说话都结巴起来。(tanto que)",
+    "o": [
+     "以至",
+     "幸亏",
+     "与其",
+     "别看"
+    ],
+    "a": "以至",
+    "ex": "Só 以至 introduz o resultado extremo de um estado ('太紧张了'). 幸亏 expressaria sorte diante de mal evitado; 与其 iniciaria comparação entre duas opções; 别看 é concessivo sobre aparência e não introduz resultado."
+   },
+   {
+    "s": "___大人搬不动，连小伙子也搬不动。(sem falar em)",
+    "o": [
+     "别说",
+     "幸亏",
+     "凡是",
+     "与其"
+    ],
+    "a": "别说",
+    "ex": "A segunda peça 连……也…… já está na frase e exige que a primeira apresente o caso mais forte como óbvio — função de 别说. 幸亏 expressa sorte; 凡是 abre classe inteira sem gradação; 与其 compara duas opções."
+   },
+   {
+    "s": "别说他不会游泳，___会游泳的也不敢下水。(até)",
+    "o": [
+     "就是",
+     "于是",
+     "反而",
+     "况且"
+    ],
+    "a": "就是",
+    "ex": "A moldura é 别说……就是……也……: 就是 apresenta o caso extremo que reforça o argumento, e o 也 seguinte o ancora. 于是 anunciaria consequência; 反而 inverteria a expectativa; 况且 acrescentaria argumento paralelo, não o caso extremo."
+   },
+   {
+    "s": "这孩子成绩下降___，上课还老说话。(não bastasse)",
+    "o": [
+     "不说",
+     "于是",
+     "反而",
+     "况且"
+    ],
+    "a": "不说",
+    "ex": "……不说，还…… apresenta um primeiro defeito para depois acrescentar outro pior, e a peça 还 já está na frase. 于是 anunciaria consequência; 反而 inverteria a expectativa; 况且 acrescentaria argumento de reforço mas não forma o par com 还."
+   },
+   {
+    "s": "他不认错___，反倒怪起别人来了。(não bastasse)",
+    "o": [
+     "不说",
+     "虽说",
+     "除非",
+     "凡是"
+    ],
+    "a": "不说",
+    "ex": "Só 不说 forma a moldura que acumula dois comportamentos censuráveis, com 反倒 introduzindo o segundo, ainda pior. 虽说 é concessivo e pediria 但/可; 除非 estabelece condição única; 凡是 abre classe inteira."
+   },
+   {
+    "s": "___小孩子都知道这个道理，你还问？(até)",
+    "o": [
+     "连",
+     "虽说",
+     "除非",
+     "凡是"
+    ],
+    "a": "连",
+    "ex": "Só 连 marca o caso extremo como argumento de reforço, e o 都 seguinte é a peça que o ancora. 虽说 é concessivo e pediria 但/可; 除非 estabelece condição única com 否则/才; 凡是 abre classe inteira sem gradação."
+   },
+   {
+    "s": "他连自己的房间都懒得收拾，___让他照顾别人了。(quanto mais)",
+    "o": [
+     "更不用说",
+     "就是",
+     "虽说",
+     "于是"
+    ],
+    "a": "更不用说",
+    "ex": "更不用说……了 fecha a gradação aberta por 连……都……, descartando o caso ainda mais improvável. 就是 é a peça interna de 别说……就是……, que exigiria 别说 antes; 虽说 é concessivo e pediria 但/可; 于是 anunciaria consequência de fato anterior."
+   },
+   {
+    "s": "专家___解决不了，何况我们这些人。(até)",
+    "o": [
+     "尚且",
+     "连",
+     "别说",
+     "凡是"
+    ],
+    "a": "尚且",
+    "ex": "A peça 何况 já está na frase, e só 尚且 forma com ela o par 尚且……何况……. 连 exigiria 都/也 na mesma oração e não se combina com 何况; 别说 abriria a moldura 别说……就是……; 凡是 abre classe inteira sem gradação."
+   },
+   {
+    "s": "这么近的路他___不愿意走，何况十公里。(se até…)",
+    "o": [
+     "尚且",
+     "幸亏",
+     "虽说",
+     "除非"
+    ],
+    "a": "尚且",
+    "ex": "Só 尚且 admite o caso extremo como concedido, seguido de 何况 que descarta o caso ainda mais improvável. 幸亏 expressa sorte diante de mal evitado; 虽说 é concessivo e pediria 但/可; 除非 estabelece condição única com 否则/才."
+   },
+   {
+    "s": "___保密起见，这个计划暂时不对外公布。(por medida de)",
+    "o": [
+     "为了",
+     "虽说",
+     "除非",
+     "凡是"
+    ],
+    "a": "为了",
+    "ex": "A peça 起见 já está na frase e só 为了……起见 a completa, indicando o motivo preventivo da medida. 虽说 é concessivo e pediria 但/可; 除非 estabelece condição única com 否则/才; 凡是 abre classe inteira."
+   },
+   {
+    "s": "公司增加了两道检验，___保证产品质量。(a fim de)",
+    "o": [
+     "以",
+     "故",
+     "反倒",
+     "况且"
+    ],
+    "a": "以",
+    "ex": "Só 以 introduz a finalidade na segunda oração, no registro escrito: 'a fim de garantir'. 故 apresentaria consequência de causa anterior, não finalidade; 反倒 inverteria a expectativa; 况且 acrescentaria argumento de reforço."
+   },
+   {
+    "s": "他这个人很固执,___你亲自去请才肯帮忙。(ele só ajuda se você for pessoalmente)",
+    "o": [
+     "非得",
+     "虽然",
+     "既然",
+     "哪怕"
+    ],
+    "a": "非得",
+    "ex": "O par fixo é 非得……才……: só 非得 admite o 才 de 'só então'. 虽然 e 哪怕 pedem 但是/还是 ou 也, e 既然 pede 就 — nenhum dos três fecha com 才."
+   },
+   {
+    "s": "这药太苦,孩子___加点儿糖才肯喝。(só se puser um pouco de açúcar)",
+    "o": [
+     "非得",
+     "宁可",
+     "尽管",
+     "既然"
+    ],
+    "a": "非得",
+    "ex": "非得更点儿糖才肯喝 = 'só com um pouco de açúcar é que ele aceita beber'. 宁可 pede 也不, 尽管 pede 还是 e 既然 pede 就, então nenhum combina com o 才 da frase."
+   },
+   {
+    "s": "___大家怎么劝,他也要自己去做这件事。(por mais que todos aconselhem)",
+    "o": [
+     "任",
+     "虽然",
+     "既然",
+     "除非"
+    ],
+    "a": "任",
+    "ex": "任 + 怎么 (escolha livre) + ……也…… = concessão extrema. 虽然 e 既然 pedem um fato concreto, não 怎么 + verbo, e 除非 abriria condição única com 才/否则, nunca concessão com 也."
+   },
+   {
+    "s": "___你解释得多清楚,他也不会相信你。(por mais claro que você explique)",
+    "o": [
+     "任凭",
+     "只要",
+     "幸亏",
+     "既然"
+    ],
+    "a": "任凭",
+    "ex": "任凭 + 多清楚 (escolha livre) fecha com 也: 'por mais claro que você explique'. 只要 pede 就 e não admite 多 + adjetivo; 幸亏 anunciaria um fato de sorte, o que contradiz 也不会相信; 既然 pede 就 com uma consequência lógica."
+   },
+   {
+    "s": "这孩子___看见针就哭,谁也没办法。(assim que vê a agulha)",
+    "o": [
+     "一",
+     "每",
+     "又",
+     "越"
+    ],
+    "a": "一",
+    "ex": "一 + verbo + 就 + verbo é a sequência imediata comprimida. 每 pediria 都 no segundo membro, 又 marcaria a repetição de um fato já ocorrido (e dispensaria o 就) e 越 exigiria um segundo 越 logo depois — nenhum casa com o 就 que já está na frase."
+   },
+   {
+    "s": "他一喝酒___脸红,所以从来不喝。(fica vermelho na hora)",
+    "o": [
+     "就",
+     "才",
+     "再",
+     "都"
+    ],
+    "a": "就",
+    "ex": "Com 一 já no enunciado, só 就 liga o gatilho ao resultado imediato. 才 pediria 直到/只有 antes, 再 indicaria repetição futura e 都 generalizaria sobre vários casos — nenhum combina com 一 + verbo."
+   },
+   {
+    "s": "他___把问题弄清楚不可,谁都劝不住。(faz questão de esclarecer tudo)",
+    "o": [
+     "非",
+     "一定",
+     "偏偏",
+     "才"
+    ],
+    "a": "非",
+    "ex": "非 + ação + 不可 = 'faz questão de, custe o que custar'; é o 不可 final que exige o 非. 一定 e 偏偏 são advérbios que não pedem essa peça de fechamento, e 才 exigiria uma condição antes."
+   },
+   {
+    "s": "他___你亲自道歉不罢休。(ele só para se você se desculpar pessoalmente)",
+    "o": [
+     "非",
+     "只要",
+     "幸亏",
+     "何必"
+    ],
+    "a": "非",
+    "ex": "非 + condição + 不 + verbo: 'não sossega enquanto você não se desculpar'. 只要 pediria 就 no segundo membro, 幸亏 anunciaria um fato de sorte e 何必 faria uma pergunta retórica — nenhum fecha com 不罢休."
+   },
+   {
+    "s": "事情___变越复杂,大家都没了主意。(quanto mais complicado fica)",
+    "o": [
+     "越",
+     "更",
+     "再",
+     "又"
+    ],
+    "a": "越",
+    "ex": "越……越…… exige o 越 repetido nos dois lados: 越变越复杂. 更 e 又 marcariam grau ou repetição num ponto só, e 再 abriria uma hipótese futura — nenhum deles aceita o segundo 越 que já está na frase."
+   },
+   {
+    "s": "他越解释___糊涂,谁也听不明白。(quanto mais explica, mais confuso)",
+    "o": [
+     "越",
+     "就",
+     "都",
+     "才"
+    ],
+    "a": "越",
+    "ex": "A segunda peça da moldura é 越: 越解释越糊涂. 就, 都 e 才 ligariam condição, totalidade ou limite, não duas mudanças que crescem juntas, e deixariam o primeiro 越 sem par."
+   }
+  ],
+  "frases": [
+   {
+    "zh": "后辈们都很佩服这位老先生。",
+    "pt": "Os mais novos admiram muito esse velho senhor."
+   },
+   {
+    "zh": "两个人的人生观完全不同。",
+    "pt": "Os dois têm concepções de vida totalmente diferentes."
+   },
+   {
+    "zh": "我巴不得他马上答应。",
+    "pt": "Eu queria mais é que ele aceitasse logo."
+   },
+   {
+    "zh": "你犯不着为这件事生气。",
+    "pt": "Não vale a pena você ficar bravo por causa disso."
+   },
+   {
+    "zh": "所谓的新方法并不新。",
+    "pt": "O tal método novo não tem nada de novo."
+   },
+   {
+    "zh": "学校对我们的建议予以支持。",
+    "pt": "A escola deu apoio às nossas sugestões."
+   },
+   {
+    "zh": "大家都同意,只有他除外。",
+    "pt": "Todos concordaram; só ele ficou de fora."
+   },
+   {
+    "zh": "彼时我还不懂什么叫责任。",
+    "pt": "Naquela época eu ainda não sabia o que era responsabilidade."
+   },
+   {
+    "zh": "这么着吧,我们明天再去。",
+    "pt": "Vamos fazer assim: a gente vai amanhã."
+   },
+   {
+    "zh": "他提出了若干建议。",
+    "pt": "Ele apresentou algumas sugestões."
+   },
+   {
+    "zh": "他获得了一枚金牌。",
+    "pt": "Ele ganhou uma medalha de ouro."
+   },
+   {
+    "zh": "孩子挨了一通批评。",
+    "pt": "A criança levou uma bronca daquelas."
+   },
+   {
+    "zh": "参加者达三千人次。",
+    "pt": "O total chegou a três mil participações."
+   },
+   {
+    "zh": "我对他越发不放心了。",
+    "pt": "Fico cada vez menos tranquilo em relação a ele."
+   },
+   {
+    "zh": "这些商品均为正品。",
+    "pt": "Todos esses produtos são originais."
+   },
+   {
+    "zh": "问题尚未解决。",
+    "pt": "O problema ainda não foi resolvido."
+   },
+   {
+    "zh": "他屡次迟到,受到了批评。",
+    "pt": "Ele se atrasou várias vezes e foi criticado."
+   },
+   {
+    "zh": "这两种说法截然不同。",
+    "pt": "Essas duas versões são completamente diferentes."
+   },
+   {
+    "zh": "他擅自改了计划。",
+    "pt": "Ele mudou o plano por conta própria."
+   },
+   {
+    "zh": "病了三天，他照常上班。",
+    "pt": "Doente há três dias, ele foi trabalhar normalmente."
+   },
+   {
+    "zh": "把行李一并带上。",
+    "pt": "Leve a bagagem toda junto."
+   },
+   {
+    "zh": "他执意不肯休息。",
+    "pt": "Ele insiste em não descansar."
+   },
+   {
+    "zh": "特此公告，请周知。",
+    "pt": "Por este ato se anuncia; que todos tomem conhecimento."
+   },
+   {
+    "zh": "这消息不见得可靠。",
+    "pt": "Essa notícia não é necessariamente confiável."
+   },
+   {
+    "zh": "问题太多，势必得改。",
+    "pt": "São problemas demais; inevitavelmente vai ter de mudar."
+   },
+   {
+    "zh": "何不早一点儿告诉我？",
+    "pt": "Por que não me contou um pouco antes?"
+   },
+   {
+    "zh": "这样做未免可惜。",
+    "pt": "Fazer assim é um desperdício."
+   },
+   {
+    "zh": "怪不得他不高兴。",
+    "pt": "Não é à toa que ele ficou chateado."
+   },
+   {
+    "zh": "万万不可大意。",
+    "pt": "De jeito nenhum se pode descuidar."
+   },
+   {
+    "zh": "索性早点儿走，省得堵车。",
+    "pt": "É melhor sair mais cedo, para evitar o trânsito."
+   },
+   {
+    "zh": "他偏偏选在今天请假。",
+    "pt": "Ele foi justamente escolher hoje para tirar folga."
+   },
+   {
+    "zh": "好在没人受伤。",
+    "pt": "Ao menos ninguém se machucou."
+   },
+   {
+    "zh": "此乃小事，不必挂怀。",
+    "pt": "Isto é coisa pequena; não se preocupe."
+   },
+   {
+    "zh": "打这儿往北走三公里。",
+    "pt": "Daqui para o norte, três quilômetros."
+   },
+   {
+    "zh": "别当着外人说这事。",
+    "pt": "Não fale disso na frente de estranhos."
+   },
+   {
+    "zh": "经公司批准，项目正式启动。",
+    "pt": "Aprovado pela empresa, o projeto foi lançado oficialmente."
+   },
+   {
+    "zh": "他会英语，以及一点儿法语。",
+    "pt": "Ele fala inglês, e um pouco de francês."
+   },
+   {
+    "zh": "带上伞，免得淋雨。",
+    "pt": "Leve o guarda-chuva, para não se molhar."
+   },
+   {
+    "zh": "倘若失败，我们就重来。",
+    "pt": "Se fracassarmos, recomeçamos."
+   },
+   {
+    "zh": "去也罢，不去也罢。",
+    "pt": "Indo ou não indo, tanto faz."
+   },
+   {
+    "zh": "他忽冷忽热，让人摸不透。",
+    "pt": "Ele ora é frio ora é caloroso; não dá para entender."
+   },
+   {
+    "zh": "他不三不四地笑了笑。",
+    "pt": "Ele deu um riso sem jeito."
+   },
+   {
+    "zh": "桌子上一团乱七八糟。",
+    "pt": "Em cima da mesa, uma bagunça só."
+   },
+   {
+    "zh": "他们俩不约而同地笑了。",
+    "pt": "Os dois riram ao mesmo tempo, sem combinar."
+   },
+   {
+    "zh": "这种小广告无处不在。",
+    "pt": "Esse tipo de anúncio está em toda parte."
+   },
+   {
+    "zh": "证据确凿，他无可辩驳。",
+    "pt": "As provas são conclusivas; ele não tem como contestar."
+   },
+   {
+    "zh": "没人管，那些野花自生自灭。",
+    "pt": "Sem ninguém cuidando, aquelas flores silvestres vivem por conta própria."
+   },
+   {
+    "zh": "不瞒你说，我没看懂这篇文章。",
+    "pt": "Para ser franco, não entendi este artigo."
+   },
+   {
+    "zh": "不是，你怎么能答应他？",
+    "pt": "Ora, mas como você pôde concordar com ele?"
+   },
+   {
+    "zh": "不是我说你，你也太粗心了。",
+    "pt": "Não é por falar, mas você é descuidado demais."
+   },
+   {
+    "zh": "他病了，换句话说，来不了了。",
+    "pt": "Ele está doente; dito de outro modo, não vai poder vir."
+   },
+   {
+    "zh": "总的来说，这次做得不错。",
+    "pt": "No geral, desta vez foi bem feito."
+   },
+   {
+    "zh": "话是这么说，可他毕竟还小。",
+    "pt": "Lá isso é verdade, mas ele ainda é pequeno."
+   },
+   {
+    "zh": "—他真能吃苦。—可不，谁都比不了。",
+    "pt": "—Ele aguenta muito sofrimento. —Pois é, ninguém se compara."
+   },
+   {
+    "zh": "还别说，这汤味道真不错。",
+    "pt": "Olha só, essa sopa está gostosa mesmo."
+   },
+   {
+    "zh": "真是的，又忘带钥匙了。",
+    "pt": "Que coisa, esqueci a chave de novo."
+   },
+   {
+    "zh": "—你真厉害！—说到哪儿去了。",
+    "pt": "—Você é incrível! —Imagina."
+   },
+   {
+    "zh": "无论如何，你都要去一趟。",
+    "pt": "Custe o que custar, você tem de ir."
+   },
+   {
+    "zh": "依我看，这事儿急不得。",
+    "pt": "Na minha opinião, isso aqui não dá para apressar."
+   },
+   {
+    "zh": "找了一天的钥匙，这不，就在桌上。",
+    "pt": "A chave que procurei o dia todo — olha só, está em cima da mesa."
+   },
+   {
+    "zh": "他临时改了主意，这样一来计划全乱了。",
+    "pt": "Ele mudou de ideia de última hora; assim sendo, o plano inteiro ficou bagunçado."
+   },
+   {
+    "zh": "话说到这个份上，我就直说了。",
+    "pt": "Já que a conversa chegou a esse ponto, vou ser direto."
+   },
+   {
+    "zh": "他怕得要命,一句话也说不出来。",
+    "pt": "Ele estava morrendo de medo, não conseguiu dizer uma palavra."
+   },
+   {
+    "zh": "他问都不问就走了。",
+    "pt": "Ele foi embora sem nem perguntar."
+   },
+   {
+    "zh": "要吃就吃个够,别客气。",
+    "pt": "Se é pra comer, coma à vontade; sem cerimônia."
+   },
+   {
+    "zh": "这事必须查个水落石出。",
+    "pt": "Esse caso tem que ser apurado até o fim."
+   },
+   {
+    "zh": "你等我,我等你,结果谁也没见着谁。",
+    "pt": "Você me esperou, eu esperei você, e no fim ninguém se encontrou."
+   },
+   {
+    "zh": "钱多也好,钱少也罢,日子照样过。",
+    "pt": "Com muito ou pouco dinheiro, a vida segue do mesmo jeito."
+   },
+   {
+    "zh": "别提多难吃了,我一口也没动。",
+    "pt": "Nem se fala de ruim que estava; não toquei em nada."
+   },
+   {
+    "zh": "他的手艺不亚于他师傅。",
+    "pt": "A habilidade dele não fica atrás da do mestre."
+   },
+   {
+    "zh": "我急得不知怎么办才好。",
+    "pt": "Fiquei tão aflito que não sabia o que fazer."
+   },
+   {
+    "zh": "他动不动就说不干了。",
+    "pt": "Ele vive dizendo que vai largar o emprego."
+   },
+   {
+    "zh": "该买的就买,别舍不得。",
+    "pt": "Compre o que tem que comprar; não fique mesquinho."
+   },
+   {
+    "zh": "看在孩子的面子上,我忍了。",
+    "pt": "Por consideração às crianças, eu aguentei."
+   },
+   {
+    "zh": "这地方没什么玩头儿。",
+    "pt": "Esse lugar não tem nada de interessante pra fazer."
+   },
+   {
+    "zh": "你说你一个大人,还跟孩子抢东西。",
+    "pt": "Olha só você, um adulto, e ainda disputa coisa com a criança."
+   },
+   {
+    "zh": "什么贵的便宜的,他都不买。",
+    "pt": "Caro ou barato, ele não compra nada."
+   },
+   {
+    "zh": "去不去视情况而定。",
+    "pt": "Se vamos ou não depende da situação."
+   },
+   {
+    "zh": "这事谈何容易,别想得太简单。",
+    "pt": "Isso não é nada fácil; não pense que é simples."
+   },
+   {
+    "zh": "想读者之所想,急读者之所急。",
+    "pt": "Pensar o que o leitor pensa, afligir-se com o que o aflige."
+   },
+   {
+    "zh": "向你们致以新年的问候。",
+    "pt": "Dirijo a vocês os cumprimentos de ano-novo."
+   },
+   {
+    "zh": "要什么有什么,真是个好地方。",
+    "pt": "Tem tudo o que se possa querer; é um ótimo lugar."
+   },
+   {
+    "zh": "工作之余，他也写写小说。",
+    "pt": "Fora do trabalho, ele também escreve uns romances."
+   },
+   {
+    "zh": "值此开幕之际，我向大家致谢。",
+    "pt": "Nesta ocasião de abertura, agradeço a todos."
+   },
+   {
+    "zh": "他的经验多于我。",
+    "pt": "Ele tem mais experiência do que eu."
+   },
+   {
+    "zh": "一来路远，二来天也晚了。",
+    "pt": "Primeiro, é longe; segundo, já está tarde."
+   },
+   {
+    "zh": "所谓朋友，就是能说实话的人。",
+    "pt": "O que se chama de amigo é quem consegue dizer a verdade."
+   },
+   {
+    "zh": "他们或唱歌，或跳舞。",
+    "pt": "Uns cantam, outros dançam."
+   },
+   {
+    "zh": "我宁可走路，也不挤车。",
+    "pt": "Prefiro ir a pé a me espremer no transporte."
+   },
+   {
+    "zh": "与其等，不如自己去找。",
+    "pt": "Em vez de esperar, é melhor ir procurar por conta própria."
+   },
+   {
+    "zh": "贵是贵，质量确实好。",
+    "pt": "Caro é caro, mas a qualidade é boa mesmo."
+   },
+   {
+    "zh": "别看他瘦，力气可大了。",
+    "pt": "Não se engane: ele é magro, mas tem uma força danada."
+   },
+   {
+    "zh": "虽说是旧书，内容并不过时。",
+    "pt": "Embora seja um livro velho, o conteúdo não está ultrapassado."
+   },
+   {
+    "zh": "无论同意与否，都要签字。",
+    "pt": "Concorde ou não, é preciso assinar."
+   },
+   {
+    "zh": "凡有票者，均可入场。",
+    "pt": "Todos os que tiverem ingresso poderão entrar."
+   },
+   {
+    "zh": "假若你来，我就留下。",
+    "pt": "Se você vier, eu fico."
+   },
+   {
+    "zh": "幸亏带了伞，不然就淋湿了。",
+    "pt": "Ainda bem que trouxe guarda-chuva; senão teria me molhado."
+   },
+   {
+    "zh": "纵使天气不好，比赛照常进行。",
+    "pt": "Ainda que o tempo esteja ruim, o jogo acontece normalmente."
+   },
+   {
+    "zh": "因病缺席，故未参加比赛。",
+    "pt": "Por estar doente, não participou da competição."
+   },
+   {
+    "zh": "他跑得太快，以至我追不上。",
+    "pt": "Ele correu tão rápido que não consegui acompanhar."
+   },
+   {
+    "zh": "别说他，连我也不相信。",
+    "pt": "Sem falar nele, até eu não acredito."
+   },
+   {
+    "zh": "他不来不说，还打电话骂人。",
+    "pt": "Não bastasse não vir, ele ainda ligou para xingar."
+   },
+   {
+    "zh": "连他都会，更不用说你了。",
+    "pt": "Se até ele consegue, quanto mais você."
+   },
+   {
+    "zh": "老师尚且答不上，何况学生。",
+    "pt": "Se até o professor não soube responder, quanto mais os alunos."
+   },
+   {
+    "zh": "为了健康起见，他戒了烟。",
+    "pt": "Por medida de saúde, ele parou de fumar."
+   },
+   {
+    "zh": "非得他签字,这事才算完。",
+    "pt": "Só quando ele assinar é que esse assunto estará encerrado."
+   },
+   {
+    "zh": "任路多难走,我们也要去。",
+    "pt": "Por mais difícil que seja o caminho, nós vamos."
+   },
+   {
+    "zh": "他一进门就脱掉了外套。",
+    "pt": "Assim que entrou, ele tirou o casaco."
+   },
+   {
+    "zh": "他非去不可,谁也拦不住。",
+    "pt": "Ele faz questão de ir; ninguém consegue impedir."
+   },
+   {
+    "zh": "你不教我,我也能学会。",
+    "pt": "Mesmo sem você me ensinar, eu consigo aprender."
+   },
+   {
+    "zh": "她越说越激动,我们劝不住。",
+    "pt": "Quanto mais ela falava, mais se exaltava; não conseguimos acalmá-la."
+   },
+   {
+    "zh": "他既喜欢音乐,又喜欢运动,还喜欢旅行。",
+    "pt": "Ele gosta de música, de esportes e também de viajar."
+   },
+   {
+    "zh": "虽然很累,但他没休息,反而接着干。",
+    "pt": "Apesar de cansado, ele não descansou; ao contrário, continuou."
+   },
+   {
+    "zh": "要是下雨就不去,不去就改天再说。",
+    "pt": "Se chover, não vamos; se não formos, combinamos outro dia."
+   },
+   {
+    "zh": "因为下雨,路很滑;由于路滑,车开得很慢。",
+    "pt": "Porque choveu, a rua está escorregadia; e, por estar escorregadia, os carros andam devagar."
+   },
+   {
+    "zh": "他不但会唱歌,还会跳舞,甚至会写歌。",
+    "pt": "Ele não só canta, como dança e até compõe."
+   },
+   {
+    "zh": "他先洗手,然后吃饭,最后去看书。",
+    "pt": "Ele primeiro lava as mãos, depois come e por fim vai ler."
+   },
+   {
+    "zh": "教室前面是黑板,后面是书架,旁边是窗户。",
+    "pt": "Na frente da sala fica o quadro, atrás a estante e ao lado a janela."
+   },
+   {
+    "zh": "路上很滑,因为下了一夜的雨。",
+    "pt": "A rua está escorregadia porque choveu a noite toda."
+   },
+   {
+    "zh": "他学习很用功,还常常帮同学。",
+    "pt": "Ele estuda com dedicação e ainda ajuda os colegas com frequência."
+   },
+   {
+    "zh": "这事就这么定了。至于费用,下次再谈。",
+    "pt": "Isso já está decidido. Quanto às despesas, conversamos outra hora."
+   },
+   {
+    "zh": "他站起来,走到窗前,看着外面的雨。",
+    "pt": "Ele se levantou, foi até a janela e ficou olhando a chuva lá fora."
+   },
+   {
+    "zh": "下了车,他一眼就看见了妻子。",
+    "pt": "Ao descer do carro, ele viu a esposa de imediato."
+   }
+  ]
  }
 }
