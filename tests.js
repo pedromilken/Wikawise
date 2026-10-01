@@ -12,6 +12,8 @@ ok(Math.abs(cnt(2) - 200) <= 3, "HSK 2 tem ~200 palavras: " + cnt(2));
 ok(Math.abs(cnt(3) - 500) <= 3, "HSK 3 tem ~500 palavras: " + cnt(3));
 ok((DATA.writing[2] || []).length === 100, "100 caracteres de escrita no nível 2");
 ok(!DATA.writing[1], "nível 1 não exige escrita à mão");
+ok(DATA.levels.length === 7 && cnt(7) > 5500, "faixa 7–9 presente: " + cnt(7));
+ok((DATA.writing[7] || []).length === 500, "500 caracteres de escrita na faixa 7–9");
 ok(DATA.words.filter(w => w.lv <= 2).every(w => w.pt), "todas as palavras dos níveis 1 e 2 têm glosa em português");
 ok(DATA.words.every(w => w.p && /[a-zāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜüńňǹ]/i.test(w.p)), "toda palavra tem pinyin");
 /* unidades */
@@ -20,7 +22,7 @@ ok(new Set(ids).size === ids.length, "ids de unidade únicos");
 ok(DATA.levels.every(L => L.units.every(u => u.w.every(z => E.WORD[z]))), "toda palavra de unidade existe");
 /* itens */
 const caps = { voice: true, mic: true, writer: true };
-const all = [...ids.map(id => E.itemsFor(id, caps)), [1, 2, 3, 4, 5, 6].map(l => E.itemsFor("g" + l, caps)), Array.from({ length: 14 }, (_, i) => E.itemsFor("c" + String(i + 1).padStart(2, "0"), caps))].flat(2);
+const all = [...ids.map(id => E.itemsFor(id, caps)), [1, 2, 3, 4, 5, 6, 7].map(l => E.itemsFor("g" + l, caps)), Array.from({ length: 14 }, (_, i) => E.itemsFor("c" + String(i + 1).padStart(2, "0"), caps))].flat(2);
 ok(new Set(all.map(i => i.id)).size === all.length, "ids de item únicos (" + all.length + ")");
 ok(all.every(i => i.d >= 1 && i.d <= 3 && i.c > 0 && i.c < 1 && i.dim && i.lv), "itens têm d, c, dim e lv");
 ok(!all.some(i => i.type === "write" && i.lv < 2 && i.skill[0] === "h"), "sem escrita à mão no vocabulário do nível 1");

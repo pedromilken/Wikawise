@@ -20,7 +20,9 @@ function el(tag, attrs, ...kids) {
 const pct = p => Math.round(p * 100) + "%";
 const $app = () => document.getElementById("app");
 const pad = n => String(n).padStart(2, "0");
-const skillName = s => s[0] === "h" ? `HSK ${s[1]} · ${t("unit")} ${+s.slice(3)}` : s[0] === "g" ? `HSK ${s.slice(1)} · ${t("module")} ${s.slice(1)}` : `${t("course")} · ${+s.slice(1) >= 13 ? DATA.course.lessons.find(l => l.n === +s.slice(1)).t : t("lessonOf", { n: +s.slice(1) })}`;
+const LVN = lv => +lv === 7 ? "7–9" : String(lv);
+const stageOf = lv => lv <= 3 ? t("stageEl") : lv <= 6 ? t("stageInt") : t("stageAdv");
+const skillName = s => s[0] === "h" ? `HSK ${LVN(s[1])} · ${t("unit")} ${+s.slice(3)}` : s[0] === "g" ? `HSK ${LVN(s.slice(1))} · ${t("module")} ${LVN(s.slice(1))}` : `${t("course")} · ${+s.slice(1) >= 13 ? DATA.course.lessons.find(l => l.n === +s.slice(1)).t : t("lessonOf", { n: +s.slice(1) })}`;
 
 /* ---------- rastreamento ---------- */
 const M = skill => { const tr = S.skills[skill]; return tr ? KT.mastery(tr, PILOT) : E.prior(skill, x => S.skills[x] ? KT.mastery(S.skills[x], PILOT) : 0); };
@@ -101,7 +103,7 @@ function pHome(m) {
       el("div", { class: "row" }, el("button", { class: "btn", onclick: () => { S.started = true; save(); go("map"); } }, played ? t("continue") : t("start")), el("button", { class: "btn ghost", onclick: () => go("arsenal") }, "📚 " + t("arsenal")))),
     el("section", { class: "pillars" },
       [["stages", "三等九级"], ["dims", "四维基准"], ["skills", "五项技能"], ["tracking", "KT"]].map(([k, zh]) => el("article", {}, el("h3", {}, t(k), " ", el("span", { class: "hz dim" }, zh)), el("p", {}, t(k + "Txt"))))),
-    el("section", { class: "levels-strip" }, DATA.levels.map(L => { const st = DATA.standards[L.lv]; return el("button", { class: "lvl", onclick: () => { S.started = true; save(); go("map", L.lv); } }, el("b", {}, "HSK " + L.lv), el("span", {}, st.cum + " " + t("words")), el("span", { class: "muted" }, L.chars.length + " 字 · ✍️ " + ((DATA.writing[L.lv] || []).length))); })),
+    el("section", { class: "levels-strip" }, DATA.levels.map(L => { const st = DATA.standards[L.lv]; return el("button", { class: "lvl", onclick: () => { S.started = true; save(); go("map", L.lv); } }, el("b", {}, "HSK " + LVN(L.lv)), el("span", {}, st.cum + " " + t("words")), el("span", { class: "muted" }, L.chars.length + " 字 · ✍️ " + ((DATA.writing[L.lv] || []).length))); })),
     el("p", { class: "muted small" }, t("dataNote")));
 }
 
@@ -115,9 +117,9 @@ function pMap(m) {
   const focus = ROUTE.arg;
   DATA.levels.forEach(L => {
     const open = E.levelOpen(S, L.lv, M), st = DATA.standards[L.lv];
-    const stage = L.lv <= 3 ? (S.lang === "pt" ? "Elementar" : "Elementary") : (S.lang === "pt" ? "Intermediário" : "Intermediate");
+    const stage = stageOf(L.lv);
     const sec = el("section", { class: "level" + (open ? "" : " closed"), id: "lv" + L.lv },
-      el("div", { class: "level-h" }, el("h2", {}, "HSK " + L.lv), el("span", { class: "tag" }, stage),
+      el("div", { class: "level-h" }, el("h2", {}, "HSK " + LVN(L.lv)), el("span", { class: "tag" }, stage),
         el("span", { class: "muted" }, `${st.words} ${t("words")} (${st.cum}) · ${L.chars.length} 字 · ✍️ ${(DATA.writing[L.lv] || []).length}` + (st.gram ? ` · ${st.gram} ${t("grammar").toLowerCase()}` : ""))),
       open ? null : el("p", { class: "muted" }, t("lockedLevel", { l: L.lv - 1 }), " ", S.inv.key > 0 ? el("button", { class: "btn small", onclick: () => { S.inv.key--; S.keyed["L" + L.lv] = true; save(); render(); } }, "🗝️ " + t("useKey", { n: S.inv.key })) : null),
       el("div", { class: "units" }, L.units.map(unitChip)));
@@ -131,10 +133,10 @@ function pArsenal(m) {
   m.append(el("h2", {}, "📚 " + t("arsenal")), el("p", { class: "muted" }, t("arsenalTxt")));
   DATA.levels.forEach(L => {
     const s = "g" + L.lv, pts = (DATA.grammarPT[L.lv] || []).length, its = E.grammarItems(L.lv).length, st = status(s), has = S.skills[s] && S.skills[s].n;
-    const stage = L.lv <= 3 ? t("stageEl") : t("stageInt");
+    const stage = stageOf(L.lv);
     m.append(el("button", { class: "lesson gramcard " + st, onclick: () => go("skill", s) },
-      el("span", { class: "ln" }, L.lv),
-      el("span", {}, el("b", {}, `${t("module")} ${L.lv} · HSK ${L.lv}`), " ", el("span", { class: "tag" }, stage), st === "locked" ? el("span", { class: "tag" }, "🔒 " + t("locked")) : null, el("br"),
+      el("span", { class: "ln" }, LVN(L.lv)),
+      el("span", {}, el("b", {}, `${t("module")} ${LVN(L.lv)} · HSK ${LVN(L.lv)}`), " ", el("span", { class: "tag" }, stage), st === "locked" ? el("span", { class: "tag" }, "🔒 " + t("locked")) : null, el("br"),
         el("span", { class: "muted small" }, t("modCounts", { w: DATA.standards[L.lv].words, c: L.chars.length, e: (DATA.writing[L.lv] || []).length, p: pts, i: its }) + (pts ? "" : " · " + t("gramPendingShort")))),
       el("span", { class: "pc" }, has ? pct(M(s)) : "—")));
   });
@@ -163,10 +165,10 @@ function pSkill(m) {
   const s = ROUTE.arg, kind = s[0], lv = kind === "h" ? +s[1] : kind === "g" ? +s.slice(1) : E.COURSE_LV(+s.slice(1));
   const open = E.skillOpen(S, s, M);
   const items = E.itemsFor(s, CAPS);
-  const tabs = kind === "h" ? ["practice", "wordsH", "support"] : kind === "g" ? ["theory"].concat(items.length ? ["practice"] : [], ["vocabMod", "chars", "official"], lv === 2 ? ["courseM2"] : [], ["support"]) : ["theory", "practice"].concat(DATA.course.read.some(r => r.a === +s.slice(1)) ? ["reading"] : []).concat(["vocab"]);
+  const tabs = kind === "h" ? ["practice", "wordsH", "support"] : kind === "g" ? ["theory"].concat(items.length ? ["practice"] : [], ["vocabMod", "chars", "official", "support"]) : ["theory", "practice"].concat(DATA.course.read.some(r => r.a === +s.slice(1)) ? ["reading"] : []).concat(["vocab"]);
   if (!TAB[s] || !tabs.includes(TAB[s])) TAB[s] = kind === "h" ? (open ? "practice" : "wordsH") : tabs[0];
   const title = kind === "c" ? (+s.slice(1) >= 13 ? "" : t("lessonOf", { n: +s.slice(1) }) + " — ") + DATA.course.lessons.find(l => l.n === +s.slice(1)).t : skillName(s);
-  m.append(el("div", { class: "row between" }, el("button", { class: "btn ghost small", onclick: () => { if (kind === "c") { TAB.g2 = "courseM2"; go("skill", "g2"); } else go(kind === "g" ? "arsenal" : "map", kind === "h" ? lv : null); } }, "← " + t("back")),
+  m.append(el("div", { class: "row between" }, el("button", { class: "btn ghost small", onclick: () => go(kind === "g" || kind === "c" ? "arsenal" : "map", kind === "h" ? lv : null) }, "← " + t("back")),
     el("div", { class: "meter" }, el("span", {}, t("mastery") + " " + pct(M(s))), el("div", { class: "track" }, el("div", { class: "fill", style: `width:${pct(M(s))}` })))),
     el("h2", {}, title));
   if (!open) {
@@ -198,17 +200,18 @@ function wordsTab(box, list, courseVocab) {
   box.append(el("div", { class: "scroll" }, el("table", { class: "words" }, el("tbody", {}, rows))), el("p", { class: "muted small" }, t("strokes") + ": " + (S.lang === "pt" ? "toque no caractere." : "tap the character.")));
 }
 function supportTab(box, lv) {
-  const links = [["matOfficial", "https://github.com/leonsilicon/hsk3.1/tree/main/data/HSK3.1"], ["matCTI", "https://www.chinesetest.cn"], ["matAudio", "https://www.baulchino.com/hsk-audios"], ["matMock", "https://www.baulchino.com/hsk-mock-test"], ["matBooks", "https://www.baulchino.com/libros-hsk"]];
-  box.append(el("h3", {}, t("material") + " · HSK " + lv), el("ul", { class: "links" }, links.map(([k, u]) => el("li", {}, el("a", { href: u, target: "_blank", rel: "noopener" }, t(k))))), el("p", { class: "note" }, t("matVersion")), el("p", { class: "muted small" }, t("matRights")));
+  const sec = (title, links, note) => [el("h3", {}, title), el("ul", { class: "links" }, links.map(([k, u]) => el("li", {}, el("a", { href: u, target: "_blank", rel: "noopener" }, t(k))))), note];
+  box.append(...sec(t("mat30") + " · HSK " + LVN(lv), [["matOfficial", "https://github.com/leonsilicon/hsk3.1/tree/main/data/HSK3.1"], ["matCTI", "https://www.chinesetest.cn"]], el("p", { class: "muted small" }, t("mat30Note"))));
+  if (lv <= 6) box.append(...sec(t("mat20"), [["matAudio", "https://www.baulchino.com/hsk-audios"], ["matMock", "https://www.baulchino.com/hsk-mock-test"], ["matBooks", "https://www.baulchino.com/libros-hsk"]], el("p", { class: "note" }, t("matVersion"), " ", t("matRights"))));
 }
 function officialTab(box, lv) {
   box.append(el("p", { class: "muted" }, t("officialNote")), el("ul", { class: "official" }, (DATA.grammarOfficial[lv] || []).map(l => el("li", { class: "hz-ui" }, l))));
 }
 function grammarPoints(box, lv) {
   const st = DATA.standards[lv];
-  box.append(el("div", { class: "modhead" }, el("p", {}, t("modIntro", { l: lv, w: st.words, cum: st.cum, c: DATA.levels[lv - 1].chars.length, e: (DATA.writing[lv] || []).length }) + (st.gram ? " " + t("modGram", { g: st.gram }) : ""))));
+  box.append(el("div", { class: "modhead" }, el("p", {}, t("modIntro", { l: LVN(lv), w: st.words, cum: st.cum, c: DATA.levels[lv - 1].chars.length, e: (DATA.writing[lv] || []).length }) + (st.gram ? " " + t("modGram", { g: st.gram }) : ""))));
   if (!(DATA.grammarPT[lv] || []).length) { box.append(el("p", { class: "note" }, t("gramPending"))); return; }
-  (DATA.grammarPT[lv] || []).forEach(g => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, g.t), el("p", { class: "muted" }, g.e), el("p", { class: "ex" }, el("span", { class: "hz" }, g.zh), el("span", { class: "py pyo" }, g.py), el("span", {}, g.pt)), g.aula ? el("button", { class: "linkish", onclick: () => go("skill", "c" + pad(g.aula)) }, (g.aula >= 13 ? "📘 " + DATA.course.lessons.find(l => l.n === g.aula).t : t("coveredIn", { n: g.aula }))) : null), sayBtn(g.zh))));
+  (DATA.grammarPT[lv] || []).forEach(g => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, g.t), el("p", { class: "muted" }, g.e), el("p", { class: "ex" }, el("span", { class: "hz" }, g.zh), el("span", { class: "py pyo" }, g.py), el("span", {}, g.pt))), sayBtn(g.zh))));
 }
 function courseTheory(box, n) {
   (DATA.course.theory[n] || []).forEach(r => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, r.s), el("p", { class: "muted" }, r.u), el("p", { class: "ex" }, el("span", { class: "hz" }, r.zh), el("span", { class: "py pyo" }, r.py), el("span", {}, r.pt))), sayBtn(r.zh))));
@@ -344,7 +347,7 @@ function pReport(m) {
     el("p", {}, el("b", {}, S.name || "—"), " · ", new Date().toLocaleDateString(S.lang === "pt" ? "pt-BR" : "en"), " · ", t("role")[GAME.role(S.xpTotal)], " · ✨ " + S.xpTotal + " XP"),
     el("div", { class: "stats" }, el("div", {}, el("b", {}, all.length), t("answers")), el("div", {}, el("b", {}, acc == null ? "—" : pct(acc)), t("accuracy")), el("div", {}, el("b", {}, Object.keys(S.skills).filter(k => M(k) >= KT.master(PILOT)).length), t("mastered"))));
   /* habilidades e dimensões por nível */
-  const dimsT = el("table", { class: "grid" }, el("thead", {}, el("tr", {}, el("th", {}, t("colSkill")), DATA.levels.map(L => el("th", {}, "HSK " + L.lv)))),
+  const dimsT = el("table", { class: "grid" }, el("thead", {}, el("tr", {}, el("th", {}, t("colSkill")), DATA.levels.map(L => el("th", {}, "HSK " + LVN(L.lv))))),
     el("tbody", {}, E.DIMS.map(d => el("tr", {}, el("td", {}, t("dim_" + d)), DATA.levels.map(L => { const tr = S.dims[L.lv + ":" + d]; return el("td", {}, tr && tr.n ? el("span", { class: "cellbar", style: `--p:${Math.round(KT.mastery(tr, PILOT) * 100)}` }, pct(KT.mastery(tr, PILOT)), el("small", {}, " n=" + tr.n)) : el("span", { class: "muted" }, "—")); })))));
   m.append(el("h3", {}, t("repSkills")), el("div", { class: "scroll" }, dimsT));
   if (!CAPS.voice) m.append(el("p", { class: "muted small" }, t("noVoice"))); if (!CAPS.mic) m.append(el("p", { class: "muted small" }, t("noMic")));
@@ -353,7 +356,7 @@ function pReport(m) {
   DATA.levels.forEach(L => {
     const ids = L.units.map(u => u.id).concat(["g" + L.lv]); const touched = ids.filter(id => S.skills[id] && S.skills[id].n);
     if (!touched.length && !E.levelOpen(S, L.lv, M)) return;
-    m.append(el("h4", {}, "HSK " + L.lv), el("div", { class: "scroll" }, el("table", { class: "grid" }, el("thead", {}, el("tr", {}, ["colSkill", "colN", "colAcc", "colMastery", "colStatus"].map(k => el("th", {}, t(k))))),
+    m.append(el("h4", {}, "HSK " + LVN(L.lv)), el("div", { class: "scroll" }, el("table", { class: "grid" }, el("thead", {}, el("tr", {}, ["colSkill", "colN", "colAcc", "colMastery", "colStatus"].map(k => el("th", {}, t(k))))),
       el("tbody", {}, ids.map(id => { const s = statsOf(id), stt = status(id); return el("tr", { class: stt }, el("td", {}, skillName(id)), el("td", {}, s.n), el("td", {}, s.acc == null ? "—" : pct(s.acc)), el("td", {}, S.skills[id] && S.skills[id].n ? pct(M(id)) : t("notYet")), el("td", {}, t("st_" + stt))); })))));
   });
   /* curso */

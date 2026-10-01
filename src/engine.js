@@ -5,7 +5,7 @@ const ENGINE = (() => {
   const WORD = {}; DATA.words.forEach(w => { if (!WORD[w.z]) WORD[w.z] = w; });
   const UNITS = {}; DATA.levels.forEach(L => L.units.forEach(u => { UNITS[u.id] = u; }));
   const WRITE_UPTO = {}; let acc = new Set();
-  for (let lv = 1; lv <= 6; lv++) { (DATA.writing[lv] || []).forEach(c => acc.add(c)); WRITE_UPTO[lv] = new Set(acc); }
+  for (let lv = 1; lv <= 7; lv++) { (DATA.writing[lv] || []).forEach(c => acc.add(c)); WRITE_UPTO[lv] = new Set(acc); }
   const DIMS = ["listen", "speak", "read", "write", "translate", "syllable", "grammar"];
   const UNLOCK = 0.6, L0 = 0.15;
 

@@ -53,11 +53,11 @@ def py_fallback(w):
 levels = []
 words = []
 seen = set()
-for lv in range(1, 7):
+for lv in range(1, 8):  # 7 = faixa avançada 7–9 (高等), que tem uma lista única no programa
     official = flat(json.load(open(F / f"HSK3.1_words_level{lv}.json", encoding="utf-8")))
     bylv = {}
     for r in rows:
-        if r["lv"] == str(lv) and r["w"] not in bylv:
+        if r["lv"] == ("7-9" if lv == 7 else str(lv)) and r["w"] not in bylv:
             bylv[r["w"]] = r
     lvwords = []
     for w in official:
@@ -215,7 +215,7 @@ if EXT.exists():
         if (a, zh) not in have: CURSO["vocab"].append({"a": a, "zh": zh, "py": py, "pt": pt})
     CURSO["write"] = {n: [{"ch": c, "py": PY_WORD.get(c) or pinyin(c, style=Style.TONE)[0][0]} for c in s if "\u4e00" <= c <= "\u9fff"] for n, s in X.get("write", {}).items()}
 
-GRAM_L = {lv: [] for lv in range(1, 7)}
+GRAM_L = {lv: [] for lv in range(1, 8)}
 for lv, t, e, zh, pt, aula in GP:
     GRAM_L[lv].append({"t": t, "e": e, "zh": zh, "py": py_text(zh), "pt": pt, "aula": aula})
 GITEMS = []
@@ -257,6 +257,7 @@ DATA = {
         "1": {"words": 300, "cum": 300, "gram": 70}, "2": {"words": 200, "cum": 500, "gram": 78},
         "3": {"words": 500, "cum": 1000, "gram": 96}, "4": {"words": 1000, "cum": 2000},
         "5": {"words": 1600, "cum": 3600}, "6": {"words": 1800, "cum": 5400},
+        "7": {"words": 5636, "cum": 11092},
     },
 }
 js = "/* Gerado por tools/build_data.py. Não edite à mão. */\nconst DATA = " + json.dumps(DATA, ensure_ascii=False, separators=(",", ":")) + ";\n"

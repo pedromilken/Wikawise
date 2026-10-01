@@ -8,7 +8,7 @@ Treino adaptativo de **mandarim para o HSK 3.0**, com *knowledge tracing*, cinco
 
 | Conteúdo | Origem | Quantidade |
 |---|---|---|
-| Vocabulário dos níveis 1 a 6 | Programa do exame HSK (CLEC, nov. 2025), com pinyin e classe gramatical | 5.389 palavras em 109 unidades de 50 |
+| Vocabulário dos níveis 1 a 6 e da faixa 7–9 | Programa do exame HSK (CLEC, nov. 2025), com pinyin e classe gramatical | 10.974 palavras em 221 unidades de 50 |
 | Caracteres de leitura (认读字) | mesmo programa | por nível |
 | Caracteres de escrita à mão (书写字) | mesmo programa | 100 no nível 2; 150 nos níveis 3 a 6; nenhum no nível 1 |
 | Gramática oficial (语法大纲) | mesmo programa, texto original | níveis 1 a 6 |
@@ -21,7 +21,7 @@ As glosas em **português** cobrem todo o vocabulário dos níveis 1 e 2. Nos n�
 
 ## Princípios do HSK 3.0 aplicados
 
-- **Três etapas, nove níveis (三等九级).** O mapa segue os níveis 1 a 6 (etapas elementar e intermediária) com o vocabulário *novo* de cada nível, conforme o programa de 2025 (300, 200, 500, 1.000, 1.600 e 1.800 palavras; 300, 500, 1.000, 2.000, 3.600 e 5.400 acumuladas). O nível 7–9 fica de fora nesta versão.
+- **Três etapas, nove níveis (三等九级).** O mapa segue os níveis 1 a 6 (etapas elementar e intermediária) com o vocabulário *novo* de cada nível, conforme o programa de 2025 (300, 200, 500, 1.000, 1.600 e 1.800 palavras; 300, 500, 1.000, 2.000, 3.600 e 5.400 acumuladas). A faixa avançada 7–9 entra como um módulo único, porque os níveis 7, 8 e 9 têm uma prova e uma lista de vocabulário em comum (5.636 palavras novas, 1.148 caracteres de leitura, 500 de escrita).
 - **Quatro dimensões (四维基准).** Cada exercício treina uma: **sílabas** (pinyin com tons), **caracteres** (escrita à mão), **vocabulário** (significado e tradução) e **gramática** (lacunas e frases).
 - **Cinco habilidades (听说读写译).** Tipos de exercício por habilidade:
 
@@ -37,7 +37,7 @@ As glosas em **português** cobrem todo o vocabulário dos níveis 1 e 2. Nos n�
 
 ## Arsenal HSK (módulos 1 a 6)
 
-A aba **Arsenal HSK** tem um módulo por nível do HSK 3.0, cada um com as abas Teoria, Praticar, Vocabulário, Caracteres (leitura e escrita à mão, com ordem dos traços), Programa oficial e Material de apoio; o módulo 2 inclui o Curso M2. A sequência segue o programa oficial do HSK 3.0, que é a base dos livros novos; o texto dos livros não é reproduzido.
+A aba **Arsenal HSK** tem um módulo por nível do HSK 3.0 (1 a 6 e a faixa 7–9), todos com as mesmas abas: Teoria, Praticar, Vocabulário, Caracteres (leitura e escrita à mão, com ordem dos traços), Programa oficial e Material de apoio. No Material de apoio, o HSK 3.0 (programa oficial) e o HSK 2.0 (livros, áudios e simulados da série Standard Course, como referência) ficam separados. A sequência segue o programa oficial do HSK 3.0, que é a base dos livros novos; o texto dos livros não é reproduzido.
 
 A teoria reúne, nível a nível, os pontos explicados (com exemplo, pinyin e tradução), os exercícios (lacunas e frases para montar) e o texto do programa oficial (语法大纲). Os níveis 1 e 2 têm conteúdo autoral; os níveis 3 a 6 são gerados no Qwen Code, parte por parte, a partir do programa oficial:
 
