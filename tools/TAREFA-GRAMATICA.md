@@ -44,3 +44,19 @@ Toda lacuna deve ter **exatamente uma** opção que produza frase gramatical **e
 - **Autocheck final:** leia o item com cada uma das 4 opções em voz alta (mentalmente); a resposta certa é a única frase que um nativo aprovaria **sem** o hint. Se precisar do hint para decidir, o distrator ainda é forte demais.
 
 Essas regras valem para as próximas partes (gram-3-02 a gram-6-02).
+
+## Armadilhas de auditoria (erros recorrentes — evitar ao escrever e ao revisar)
+
+Lista consolidada da revisão "professor nativo" de gram-3-01…05 e gram-4-01…05. Ao escrever ou revisar um item, cheque cada uma:
+
+1. **Distrator de sequência/causa/conclusão que fecha a frase:** `于是`, `就`, `才`, `因为/由于`, `所以`, `而且`, `一定`, `多/几`, `让`. Ex.: "他很想买,___钱不够" aceita `却` mas também leria bem com conectivos; "会议___在下午三点开" aceita `一定`. Cura: contexto que bloqueie a leitura (hipótese irreal para `要是/就是…也`; futuro não realizado para `虽然/尽管`; item livre obrigatório para `不管/无论`; quantidade fixa antes/depois para `大约/左右/来/多`; `还好赶上了` para forçar `差一点` = não aconteceu).
+2. **Quase-sinônimos na mesma lacuna (ambos naturais):** `让/被/叫/给` (passiva), `使/让` (causativo), `当/做` (选…当/做), `尽管/虽然`, `要是/如果`, `就是/即使`, `不管/无论`, `大约/左右/前后`, `连/甚至`, `既…又/也`, `不是…而是/就是/只是`, `怎么/谁` em retórica, `死了/极了/坏了/得很` (grau), `得了/得住/得完` (possibilidade). Cura: nunca oferecer os dois lados do par; se o par for inevitável, mude o frame para um apoio sintático que só um aceita (`谁+都/也`, `V+得+厉害` vs `adj+极了`, `被选为`, `把+O+V+在`).
+3. **Resposta que gera frase agramatical (frame montado errado):** o clássico `看了___` + `了又` → `看了了又`. O frame certo é `看___看` / `想___想` (V+了+又+V). Sempre preencher a lacuna com a resposta e ler em voz alta antes de gravar.
+4. **Partícula obrigatória do frame ausente, deixando distrator caber:** `难道…吗?` escrito sem `吗` deixa `怎么/什么` caberem; pares correlativos (`一边…一边`, `一…就`, `X也得X,不X也得X`) com uma peça só. Cura: incluir a partícula que ancora o frame (`吗`, a segunda peça do par) e tirar da lista de opções qualquer palavra que case com a frase sem ela (ex.: `到底` aceita `吗`, então não serve de distrator quando há `吗`).
+5. **Lacuna léxica disfarçada de gramática:** completar um caractere de palavra fixa (`图书___`=馆, `三___二`=点) testa vocabulário, não estrutura. Cura: reposicionar a lacuna para a estrutura (ordem de leitura `三___五公里`, posição do medidor, `把+O+V+在/给`, frame `谁+都/也`).
+6. **Item que espelha ou copia a frase-exemplo do ponto:** o aluno reconhece pelo exemplo, não pela gramática. Cura: trocar o contexto/verbo mantendo o frame.
+7. **`ex` desalinhado das opções:** citar um distrator que não está na lista, ou afirmar regra falsa ("`甚至` não combina com `都`"). O `ex` deve justificar exatamente as 4 opções presentes.
+8. **Gabarito invertido:** a resposta gera frase ruim e um distrator gera a boa. Sempre testar a resposta E cada distrator preenchidos.
+9. **Ordem/colocação antinatural com a resposta:** `他都每天运动` (→ `每天都`), `好不迟到`, `就是太晚` (concessivo pede hipótese, não fato), `尽管+NP nu`. Ler a frase pronta como nativo.
+10. **Cobertura por ponto:** ao revisar, confira que cada ponto tem ≥2 itens; pontos de frame comprimido (`不…也…`, `动词+一X是一X`) tendem a ficar com 1 só.
+
