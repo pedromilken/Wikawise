@@ -155,5 +155,23 @@ const ENGINE = (() => {
     return L0;
   }
 
-  return { wordOf, WORD, UNITS, DIMS, UNLOCK, L0, WRITE_UPTO, gloss, glossIsFallback, pinyinVariants, itemsFor, unitItems, grammarItems, courseItems, options, answerKey, pick, levelOpen, unitOpen, skillOpen, prior, shuffle, rng, COURSE_LV };
+  /* pinyin para qualquer texto: segmenta pela palavra mais longa do vocabulário oficial e cai para o pinyin do caractere */
+  const MAXW = Math.min(8, Math.max(...Object.keys(WORD).map(z => z.length)));
+  function pyTokens(text) {
+    const out = []; const s = String(text || ""); let i = 0, buf = "";
+    const flush = () => { if (buf) { out.push({ t: buf, p: null }); buf = ""; } };
+    while (i < s.length) {
+      if (!/[\u4e00-\u9fff]/.test(s[i])) { buf += s[i++]; continue; }
+      flush();
+      let hit = null;
+      for (let L = Math.min(MAXW, s.length - i); L > 1; L--) { const p = s.slice(i, i + L); if (WORD[p]) { hit = p; break; } }
+      if (hit) { out.push({ t: hit, p: WORD[hit].p }); i += hit.length; }
+      else { out.push({ t: s[i], p: (DATA.pyc || {})[s[i]] || "" }); i++; }
+    }
+    flush(); return out;
+  }
+  const toneless = s => String(s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ü/g, "v").replace(/[^a-z]/gi, "").toLowerCase();
+  const pinyinOf = text => pyTokens(text).filter(x => x.p).map(x => x.p).join(" ");
+
+  return { pyTokens, toneless, pinyinOf, wordOf, WORD, UNITS, DIMS, UNLOCK, L0, WRITE_UPTO, gloss, glossIsFallback, pinyinVariants, itemsFor, unitItems, grammarItems, courseItems, options, answerKey, pick, levelOpen, unitOpen, skillOpen, prior, shuffle, rng, COURSE_LV };
 })();

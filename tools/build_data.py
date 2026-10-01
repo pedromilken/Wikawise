@@ -244,11 +244,39 @@ if GPT.exists():
         for i, f in enumerate(blk.get("frases", [])):
             GSENT.append({"id": f"s{lv}n{i:03d}", "lv": lv, "zh": f["zh"], "pt": f["pt"], "t": toks(f["zh"]), "py": py_text(f["zh"])})
 
+
+# programa de gramática em tabela (extraído do PDF pelas colunas: 类别, 类别名称, 细目, 语法内容) + nomes das categorias em português
+TAB = json.load(open(F / "gramatica_tabela.json", encoding="utf-8"))
+TERMOS = json.load(open(F / "gramatica_termos_pt.json", encoding="utf-8"))
+GTAB = {}
+cur = {}
+for lv, c, n, s, txt in TAB:
+    if cur.get("lv") != lv: cur = {"lv": lv, "c": "", "n": "", "s": ""}
+    if c: cur["c"], cur["n"], cur["s"] = c, "", ""
+    if n: cur["n"], cur["s"] = n, ""
+    if s is not None: cur["s"] = s or ""
+    if not txt and s is None: continue
+    GTAB.setdefault(str(lv), []).append([cur["c"], cur["n"], cur["s"], txt or ""])
+def termo(x):
+    m = re.match(r"^(.*?)(\d*)$", x or "")
+    base, num = m.group(1), m.group(2)
+    return (TERMOS.get(base, "") + (" " + num if num and TERMOS.get(base) else "")) if base else ""
+GTERM = {x: termo(x) for rows_ in GTAB.values() for r in rows_ for x in r[:3] if x}
+
+
+# pinyin por caractere, para mostrar pinyin sob qualquer caractere da interface
+_txt = json.dumps([words, GRAM, GTAB, GRAM_L, GITEMS, GSENT, CURSO], ensure_ascii=False)
+PYC = {}
+for ch in sorted(set(re.findall(r"[\u4e00-\u9fff]", _txt))):
+    PYC[ch] = PARTICLE.get(ch) or pinyin(ch, style=Style.TONE)[0][0]
 DATA = {
     "levels": levels,
     "words": words,
     "writing": ESC,
     "grammarOfficial": GRAM,
+    "grammarTable": GTAB,
+    "grammarTerms": GTERM,
+    "pyc": PYC,
     "grammarPT": GRAM_L,
     "gItems": GITEMS,
     "gSent": GSENT,

@@ -20,6 +20,27 @@ function el(tag, attrs, ...kids) {
 const pct = p => Math.round(p * 100) + "%";
 const $app = () => document.getElementById("app");
 const pad = n => String(n).padStart(2, "0");
+/* texto com pinyin sobre os caracteres (ruby) quando "Mostrar pinyin" está ligado; force = false desliga para o item */
+function zh(text, force) {
+  const n = el("span", { class: "zh", lang: "zh-CN" });
+  const on = force === undefined ? S.py : force;
+  for (const tk of E.pyTokens(text)) {
+    if (tk.p && on) { const r = document.createElement("ruby"); r.append(tk.t); const rt = document.createElement("rt"); rt.textContent = tk.p; r.append(rt); n.append(r); }
+    else n.append(tk.t);
+  }
+  return n;
+}
+/* rede de segurança: qualquer texto com caracteres que entre na página ganha pinyin (ruby), exceto onde o pinyin entregaria a resposta
+   ou já aparece ao lado (marcados com data-nopy, a grade 田字格 e campos de texto) */
+const NOPY = "ruby,rt,script,style,textarea,input,select,option,.tzg,.hzcell,.logo,.hero-grid,.unit,.chat,[data-nopy]";
+function annotate(root) {
+  if (!S.py || !root) return;
+  const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, { acceptNode: n => /[\u4e00-\u9fff]/.test(n.nodeValue) && !(n.parentElement && n.parentElement.closest(NOPY)) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT });
+  const nodes = []; while (walker.nextNode()) nodes.push(walker.currentNode);
+  nodes.forEach(n => n.replaceWith(zh(n.nodeValue, true)));
+}
+const PYOBS = new MutationObserver(ms => { if (!S.py) return; ms.forEach(m => m.addedNodes.forEach(n => { if (n.nodeType === 1) annotate(n); else if (n.nodeType === 3 && n.parentElement) annotate(n.parentElement); })); });
+document.addEventListener("DOMContentLoaded", () => PYOBS.observe(document.getElementById("app") || document.body, { childList: true, subtree: true }));
 const LVN = lv => +lv === 7 ? "7–9" : String(lv);
 const stageOf = lv => lv <= 3 ? t("stageEl") : lv <= 6 ? t("stageInt") : t("stageAdv");
 const skillName = s => s[0] === "h" ? `HSK ${LVN(s[1])} · ${t("unit")} ${+s.slice(3)}` : s[0] === "g" ? `HSK ${LVN(s.slice(1))} · ${t("module")} ${LVN(s.slice(1))}` : `${t("course")} · ${+s.slice(1) >= 13 ? DATA.course.lessons.find(l => l.n === +s.slice(1)).t : t("lessonOf", { n: +s.slice(1) })}`;
@@ -88,6 +109,7 @@ function render() {
   const main = el("main", {}); app.append(main);
   const P = { home: pHome, map: pMap, arsenal: pArsenal, course: pArsenal, grammar: pArsenal, report: pReport, shop: pShop, settings: pSettings, skill: pSkill }[ROUTE.page] || pHome;
   P(main);
+  annotate(app);
 }
 
 /* ---------- início ---------- */
@@ -144,7 +166,7 @@ function pArsenal(m) {
 }
 function charsTab(box, lv) {
   const L = DATA.levels[lv - 1], wr = new Set(DATA.writing[lv] || []);
-  const grid = cs => el("div", { class: "chargrid" }, cs.map(c => el("button", { class: "hzcell hz" + (wr.has(c) ? " w" : ""), title: t("strokes"), onclick: () => strokeDialog(c) }, c)));
+  const grid = cs => el("div", { class: "chargrid" }, cs.map(c => el("button", { class: "hzcell hz" + (wr.has(c) ? " w" : ""), title: t("strokes"), onclick: () => strokeDialog(c) }, c, S.py ? el("small", { class: "py" }, (DATA.pyc || {})[c] || "") : null)));
   box.append(el("p", { class: "muted" }, t("charsTxt", { n: L.chars.length, e: wr.size })), el("h3", {}, t("charsRead")), grid(L.chars));
   if (wr.size) box.append(el("h3", {}, t("charsWrite")), grid([...wr]));
 }
@@ -205,16 +227,23 @@ function supportTab(box, lv) {
   if (lv <= 6) box.append(...sec(t("mat20"), [["matAudio", "https://www.baulchino.com/hsk-audios"], ["matMock", "https://www.baulchino.com/hsk-mock-test"], ["matBooks", "https://www.baulchino.com/libros-hsk"]], el("p", { class: "note" }, t("matVersion"), " ", t("matRights"))));
 }
 function officialTab(box, lv) {
-  box.append(el("p", { class: "muted" }, t("officialNote")), el("ul", { class: "official" }, (DATA.grammarOfficial[lv] || []).map(l => el("li", { class: "hz-ui" }, l))));
+  const rows = DATA.grammarTable[lv] || [], T = DATA.grammarTerms || {};
+  const term = x => x ? el("span", {}, zh(x), T[x] && S.lang === "pt" ? el("small", { class: "muted" }, " · " + T[x]) : null) : "";
+  box.append(el("p", { class: "muted" }, t("officialNote2", { n: rows.length })));
+  let lastC = null, tb = null;
+  rows.forEach(([c, n, s, txt]) => {
+    if (c !== lastC) { lastC = c; tb = el("tbody"); box.append(el("h3", {}, term(c)), el("div", { class: "scroll" }, el("table", { class: "grid official2" }, el("thead", {}, el("tr", {}, el("th", {}, t("ofName")), el("th", {}, t("ofSub")), el("th", {}, t("ofContent")))), tb))); }
+    tb.append(el("tr", {}, el("td", {}, term(n)), el("td", {}, term(s)), el("td", { class: "ofc" }, zh(txt))));
+  });
 }
 function grammarPoints(box, lv) {
   const st = DATA.standards[lv];
   box.append(el("div", { class: "modhead" }, el("p", {}, t("modIntro", { l: LVN(lv), w: st.words, cum: st.cum, c: DATA.levels[lv - 1].chars.length, e: (DATA.writing[lv] || []).length }) + (st.gram ? " " + t("modGram", { g: st.gram }) : ""))));
   if (!(DATA.grammarPT[lv] || []).length) { box.append(el("p", { class: "note" }, t("gramPending"))); return; }
-  (DATA.grammarPT[lv] || []).forEach(g => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, g.t), el("p", { class: "muted" }, g.e), el("p", { class: "ex" }, el("span", { class: "hz" }, g.zh), el("span", { class: "py pyo" }, g.py), el("span", {}, g.pt))), sayBtn(g.zh))));
+  (DATA.grammarPT[lv] || []).forEach(g => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, zh(g.t)), el("p", { class: "muted" }, zh(g.e)), el("p", { class: "ex" }, el("span", { class: "hz" }, g.zh), el("span", { class: "py pyo" }, g.py), el("span", {}, g.pt))), sayBtn(g.zh))));
 }
 function courseTheory(box, n) {
-  (DATA.course.theory[n] || []).forEach(r => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, r.s), el("p", { class: "muted" }, r.u), el("p", { class: "ex" }, el("span", { class: "hz" }, r.zh), el("span", { class: "py pyo" }, r.py), el("span", {}, r.pt))), sayBtn(r.zh))));
+  (DATA.course.theory[n] || []).forEach(r => box.append(el("div", { class: "rule" }, el("div", {}, el("b", {}, zh(r.s)), el("p", { class: "muted" }, zh(r.u)), el("p", { class: "ex" }, el("span", { class: "hz" }, r.zh), el("span", { class: "py pyo" }, r.py), el("span", {}, r.pt))), sayBtn(r.zh))));
   if (DATA.course.notes[n]) box.append(el("p", { class: "note" }, DATA.course.notes[n]));
 }
 function courseReading(box, n) {
@@ -243,7 +272,7 @@ function practice(box, s, items) {
     fb.className = "feedback show " + (ok ? "ok" : "no");
     fb.innerHTML = "";
     fb.append(el("b", {}, ok ? t("correct") : t("wrongAns", { a: it.type === "read" ? E.gloss(w, S.lang) : E.answerKey(it) })), " ", el("span", { class: "xpd" }, (x >= 0 ? "+" : "") + x + " XP"));
-    if (it.type === "gap") fb.append(el("div", {}, it.g.ex), el("div", { class: "hz full" }, it.g.full), el("div", { class: "py" }, it.g.py));
+    if (it.type === "gap") fb.append(el("div", {}, zh(it.g.ex)), el("div", { class: "hz full" }, it.g.full), el("div", { class: "py" }, it.g.py));
     else if (it.type === "order") fb.append(el("div", { class: "hz full" }, it.s.zh), el("div", { class: "py" }, it.s.py));
     else if (w) fb.append(el("div", { class: "full" }, el("span", { class: "hz" }, w.z), " ", el("span", { class: "py" }, w.p), " — ", E.gloss(w, S.lang)));
     if (extra && extra.msg) fb.append(el("div", { class: "muted" }, extra.msg));
@@ -258,19 +287,19 @@ function practice(box, s, items) {
   const mc = (prompt, opts) => {
     card.append(prompt);
     const key = E.answerKey(it);
-    const grid = el("div", { class: "opts" });
-    opts.forEach(o => { if (CUR.removed.includes(o.key)) return; grid.append(el("button", { class: "opt", onclick: e => { const ok = o.key === key; grid.querySelectorAll(".opt").forEach(b => { if (b.dataset.k === key) b.classList.add("ok"); }); if (!ok) e.currentTarget.classList.add("no"); finish(ok); }, "data-k": o.key }, el("span", { class: /[\u4e00-\u9fff]/.test(o.label) ? "hz" : "" }, o.label), o.py && S.py ? el("small", { class: "py" }, o.py) : null)); });
+    const grid = el("div", { class: "opts", "data-nopy": it.type === "listen" || it.type === "pinyin" ? "" : null });
+    opts.forEach(o => { if (CUR.removed.includes(o.key)) return; grid.append(el("button", { class: "opt", onclick: e => { const ok = o.key === key; grid.querySelectorAll(".opt").forEach(b => { if (b.dataset.k === key) b.classList.add("ok"); }); if (!ok) e.currentTarget.classList.add("no"); finish(ok); }, "data-k": o.key }, /[\u4e00-\u9fff]/.test(o.label) ? el("span", { class: "hz" }, zh(o.label, it.type === "listen" || it.type === "pinyin" ? false : undefined)) : el("span", {}, o.label))); });
     card.append(grid);
     if (MODES[S.mode].hint && S.inv.lens > 0 && !CUR.done && opts.length > 2) card.append(el("button", { class: "btn ghost small act", onclick: () => { S.inv.lens--; CUR.hint = true; CUR.removed = E.shuffle(opts.filter(o => o.key !== key)).slice(0, 2).map(o => o.key); save(); render(); } }, "🔍 " + t("lens", { n: S.inv.lens })));
     if (CUR.hint) card.append(el("p", { class: "muted small" }, t("lensUsed")));
   };
   const opts = E.options(it, S.lang, CUR.seed);
   if (it.type === "read") mc(el("div", { class: "prompt center" }, el("div", { class: "tzg-row" }, [...w.z].map(c => el("div", { class: "tzg" }, el("span", { class: "hz" }, c)))), el("div", { class: "py pyo" }, w.p)), opts);
-  else if (it.type === "pinyin") mc(el("div", { class: "prompt center" }, el("div", { class: "tzg-row" }, [...w.z].map(c => el("div", { class: "tzg" }, el("span", { class: "hz" }, c)))), el("div", { class: "muted" }, E.gloss(w, S.lang))), opts);
+  else if (it.type === "pinyin") mc(el("div", { class: "prompt center", "data-nopy": "" }, el("div", { class: "tzg-row" }, [...w.z].map(c => el("div", { class: "tzg" }, el("span", { class: "hz" }, c)))), el("div", { class: "muted" }, E.gloss(w, S.lang))), opts);
   else if (it.type === "translate") mc(el("div", { class: "prompt center big-gloss" }, E.gloss(w, S.lang)), opts.map(o => ({ ...o, py: null })));
   else if (it.type === "listen") { mc(el("div", { class: "prompt center" }, el("button", { class: "btn act", onclick: () => say(w.z) }, "▶ " + t("playAgain"))), opts.map(o => ({ ...o, py: null }))); if (!CUR.played) { CUR.played = true; setTimeout(() => say(w.z), 300); } }
-  else if (it.type === "gap") mc(el("div", { class: "prompt" }, el("span", { class: "hz" }, it.g.s)), opts);
-  else if (it.type === "rq") { const r = DATA.course.read[it.r]; card.append(el("details", { class: "ctx" }, el("summary", {}, r.t), el("ol", { class: "dlg" }, r.lines.map(l => el("li", {}, el("span", { class: "sp " + l.sp }, l.sp), el("div", {}, el("span", { class: "hz" }, l.zh), el("div", { class: "py pyo" }, l.py))))))); mc(el("div", { class: "prompt" }, it.q.q), opts); }
+  else if (it.type === "gap") mc(el("div", { class: "prompt" }, el("span", { class: "hz" }, zh(it.g.s))), opts);
+  else if (it.type === "rq") { const r = DATA.course.read[it.r]; card.append(el("details", { class: "ctx" }, el("summary", {}, r.t), el("ol", { class: "dlg" }, r.lines.map(l => el("li", {}, el("span", { class: "sp " + l.sp }, l.sp), el("div", {}, el("span", { class: "hz" }, l.zh), el("div", { class: "py pyo" }, l.py))))))); mc(el("div", { class: "prompt" }, zh(it.q.q)), opts); }
   else if (it.type === "order") orderBody(card, it, finish);
   else if (it.type === "speak") speakBody(card, it, w, finish);
   else if (it.type === "write") writeBody(card, it, w, opts, finish, mc);
@@ -286,8 +315,8 @@ function orderBody(card, it, finish) {
   const draw = () => {
     slot.innerHTML = ""; pool.innerHTML = "";
     if (!CUR.order.length) slot.append(el("span", { class: "muted" }, t("tapWords")));
-    CUR.order.forEach((o, k) => slot.append(el("button", { class: "tok hz", disabled: CUR.done, onclick: () => { CUR.order.splice(k, 1); draw(); } }, o.x)));
-    CUR.pool.filter(p => !CUR.order.includes(p)).forEach(p => pool.append(el("button", { class: "tok hz", disabled: CUR.done, onclick: () => { CUR.order.push(p); draw(); } }, p.x)));
+    CUR.order.forEach((o, k) => slot.append(el("button", { class: "tok hz", disabled: CUR.done, onclick: () => { CUR.order.splice(k, 1); draw(); } }, zh(o.x))));
+    CUR.pool.filter(p => !CUR.order.includes(p)).forEach(p => pool.append(el("button", { class: "tok hz", disabled: CUR.done, onclick: () => { CUR.order.push(p); draw(); } }, zh(p.x))));
     chk.disabled = CUR.done || CUR.order.length !== it.s.t.length;
   };
   const chk = el("button", { class: "btn act", onclick: () => { const got = CUR.order.map(o => o.x).join(""); finish(got === it.s.t.join("") || (it.s.alt && got === it.s.alt)); } }, t("check"));
@@ -300,8 +329,17 @@ function speakBody(card, it, w, finish) {
   card.append(el("div", { class: "prompt center" }, el("div", { class: "tzg-row" }, [...w.z].map(c => el("div", { class: "tzg" }, el("span", { class: "hz" }, c)))), el("div", { class: "py pyo" }, w.p), el("div", { class: "muted" }, E.gloss(w, S.lang))));
   const btn = el("button", { class: "btn act", onclick: () => {
     const r = new SR(); r.lang = "zh-CN"; r.maxAlternatives = 5; r.interimResults = false; btn.textContent = t("speakListening"); btn.disabled = true;
-    r.onresult = e => { const alts = [...e.results[0]].map(a => a.transcript.replace(/[\s，。？！,.?!]/g, "")); heard.textContent = t("speakHeard", { x: alts[0] || "" }); finish(alts.some(a => a.includes(w.z)), { log: { heard: alts.slice(0, 3) }, msg: t("speakHeard", { x: alts[0] || "" }) }); };
-    r.onerror = r.onend = () => { if (!CUR.done) { btn.disabled = false; btn.textContent = t("speakStart"); heard.textContent = t("speakNone"); } };
+    r.onresult = e => {
+      const alts = [...e.results[0]].map(a => a.transcript.replace(/[\s，。？！,.?!]/g, ""));
+      heard.textContent = t("speakHeard", { x: alts[0] || "" });
+      /* resultado sem nenhum caractere chinês: o reconhecimento não está em chinês; não conta, deixa tentar de novo */
+      if (!alts.some(a => /[\u4e00-\u9fff]/.test(a))) { CUR.notZh = true; btn.disabled = false; btn.textContent = "🎙️ " + t("speakStart"); heard.textContent = t("speakNotZh", { x: alts[0] || "" }); return; }
+      /* aceita a palavra escrita igual ou um homófono (mesmas sílabas sem tom), já que o reconhecimento escolhe um dos caracteres possíveis */
+      const alvo = E.toneless(w.p), ok = alts.some(a => a.includes(w.z) || E.toneless(E.pinyinOf(a)).includes(alvo));
+      btn.textContent = "🎙️ " + t("speakStart");
+      finish(ok, { log: { heard: alts.slice(0, 3) }, msg: t("speakHeard", { x: alts[0] || "" }) + " (" + E.pinyinOf(alts[0] || "") + ")" });
+    };
+    r.onerror = r.onend = () => { if (!CUR.done && !CUR.notZh) { btn.disabled = false; btn.textContent = "🎙️ " + t("speakStart"); heard.textContent = t("speakNone"); } CUR.notZh = false; };
     try { r.start(); } catch (e) { btn.disabled = false; }
   } }, "🎙️ " + t("speakStart"));
   card.append(el("div", { class: "row center" }, el("button", { class: "btn ghost act", onclick: () => say(w.z) }, "▶"), btn, el("button", { class: "btn ghost act", onclick: () => { CUR = null; render(); } }, t("skip"))), heard);
