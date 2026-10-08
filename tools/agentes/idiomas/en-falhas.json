@@ -1,106 +1,10 @@
 [
  {
-  "src": "Limitam o alcance do fato: 只 = 'só/apenas', 一共 = 'no total', 到处 = 'em toda parte', 一块儿 = 'juntos'.",
-  "why": "resposta fora do formato"
- },
- {
   "src": "固定格式: X什么(的) (listas vagas)",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "quando acontece",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "ir (futuro) / querer",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "estação",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "怎样 + verbo = 'como fazer tal coisa' (modo). '这件事怎样办?' = como resolver isso.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "banco",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "咱们 inclui quem fala e quem ouve ('a gente/nós dois'); 我们 pode deixar o ouvinte de fora. 别人 é 'os outros / outra pessoa'.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "ir de (sentado, tipo poltrona)",
-  "why": "resposta fora do formato"
+  "why": "perdeu 固定格式"
  },
  {
   "src": "存现句: lugar+V+complemento+(了)+quantidade+ser/coisa (aparecer)",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "meia",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "老 antes do sobrenome é um apelido familiar (老张、小李). Já 家、子、员 são sufixos que formam palavras: 作家 (quem vive de uma atividade), 桌子 (nominaliza), 演员 (pessoa de um cargo/grupo).",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "par",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "'Ao que parece': 看起来 / 看上去 = 'parece que'; 在 X 看来 = 'na opinião de X'.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "东、南、西、北 dão pontos cardeais e, com -方/-边, viram 'região/lado': 南方 (o Sul), 东方 (o Oriente). 中间 é 'o meio'.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "Sujeito sofre a ação. 被 + agente + verbo + complemento; o verbo não fica 'seco'. 被/让/叫 dão passiva.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "为 = em prol de; 向 = a/para alguém (direção da fala); 关于 = 'sobre' um assunto.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "一次一次 = 'uma vez após outra' (repetição distributiva). 很多/非常 não tomam 地 antes do verbo, e 一起 daria 'todos juntos', não 'várias vezes'.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "Além de ênfase em modo/tempo, a moldura 是…的 reforça avaliação: 我是喜欢这个决定的 (gostar é que eu gosto).",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "'Além de X, (o resto) também/todos...' — 除了 marca o que fica fora ou se soma ao resto; 以外 (opcional) fecha o trecho.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "Vêm antes do verbo principal para dar necessidade, conveniência ou vontade. 得 (děi) é obrigação concreta ('ter de'); 愿意 é disposição ('ter vontade de').",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "从 X 起 = 'a partir de X' (marco temporal). 把/被/让 deslocam objeto ou marcam passiva/causativo e não abrem marco de tempo.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "主谓短语 como sujeito: '你晚一点儿' (o fato de você atrasar um pouco). As demais ordens não formam a oração-sujeito.",
-  "why": "perdeu 主谓短语"
- },
- {
-  "src": "大概 anteposto ao número/quantidade indica valor aproximado: 大概三个 ('mais ou menos três'), 大概下午三点.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "打扫干净 = verbo + complemento de resultado ('limpar e deixar limpo'). 得 pediria um complemento de grau depois (打扫得很干净), e 很/地 não podem fechar o resultado do verbo.",
-  "why": "resposta fora do formato"
- },
- {
-  "src": "选择复句: 一会儿……,一会儿…… (ora... ora...)",
-  "why": "resposta fora do formato"
+  "why": "perdeu 存现句"
  }
 ]
