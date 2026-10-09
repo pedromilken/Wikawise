@@ -1,10 +1,12 @@
 [
  {
   "src": "固定格式: X什么(的) (listas vagas)",
+  "tgt": "Fixed format: X什么(的) (empty lists)",
   "why": "perdeu 固定格式"
  },
  {
   "src": "存现句: lugar+V+complemento+(了)+quantidade+ser/coisa (aparecer)",
+  "tgt": "Existential sentence: place+V+complement+(了)+quantity+person/thing (appear)",
   "why": "perdeu 存现句"
  }
 ]
